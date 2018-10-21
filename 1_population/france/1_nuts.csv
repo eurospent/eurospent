@@ -1,0 +1,101 @@
+nuts1_name,nuts1,nuts2_name,nuts2,nuts3_name,nuts3
+Île de France,FR1,Île de France,FR10,Paris,FR101
+Île de France,FR1,Île de France,FR10,Seine-et-Marne,FR102
+Île de France,FR1,Île de France,FR10,Yvelines,FR103
+Île de France,FR1,Île de France,FR10,Essonne,FR104
+Île de France,FR1,Île de France,FR10,Hauts-de-Seine,FR105
+Île de France,FR1,Île de France,FR10,Seine-Saint-Denis,FR106
+Île de France,FR1,Île de France,FR10,Val-de-Marne,FR107
+Île de France,FR1,Île de France,FR10,Val-d'Oise,FR108
+Bassin Parisien,FR2,Champagne-Ardenne,FR21,Ardennes,FR211
+Bassin Parisien,FR2,Champagne-Ardenne,FR21,Aube,FR212
+Bassin Parisien,FR2,Champagne-Ardenne,FR21,Marne,FR213
+Bassin Parisien,FR2,Champagne-Ardenne,FR21,Haute-Marne,FR214
+Bassin Parisien,FR2,Picardie,FR22,Aisne,FR221
+Bassin Parisien,FR2,Picardie,FR22,Oise,FR222
+Bassin Parisien,FR2,Picardie,FR22,Somme,FR223
+Bassin Parisien,FR2,Haute-Normandie,FR23,Eure,FR231
+Bassin Parisien,FR2,Haute-Normandie,FR23,Seine-Maritime,FR232
+Bassin Parisien,FR2,Centre,FR24,Cher,FR241
+Bassin Parisien,FR2,Centre,FR24,Eure-et-Loir,FR242
+Bassin Parisien,FR2,Centre,FR24,Indre,FR243
+Bassin Parisien,FR2,Centre,FR24,Indre-et-Loire,FR244
+Bassin Parisien,FR2,Centre,FR24,Loir-et-Cher,FR245
+Bassin Parisien,FR2,Centre,FR24,Loiret,FR246
+Bassin Parisien,FR2,Basse-Normandie,FR25,Calvados,FR251
+Bassin Parisien,FR2,Basse-Normandie,FR25,Manche,FR252
+Bassin Parisien,FR2,Basse-Normandie,FR25,Orne,FR253
+Bassin Parisien,FR2,Bourgogne,FR26,Côte-d'Or,FR261
+Bassin Parisien,FR2,Bourgogne,FR26,Nièvre,FR262
+Bassin Parisien,FR2,Bourgogne,FR26,Saône-et-Loire,FR263
+Bassin Parisien,FR2,Bourgogne,FR26,Yonne,FR264
+Nord - Pas-de-Calais,FR3,Nord - Pas-de-Calais,FR30,Nord,FR301
+Nord - Pas-de-Calais,FR3,Nord - Pas-de-Calais,FR30,Pas-de-Calais,FR302
+Est,FR4,Lorraine,FR41,Meurthe-et-Moselle,FR411
+Est,FR4,Lorraine,FR41,Meuse,FR412
+Est,FR4,Lorraine,FR41,Moselle,FR413
+Est,FR4,Lorraine,FR41,Vosges,FR414
+Est,FR4,Alsace,FR42,Bas-Rhin,FR421
+Est,FR4,Alsace,FR42,Haut-Rhin,FR422
+Est,FR4,Franche-Comté,FR43,Doubs,FR431
+Est,FR4,Franche-Comté,FR43,Jura,FR432
+Est,FR4,Franche-Comté,FR43,Haute-Saône,FR433
+Est,FR4,Franche-Comté,FR43,Territoire de Belfort,FR434
+Ouest,FR5,Pays de la Loire,FR51,Loire-Atlantique,FR511
+Ouest,FR5,Pays de la Loire,FR51,Maine-et-Loire,FR512
+Ouest,FR5,Pays de la Loire,FR51,Mayenne,FR513
+Ouest,FR5,Pays de la Loire,FR51,Sarthe,FR514
+Ouest,FR5,Pays de la Loire,FR51,Vendée,FR515
+Ouest,FR5,Bretagne,FR52,Côtes-d'Armor,FR521
+Ouest,FR5,Bretagne,FR52,Finistère,FR522
+Ouest,FR5,Bretagne,FR52,Ille-et-Vilaine,FR523
+Ouest,FR5,Bretagne,FR52,Morbihan,FR524
+Ouest,FR5,Poitou-Charentes,FR53,Charente,FR531
+Ouest,FR5,Poitou-Charentes,FR53,Charente-Maritime,FR532
+Ouest,FR5,Poitou-Charentes,FR53,Deux-Sèvres,FR533
+Ouest,FR5,Poitou-Charentes,FR53,Vienne,FR534
+Sud-Ouest,FR6,Aquitaine,FR61,Dordogne,FR611
+Sud-Ouest,FR6,Aquitaine,FR61,Gironde,FR612
+Sud-Ouest,FR6,Aquitaine,FR61,Landes,FR613
+Sud-Ouest,FR6,Aquitaine,FR61,Lot-et-Garonne,FR614
+Sud-Ouest,FR6,Aquitaine,FR61,Pyrénées-Atlantiques,FR615
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Ariège,FR621
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Aveyron,FR622
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Haute-Garonne,FR623
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Gers,FR624
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Lot,FR625
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Hautes-Pyrénées,FR626
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Tarn,FR627
+Sud-Ouest,FR6,Midi-Pyrénées,FR62,Tarn-et-Garonne,FR628
+Sud-Ouest,FR6,Limousin,FR63,Corrèze,FR631
+Sud-Ouest,FR6,Limousin,FR63,Creuse,FR632
+Sud-Ouest,FR6,Limousin,FR63,Haute-Vienne,FR633
+Centre-Est,FR7,Rhône-Alpes,FR71,Ain,FR711
+Centre-Est,FR7,Rhône-Alpes,FR71,Ardèche,FR712
+Centre-Est,FR7,Rhône-Alpes,FR71,Drôme,FR713
+Centre-Est,FR7,Rhône-Alpes,FR71,Isère,FR714
+Centre-Est,FR7,Rhône-Alpes,FR71,Loire,FR715
+Centre-Est,FR7,Rhône-Alpes,FR71,Rhône,FR716
+Centre-Est,FR7,Rhône-Alpes,FR71,Savoie,FR717
+Centre-Est,FR7,Rhône-Alpes,FR71,Haute-Savoie,FR718
+Centre-Est,FR7,Auvergne,FR72,Allier,FR721
+Centre-Est,FR7,Auvergne,FR72,Cantal,FR722
+Centre-Est,FR7,Auvergne,FR72,Haute-Loire,FR723
+Centre-Est,FR7,Auvergne,FR72,Puy-de-Dôme,FR724
+Méditerranée,FR8,Languedoc-Roussillon,FR81,Aude,FR811
+Méditerranée,FR8,Languedoc-Roussillon,FR81,Gard,FR812
+Méditerranée,FR8,Languedoc-Roussillon,FR81,Hérault,FR813
+Méditerranée,FR8,Languedoc-Roussillon,FR81,Lozère,FR814
+Méditerranée,FR8,Languedoc-Roussillon,FR81,Pyrénées-Orientales,FR815
+Méditerranée,FR8,Provence-Alpes-Côte d'Azur,FR82,Alpes-de-Haute-Provence,FR821
+Méditerranée,FR8,Provence-Alpes-Côte d'Azur,FR82,Hautes-Alpes,FR822
+Méditerranée,FR8,Provence-Alpes-Côte d'Azur,FR82,Alpes-Maritimes,FR823
+Méditerranée,FR8,Provence-Alpes-Côte d'Azur,FR82,Bouches-du-Rhône,FR824
+Méditerranée,FR8,Provence-Alpes-Côte d'Azur,FR82,Var,FR825
+Méditerranée,FR8,Provence-Alpes-Côte d'Azur,FR82,Vaucluse,FR826
+Méditerranée,FR8,Corse,FR83,Corse-du-Sud,FR831
+Méditerranée,FR8,Corse,FR83,Haute-Corse,FR832
+Départements d'Outre-Mer,FR9,Guadeloupe,FR91,Guadeloupe,FR910
+Départements d'Outre-Mer,FR9,Martinique,FR92,Martinique,FR920
+Départements d'Outre-Mer,FR9,Guyane,FR93,Guyane,FR930
+Départements d'Outre-Mer,FR9,Réunion,FR94,Réunion,FR940

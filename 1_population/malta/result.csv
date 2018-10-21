@@ -1,0 +1,69 @@
+nuts1_name,nuts1_code,nuts2_name,nuts2_code,nuts3_name,nuts3_code,lau1_name,lau1_code,lau2_name,lau2_code,population,territory,density
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Valletta,MT001_MT01101,6550,0.83,7901.24
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Vittoriosa,MT001_MT01103,2629,0.37,7105.4
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Senglea,MT001_MT01104,7072,0.1,67750.11
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Cospicua,MT001_MT01105,9224,0.92,9983.35
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Ħaż-Żabbar,MT001_MT01108,8058,5.24,1537.06
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Fgura,MT001_MT01117,3021,1.11,2714.06
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Floriana,MT001_MT01118,1294,0.95,1361.5
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Kalkara,MT001_MT01129,4394,2.13,2059.17
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Ħal Luqa,MT001_MT01133,9930,6.76,1468.01
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Marsa,MT001_MT01134,1967,2.99,658.42
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Paola,MT001_MT01145,11823,2.57,4604.6
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Santa Luċija,MT001_MT01157,3416,0.79,4345.54
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Ħal Tarxien,MT001_MT01162,10308,0.7,14662.29
+Malta,MT0,Malta,MT00,Malta,MT001,Southern Harbour District,MT011,Xgħajra,MT001_MT01165,507,0.86,586.77
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Ħal Qormi,MT001_MT01206,21710,4.86,4466.36
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Birkirkara,MT001_MT01214,17268,2.93,5896.3
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Gżira,MT001_MT01221,4212,0.74,5661.1
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Ħamrun,MT001_MT01227,9244,1.14,8108.77
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Msida,MT001_MT01241,6967,1.88,3704.13
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Pembroke,MT001_MT01246,3706,2.31,1602.78
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Tal-Pietà,MT001_MT01247,3674,0.22,16470.93
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,St Julian's,MT001_MT01252,3084,1.94,1591.43
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,San Ġwann,MT001_MT01253,17978,2.77,6488.92
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Santa Venera,MT001_MT01258,17449,0.76,23028.56
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Tas-Sliema,MT001_MT01259,10551,1.45,7263.62
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Swieqi,MT001_MT01260,10694,3.09,3462.63
+Malta,MT0,Malta,MT00,Malta,MT001,Northern Harbour District,MT012,Ta' Xbiex,MT001_MT01261,1006,0.16,6173.37
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Żejtun,MT001_MT01310,11891,5.34,2227.92
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Birżebbuġa,MT001_MT01315,3827,8.88,430.9
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Gudja,MT001_MT01320,2714,2.42,1123.15
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Ħal Għaxaq,MT001_MT01326,4953,3.91,1265.19
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Ħal Kirkop,MT001_MT01331,2024,1.14,1781.29
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Marsaskala,MT001_MT01335,8259,5.4,1530.63
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Marsaxlokk,MT001_MT01336,2822,5.11,552.11
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Mqabba,MT001_MT01340,992,2.43,408.26
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Qrendi,MT001_MT01349,2499,5,499.76
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Ħal Safi,MT001_MT01351,2126,2.19,970.77
+Malta,MT0,Malta,MT00,Malta,MT001,South Eastern District,MT013,Żurrieq,MT001_MT01367,5578,8.18,681.57
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Mdina,MT001_MT01402,55,0.87,62.96
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Ħaż-Żebbuġ,MT001_MT01407,11921,8.51,1401.25
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Siġġiewi,MT001_MT01409,7149,20.17,354.47
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Ħ'Attard,MT001_MT01412,11284,6.57,1716.54
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Ħal Balzan,MT001_MT01413,8669,0.46,18988.73
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Ħad-Dingli,MT001_MT01416,3396,5.85,580.69
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Iklin,MT001_MT01428,1585,1.43,1108.51
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Ħal Lija,MT001_MT01432,3385,1.06,3186.73
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Rabat,MT001_MT01450,14419,27.33,527.56
+Malta,MT0,Malta,MT00,Malta,MT001,Western District,MT014,Mtarfa,MT001_MT01468,2572,0.77,3340.25
+Malta,MT0,Malta,MT00,Malta,MT001,Northern District,MT015,Ħal Għargħur,MT001_MT01524,3916,1.97,1983.7
+Malta,MT0,Malta,MT00,Malta,MT001,Northern District,MT015,Mellieħa,MT001_MT01537,7743,23.5,329.54
+Malta,MT0,Malta,MT00,Malta,MT001,Northern District,MT015,Mġarr,MT001_MT01538,3062,15.83,193.4
+Malta,MT0,Malta,MT00,Malta,MT001,Northern District,MT015,Mosta,MT001_MT01539,19897,7.03,2831.44
+Malta,MT0,Malta,MT00,Malta,MT001,Northern District,MT015,Naxxar,MT001_MT01544,9169,11.49,797.81
+Malta,MT0,Malta,MT00,Malta,MT001,Northern District,MT015,St Paul's Bay,MT001_MT01555,15693,14.54,1079.33
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Victoria,MT002_MT02611,5670,3.38,1677.9
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Fontana,MT002_MT02619,985,0.1,9850
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Għajnsielem And Comino,MT002_MT02622,2389,7.11,336.17
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Għarb,MT002_MT02623,1439,4.76,302.04
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Għasri,MT002_MT02625,364,5.35,68.03
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Ta' Kerċem,MT002_MT02630,3067,4.98,616.12
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Munxar,MT002_MT02642,1111,3.02,367.89
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Nadur,MT002_MT02643,4215,7.18,586.95
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Qala,MT002_MT02648,1594,5.9,270.13
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,San Lawrenz,MT002_MT02654,600,3.33,180.29
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Ta' Sannat,MT002_MT02656,2449,3.83,639.12
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Xagħra,MT002_MT02663,3835,7.56,507.1
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Xewkija,MT002_MT02664,2417,4.33,558.28
+Malta,MT0,Malta,MT00,Gozo and Comino,MT002,Gozo and Comino District,MT026,Żebbuġ,MT002_MT02666,1829,7.41,246.9

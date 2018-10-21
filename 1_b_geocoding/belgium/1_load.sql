@@ -1,0 +1,2 @@
+\cd :filepath
+\copy public.geocode (beneficiary_id,query_country_code,query_country,query_type,query_state,query_region,query_county,query_city,query_postal_code,query_address,result_lat,result_long,geocoded) FROM '1_geocode.csv' WITH DELIMITER ',' QUOTE '"' CSV HEADER;

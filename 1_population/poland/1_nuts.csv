@@ -1,0 +1,67 @@
+nuts1_name,nuts1,nuts2_name,nuts2,nuts3_name,nuts3
+REGION CENTRALNY,PL1,Łódzkie,PL11,Miasto Łódź,PL113
+REGION CENTRALNY,PL1,Łódzkie,PL11,Łódzki,PL114
+REGION CENTRALNY,PL1,Łódzkie,PL11,Piotrkowski,PL115
+REGION CENTRALNY,PL1,Łódzkie,PL11,Sieradzki,PL116
+REGION CENTRALNY,PL1,Łódzkie,PL11,Skierniewicki,PL117
+REGION CENTRALNY,PL1,Mazowieckie,PL12,Ciechanowsko-płocki,PL121
+REGION CENTRALNY,PL1,Mazowieckie,PL12,Ostrołęcko-siedlecki,PL122
+REGION CENTRALNY,PL1,Mazowieckie,PL12,Miasto Warszawa,PL127
+REGION CENTRALNY,PL1,Mazowieckie,PL12,Radomski,PL128
+REGION CENTRALNY,PL1,Mazowieckie,PL12,Warszawski-wschodni,PL129
+REGION CENTRALNY,PL1,Mazowieckie,PL12,Warszawski-zachodni,PL12A
+REGION POŁUDNIOWY,PL2,Małopolskie,PL21,Miasto Kraków,PL213
+REGION POŁUDNIOWY,PL2,Małopolskie,PL21,Krakowski,PL214
+REGION POŁUDNIOWY,PL2,Małopolskie,PL21,Nowosądecki,PL215
+REGION POŁUDNIOWY,PL2,Małopolskie,PL21,Oświęcimski,PL216
+REGION POŁUDNIOWY,PL2,Małopolskie,PL21,Tarnowski,PL217
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Częstochowski,PL224
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Bielski,PL225
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Rybnicki,PL227
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Bytomski,PL228
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Gliwicki,PL229
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Katowicki,PL22A
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Sosnowiecki,PL22B
+REGION POŁUDNIOWY,PL2,Śląskie,PL22,Tyski,PL22C
+REGION WSCHODNI,PL3,Lubelskie,PL31,Bialski,PL311
+REGION WSCHODNI,PL3,Lubelskie,PL31,Chełmsko-zamojski,PL312
+REGION WSCHODNI,PL3,Lubelskie,PL31,Lubelski,PL314
+REGION WSCHODNI,PL3,Lubelskie,PL31,Puławski,PL315
+REGION WSCHODNI,PL3,Podkarpackie,PL32,Krośnieński,PL323
+REGION WSCHODNI,PL3,Podkarpackie,PL32,Przemyski,PL324
+REGION WSCHODNI,PL3,Podkarpackie,PL32,Rzeszowski,PL325
+REGION WSCHODNI,PL3,Podkarpackie,PL32,Tarnobrzeski,PL326
+REGION WSCHODNI,PL3,Świętokrzyskie,PL33,Kielecki,PL331
+REGION WSCHODNI,PL3,Świętokrzyskie,PL33,Sandomiersko-jędrzejowski,PL332
+REGION WSCHODNI,PL3,Podlaskie,PL34,Białostocki,PL343
+REGION WSCHODNI,PL3,Podlaskie,PL34,Łomżyński,PL344
+REGION WSCHODNI,PL3,Podlaskie,PL34,Suwalski,PL345
+REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Pilski,PL411
+REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Koniński,PL414
+REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Miasto Poznań,PL415
+REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Kaliski,PL416
+REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Leszczyński,PL417
+REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Poznański,PL418
+REGION PÓŁNOCNO-ZACHODNI,PL4,Zachodniopomorskie,PL42,Koszaliński,PL422
+REGION PÓŁNOCNO-ZACHODNI,PL4,Zachodniopomorskie,PL42,Stargardzki,PL423
+REGION PÓŁNOCNO-ZACHODNI,PL4,Zachodniopomorskie,PL42,Miasto Szczecin,PL424
+REGION PÓŁNOCNO-ZACHODNI,PL4,Zachodniopomorskie,PL42,Szczeciński,PL425
+REGION PÓŁNOCNO-ZACHODNI,PL4,Lubuskie,PL43,Gorzowski,PL431
+REGION PÓŁNOCNO-ZACHODNI,PL4,Lubuskie,PL43,Zielonogórski,PL432
+REGION POŁUDNIOWO-ZACHODNI,PL5,Dolnośląskie,PL51,Miasto Wrocław,PL514
+REGION POŁUDNIOWO-ZACHODNI,PL5,Dolnośląskie,PL51,Jeleniogórski,PL515
+REGION POŁUDNIOWO-ZACHODNI,PL5,Dolnośląskie,PL51,Legnicko-Głogowski,PL516
+REGION POŁUDNIOWO-ZACHODNI,PL5,Dolnośląskie,PL51,Wałbrzyski,PL517
+REGION POŁUDNIOWO-ZACHODNI,PL5,Dolnośląskie,PL51,Wrocławski,PL518
+REGION POŁUDNIOWO-ZACHODNI,PL5,Opolskie,PL52,Nyski,PL521
+REGION POŁUDNIOWO-ZACHODNI,PL5,Opolskie,PL52,Opolski,PL522
+REGION PÓŁNOCNY,PL6,Kujawsko-Pomorskie,PL61,Bydgosko-Toruński,PL613
+REGION PÓŁNOCNY,PL6,Kujawsko-Pomorskie,PL61,Grudziądzki,PL614
+REGION PÓŁNOCNY,PL6,Kujawsko-Pomorskie,PL61,Włocławski,PL615
+REGION PÓŁNOCNY,PL6,Warmińsko-Mazurskie,PL62,Elbląski,PL621
+REGION PÓŁNOCNY,PL6,Warmińsko-Mazurskie,PL62,Olsztyński,PL622
+REGION PÓŁNOCNY,PL6,Warmińsko-Mazurskie,PL62,Ełcki,PL623
+REGION PÓŁNOCNY,PL6,Pomorskie,PL63,Słupski,PL631
+REGION PÓŁNOCNY,PL6,Pomorskie,PL63,Trójmiejski,PL633
+REGION PÓŁNOCNY,PL6,Pomorskie,PL63,Gdański,PL634
+REGION PÓŁNOCNY,PL6,Pomorskie,PL63,Starogardzki,PL635
