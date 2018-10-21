@@ -1,0 +1,1 @@
+source 5_local_db_cred.sh && cat ../5_geocode_result_table.sql ../5_load_geocode_result.sql | psql -v filepath=$(PWD) -f -

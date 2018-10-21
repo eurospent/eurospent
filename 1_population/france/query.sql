@@ -1,0 +1,54 @@
+WITH
+lau1_codes AS (
+	SELECT distinct lau1, lau1_name 
+	FROM "1_lau1"
+),
+fix_territory AS (
+	SELECT "NUTS_3_2013_CODE", "LAU1_NAT_CODE", "LAU2_NAT_CODE", "AREA"
+	FROM 	"1_territory"
+	UNION SELECT 'FR414', '8801', '88282', '3530000'
+	UNION SELECT 'FR512', '4904', '49213', '4490000'
+	UNION SELECT 'FR512', '4904', '49303', '13180000'
+	UNION SELECT 'FR533', '7902', '79356', '17410000'
+	UNION SELECT 'FR716', '6930', '69025', '14490000'
+	UNION SELECT 'FR716', '6930', '69041', '5790000'
+	UNION SELECT 'FR822', '0519', '05002', '32460000'
+	UNION SELECT 'FR512', '4911', '49199', '22700000'
+	UNION SELECT 'FR512', '4904', '49245', '24170000'
+	UNION SELECT 'FR512', '4904', '49372', '28630000'
+	UNION SELECT 'FR512', '4904', '49380', '27650000'
+	UNION SELECT 'FR533', '7906', '79353', '37190000'
+	UNION SELECT 'FR716', '6930', '69128', '13470000'
+	UNION SELECT 'FR716', '6930', '69129', '8750000'
+	UNION SELECT 'FR716', '6903', '69144', '2020000'
+	UNION SELECT 'FR822', '0518', '05020', '12150000'
+	UNION SELECT 'FR822', '0519', '05042', '40150000'
+	UNION SELECT 'FR822', '0518', '05067', '8690000'
+	UNION SELECT 'FR822', '0519', '05138', '45890000'
+),
+
+base AS (
+	SELECT *
+	FROM "1_nuts" AS n
+	LEFT JOIN "1_population" AS p ON p.shape_lau LIKE 'FR%' AND p.shape_lau LIKE n.nuts3 || '%'
+	LEFT JOIN "fix_territory" AS t ON p.lau = t."LAU2_NAT_CODE"	
+	LEFT JOIN "lau1_codes" AS l ON (t."LAU1_NAT_CODE" NOT LIKE '97%' AND t."LAU1_NAT_CODE" = l.lau1)
+	 OR (t."LAU1_NAT_CODE" LIKE '97%' AND (SUBSTRING(t."LAU1_NAT_CODE", 0,3) || SUBSTRING(t."NUTS_3_2013_CODE", 4,1) || SUBSTRING(t."LAU1_NAT_CODE", 3,2)) = l.lau1)
+	
+)
+
+SELECT 
+	nuts1_name,
+	nuts1 AS nuts1_code,
+	nuts2_name,
+	nuts2 AS nuts2_code,
+	nuts3_name,
+	nuts3 AS nuts3_code,
+	lau1_name AS lau1_name,
+	lau1 AS lau1_code,
+	"name" AS lau2_name,
+	shape_lau AS lau2_code,
+	population,
+	round("AREA"::BIGINT * 1.0 / 1000000, 2) AS territory,
+	round((population::BIGINT * 1.0) / ("AREA"::BIGINT * 1.0 / 1000000), 2) AS density
+FROM base

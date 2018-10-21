@@ -1,0 +1,11 @@
+Tried solutions:
+- tried to match locations by files -> impossible, too random, too much work, maybe 1-2 file has some rule, but random results too
+- needed to separate the steps, because it was really slow
+- unaccent on bose side 
+- tried match with ILIKE '%loc_name%' - too many results, mid text matches
+- extended matches for project name too
+- generate new rule based location names (separate by ',') - needed becuase the original lau name was unusable
+- tried to filter the matches by nuts2 - lot of missing result, plus still wrong matches
+- tried complete worrds with new rule based matches with ILIKE  (beging of the text followed by space, befare after space, end of the text followed by space)
+- extended the prvious matches with bracket rules -> still random matches
+- filterd the results by nuts2, and for ERDF (ESF too many names)

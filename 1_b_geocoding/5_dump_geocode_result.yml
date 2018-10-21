@@ -1,0 +1,30 @@
+source:
+  source: Database
+  url: postgresql://
+  encoding: "UTF-8"
+  fields:
+    - name: beneficiary_id
+    - name: query_country_code
+    - name: query_country
+    - name: query_type
+    - name: query_state
+    - name: query_region
+    - name: query_county
+    - name: query_city
+    - name: query_postal_code
+    - name: query_address
+    - name: result_country
+    - name: result_region
+    - name: result_county
+    - name: result_city
+    - name: result_postal_code
+    - name: result_street
+    - name: result_number
+    - name: result_full_address
+    - name: result_lat
+    - name: result_long
+    - name: geocoded
+    - name: lau
+
+target:
+  type: CSV

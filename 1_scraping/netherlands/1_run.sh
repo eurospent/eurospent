@@ -1,0 +1,1 @@
+scrapy runspider 1_scrape.py -o 1_erdf_transactions.csv -t csv

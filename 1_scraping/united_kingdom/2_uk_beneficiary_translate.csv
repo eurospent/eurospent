@@ -1,0 +1,669 @@
+organization,org_type,units,codes,distribution_type
+NATIONAL BUSINESS COLLEGE LIMITED 107164,college,"South Yorkshire, West Yorkshire","UKE3,UKE4",nuts2
+North Highland College,college,Highlands and Islands,UKM6,nuts2
+UNIVERSITY HOSPITALS OF LEICESTER NATIONAL 118354,college,Leicester,UKF21,nuts3
+University Of The West Of England,college,"Bristol, City of",UKK11,nuts3
+University of Wales,college,Cardiff and Vale of Glamorgan,UKL22,nuts3
+University of Wales Newport,college,Monmouthshire and Newport,UKL21,nuts3
+University of the Highlands and Islands,college,Highlands and Islands,UKM6,nuts2
+University of the West of Scotland,college,South Western Scotland,UKM3,nuts2
+West Highland College,college,Highlands and Islands,UKM6,nuts2
+BEDFORD COLLEGE 106319,college,Bedford,UKH24,nuts3
+BIRMINGHAM METROPOLITAN COLLEGE 106368,college,Birmingham,UKG31,nuts3
+BLACKPOOL AND THE FYLDE COLLEGE 108529,college,Blackpool,UKD42,nuts3
+"BOURNEMOUTH AND POOLE COLLEGE, THE 106532",college,Bournemouth and Poole,UKK21,nuts3
+BRADFORD COLLEGE 108311,college,Bradford,UKE41,nuts3
+BURTON AND SOUTH DERBYSHIRE COLLEGE 105347,college,Derby,UKF11,nuts3
+Bedford College,college,Bedford,UKH24,nuts3
+Belfast Bible College Limited,college,Belfast,UKN01,nuts3
+Belfast Metropolitan College,college,Belfast,UKN01,nuts3
+Birmingham Metropolitan College,college,Birmingham,UKG31,nuts3
+CASTLE COLLEGE NOTTINGHAM 106977,college,Nottingham,UKF14,nuts3
+CENTRAL BEDFORDSHIRE COLLEGE 105017,college,Central Bedfordshire,UKH25,nuts3
+CENTRAL COLLEGE NOTTINGHAM 108485,college,Nottingham,UKF14,nuts3
+COVENTRY UNIVERSITY 108253,college,Coventry,UKG33,nuts3
+Castle College Nottingham,college,Nottingham,UKF14,nuts3
+Central Bedfordshire College,college,Central Bedfordshire,UKH25,nuts3
+Coventry University,college,Coventry,UKG33,nuts3
+Coventry University (Health Design and Technology Institute),college,Coventry,UKG33,nuts3
+Coventry University Enterprises,college,Coventry,UKG33,nuts3
+DARLINGTON COLLEGE 105941,college,Darlington,UKC13,nuts3
+DERBY BUSINESS COLLEGE LIMITED 112490,college,Derby,UKF11,nuts3
+DERBY COLLEGE 112173,college,Derby,UKF11,nuts3
+DUDLEY COLLEGE 106374,college,Dudley,UKG36,nuts3
+Durham University,college,Durham CC,UKC14,nuts3
+EAST BERKSHIRE COLLEGE 107745,college,Berkshire,UKJ11,nuts3
+EAST DEVON COLLEGE 110213,college,Devon CC,UKK43,nuts3
+EAST DURHAM COLLEGE 108659,college,Durham CC,UKC14,nuts3
+EAST KENT COLLEGE 106743,college,Kent CC,UKJ42,nuts3
+EAST KENT HOSPITALS UNIVERSITY NHS 118570,college,Kent CC,UKJ42,nuts3
+EAST SURREY COLLEGE 110214,college,Surrey,UKJ23,nuts3
+GLOUCESTERSHIRE COLLEGE 106583,college,Gloucestershire,UKK13,nuts3
+Gower College Swansea,college,Swansea,UKL18,nuts3
+HEART OF WORCESTERSHIRE COLLEGE 106641,college,Worcestershire,UKG12,nuts3
+HENLEY COLLEGE COVENTRY 106441,college,Coventry,UKG33,nuts3
+HEREFORDSHIRE AND LUDLOW COLLEGE 106633,college,"Herefordshire, County of",UKG11,nuts3
+HIGHBURY COLLEGE PORTSMOUTH 110218,college,Portsmouth,UKJ31,nuts3
+ISLE OF WIGHT COLLEGE 108517,college,Isle of Wight,UKJ34,nuts3
+LAKES COLLEGE WEST CUMBRIA 106476,college,West Cumbria,UKD11,nuts3
+LEEDS COLLEGE OF BUILDING 107582,college,Leeds,UKE42,nuts3
+LEICESTER COLLEGE 105623,college,Leicester,UKF21,nuts3
+LIVERPOOL JOHN MOORES UNIVERSITY 108230,college,Liverpool,UKD72,nuts3
+Lancashire Colleges Consortium,college,Lancashire CC,UKD43,nuts3
+Liverpool Hope University,college,Liverpool,UKD72,nuts3
+Liverpool John Moore's University,college,Liverpool,UKD72,nuts3
+Liverpool John Moores University,college,Liverpool,UKD72,nuts3
+MID-KENT COLLEGE 106733,college,Kent CC,UKJ42,nuts3
+MILTON KEYNES COLLEGE 108653,college,Milton Keynes,UKJ12,nuts3
+NEW COLLEGE DURHAM 108661,college,Durham CC,UKC14,nuts3
+NEW COLLEGE NOTTINGHAM (NCN) 106985,college,Nottingham,UKF14,nuts3
+NEW COLLEGE SWINDON 107178,college,Swindon,UKK14,nuts3
+NORTH EAST SURREY COLLEGE OF TECHNOLOGY 108505,college,Surrey,UKJ23,nuts3
+NORTH HERTFORDSHIRE COLLEGE 105010,college,Hertfordshire,UKH23,nuts3
+NORTH KENT COLLEGE 106734,college,Kent CC,UKJ42,nuts3
+NORTH NOTTINGHAMSHIRE COLLEGE 107949,college,North Nottinghamshire,UKF15,nuts3
+NORTH SHROPSHIRE COLLEGE 108452,college,Shropshire CC,UKG22,nuts3
+NORTH WARWICKSHIRE AND HINCKLEY COLLEGE 106442,college,Warwickshire,UKG13,nuts3
+NORTHUMBERLAND COLLEGE 107495,college,Northumberland,UKC21,nuts3
+NW Kent College,college,Kent CC,UKJ42,nuts3
+New College Nottingham,college,Nottingham,UKF14,nuts3
+North West Kent College,college,Kent CC,UKJ42,nuts3
+Nottingham Trent University,college,Nottingham,UKF14,nuts3
+"PARK LANE COLLEGE, LEEDS 108500",college,Leeds,UKE42,nuts3
+PLYMOUTH COLLEGE OF ART 106513,college,Plymouth,UKK41,nuts3
+PORTSMOUTH COLLEGE 108402,college,Portsmouth,UKJ31,nuts3
+Queen's University Belfast,college,Belfast,UKN01,nuts3
+Queens University Belfast,college,Belfast,UKN01,nuts3
+Queens University Belfast (Collaborative project with Andor Technology Limited),college,Belfast,UKN01,nuts3
+Queens University Belfast 2nd collaboration for Insignia Technologies Limited,college,Belfast,UKN01,nuts3
+Queens University Belfast 2nd collaboration with Randox,college,Belfast,UKN01,nuts3
+Queens University of Belfast,college,Belfast,UKN01,nuts3
+Queens University of Belfast  2n d collaboration to Almac Discovery,college,Belfast,UKN01,nuts3
+SANDWELL COLLEGE 105110,college,Sandwell,UKG37,nuts3
+"SHEFFIELD COLLEGE, THE 106996",college,Sheffield,UKE32,nuts3
+SOLIHULL COLLEGE 106366,college,Solihull,UKG32,nuts3
+SOMERSET COLLEGE 107538,college,Somerset,UKK23,nuts3
+SOUTH DEVON COLLEGE 108487,college,Devon CC,UKK43,nuts3
+SOUTH EAST DERBYSHIRE COLLEGE 105432,college,East Derbyshire,UKF12,nuts3
+SOUTH ESSEX COLLEGE OF FURTHER AND HIGHER 106569,college,Essex CC,UKH33,nuts3
+SOUTH KENT COLLEGE 106741,college,Kent CC,UKJ42,nuts3
+SOUTH LEICESTERSHIRE COLLEGE 106775,college,Leicester,UKF21,nuts3
+SOUTH STAFFORDSHIRE COLLEGE 118791,college,Staffordshire CC,UKG24,nuts3
+SOUTH TYNESIDE COLLEGE 107121,college,Tyneside,UKC22,nuts3
+SOUTH WORCESTERSHIRE COLLEGE 109884,college,Worcestershire,UKG12,nuts3
+SUFFOLK NEW COLLEGE 107059,college,Suffolk,UKH14,nuts3
+SUNDERLAND COLLEGE 107096,college,Sunderland,UKC23,nuts3
+SWINDON COLLEGE 109044,college,Swindon,UKK14,nuts3
+Sheffield Hallam University,college,Sheffield,UKE32,nuts3
+Somerset College of Arts & Technology,college,Somerset,UKK23,nuts3
+South Devon College,college,Devon CC,UKK43,nuts3
+South Lanarkshire College,college,South Lanarkshire,UKM38,nuts3
+Swansea Metropolitan University,college,Swansea,UKL18,nuts3
+Swansea University,college,Swansea,UKL18,nuts3
+THE LANCASHIRE COLLEGES LIMITED 115080,college,Lancashire CC,UKD43,nuts3
+The University of York,college,York,UKE21,nuts3
+UNIVERSITY HOSPITAL SOUTHAMPTON NHS 118464,college,Southampton,UKJ32,nuts3
+UNIVERSITY OF DERBY 105452,college,Derby,UKF11,nuts3
+UNIVERSITY OF DURHAM 108196,college,Durham CC,UKC14,nuts3
+University Hospital Birmingham,college,Birmingham,UKG31,nuts3
+University Of Plymouth - KNOWLEDGE SPA ONLY,college,Plymouth,UKK41,nuts3
+University Of Plymouth General Account,college,Plymouth,UKK41,nuts3
+University of Bedfordshire,college,Bedford,UKH24,nuts3
+University of Birmingham,college,Birmingham,UKG31,nuts3
+University of Bradford,college,Bradford,UKE41,nuts3
+University of Central Lancashire,college,Lancashire CC,UKD43,nuts3
+University of Derby,college,Derby,UKF11,nuts3
+University of Gloucestershire,college,Gloucestershire,UKK13,nuts3
+University of Hertfordshire,college,Hertfordshire,UKH23,nuts3
+University of Hertfordshire Ventures,college,Hertfordshire,UKH23,nuts3
+University of Leeds,college,Leeds,UKE42,nuts3
+University of Leicester,college,Leicester,UKF21,nuts3
+University of Liverpool,college,Liverpool,UKD72,nuts3
+University of Nottingham,college,Nottingham,UKF14,nuts3
+University of Plymouth,college,Plymouth,UKK41,nuts3
+University of Sheffield,college,Sheffield,UKE32,nuts3
+University of Sunderland,college,Sunderland,UKC23,nuts3
+University of Wolverhampton,college,Wolverhampton,UKG39,nuts3
+WAKEFIELD COLLEGE 108440,college,Wakefield,UKE45,nuts3
+WALSALL COLLEGE 105118,college,Walsall,UKG38,nuts3
+WARWICKSHIRE COLLEGE 106448,college,Warwickshire,UKG13,nuts3
+WEST KENT AND ASHFORD COLLEGE 105603,college,Kent CC,UKJ42,nuts3
+WEST NOTTINGHAMSHIR E COLLEGE 107960,college,Nottingham,UKF14,nuts3
+WEST NOTTINGHAMSHIRE COLLEGE 107960,college,Nottingham,UKF14,nuts3
+WEST SUFFOLK COLLEGE 105936,college,Suffolk,UKH14,nuts3
+WILTSHIRE COLLEGE 109912,college,Wiltshire,UKK15,nuts3
+WIRRAL METROPOLITAN COLLEGE 108474,college,Wirral,UKD74,nuts3
+West Lothian College,college,West Lothian,UKM28,nuts3
+West Nottinghamshire College,college,Nottingham,UKF14,nuts3
+Wiltshire College,college,Wiltshire,UKK15,nuts3
+YORK COLLEGE 107575,college,York,UKE21,nuts3
+YORKSHIRE COAST COLLEGE OF FURTHER AND 106679,college,York,UKE21,nuts3
+YORKSHIRE COLLEGE OF BEAUTY LIMITED 107873,college,York,UKE21,nuts3
+York College,college,York,UKE21,nuts3
+ACCRINGTON AND ROSSENDALE COLLEGE 106762,college,Rossendale,E07000125,lau1
+AMERSHAM & WYCOMBE COLLEGE 105019,college,Wycombe,E07000007,lau1
+Angus College,college,Angus,S30000001,lau1
+BARKING AND DAGENHAM COLLEGE 106542,college,Barking and Dagenham,UKI2101,lau1
+BARNET & SOUTHGATE COLLEGE 108532,college,Barnet,UKI2301,lau1
+BARNSLEY COLLEGE 107013,college,Barnsley,E08000016,lau1
+BEXLEY COLLEGE 105658,college,Bexley,UKI2102,lau1
+BMC (BROOKSBY MELTON COLLEGE) 106763,college,Melton,E07000133,lau1
+BOLTON COLLEGE 106815,college,Bolton,E08000001,lau1
+BOSTON COLLEGE 107641,college,Boston,E07000136,lau1
+BRACKNELL AND WOKINGHAM COLLEGE 105024,college,Wokingham,E06000041,lau1
+BROMLEY ADULT EDUCATION COLLEGE 108135,college,Bromley,UKI2201,lau1
+BROMLEY COLLEGE OF FURTHER AND HIGHER 105711,college,Bromley,UKI2201,lau1
+BURNLEY COLLEGE 106751,college,Burnley,E07000117,lau1
+BURY COLLEGE 105763,college,Bury,E08000002,lau1
+Barnsley College,college,Barnsley,E08000016,lau1
+Birmingham City University (formerly UCE),college,Birmingham,E08000025,lau1
+Bishop Grosseteste University College Lincoln,college,Lincoln,E07000138,lau1
+Bromley College of Further and Higher Education Rookery Lane Bromley BR2 8HE,college,Bromley,UKI2201,lau1
+CALDERDALE COLLEGE 108325,college,Calderdale,E08000033,lau1
+CAMBRIDGE REGIONAL COLLEGE 108527,college,Cambridge,E07000008,lau1
+CANTERBURY COLLEGE 106717,college,Canterbury,E07000106,lau1
+CARLISLE COLLEGE 106454,college,Carlisle,E07000028,lau1
+CHELMSFORD COLLEGE 106563,college,Chelmsford,E07000070,lau1
+CHESTERFIELD COLLEGE 105367,college,Chesterfield,E07000034,lau1
+CHICHESTER COLLEGE 107513,college,Chichester,E07000225,lau1
+CITY AND ISLINGTON COLLEGE 108518,college,Islington,UKI1203,lau1
+CITY COLLEGE BRIGHTON AND HOVE 106098,college,Brighton and Hove,E06000043,lau1
+CITY COLLEGE COVENTRY 112389,college,Coventry,E08000026,lau1
+CITY COLLEGE NORWICH 106947,college,Norwich,E07000148,lau1
+CITY COLLEGE PLYMOUTH 108499,college,Plymouth,E06000026,lau1
+"CITY COLLEGE, BIRMINGHAM 111726",college,Birmingham,E08000025,lau1
+CITY OF BRISTOL COLLEGE 105156,college,"Bristol, City of",UKK11,nuts3
+CITY OF WESTMINSTER COLLEGE 108526,college,Westminster,UKI1106,lau1
+CITY OF WOLVERHAMPTON COLLEGE 106388,college,Wolverhampton,E08000031,lau1
+"COLLEGE OF HARINGEY, ENFIELD AND NORTH-EAST 107479",college,"Enfield,Haringey","UKI2103,UKI1202",lau1
+"COLLEGE OF NORTH WEST LONDON, THE 108782",college,Outer London - West and North West,UKI23,nuts3
+CORNWALL COLLEGE 106490,college,Cornwall,E06000052,lau1
+CRAVEN COLLEGE 107552,college,Craven,E07000163,lau1
+CROYDON COLLEGE 105714,college,Croydon,UKI2202,lau1
+CUMBRIA COLLEGES LIMITED 117985,college,Cumbria,UKD1,nuts2
+Cardiff Metropolitan University,college,Cardiff,W06000015,lau1
+Central Manchester University Hospitals NHS Foundation Trust,college,Manchester,E08000003,lau1
+Chesterfield College,college,Chesterfield,E07000034,lau1
+Chichester College,college,Chichester,E07000225,lau1
+City of Bristol College,college,"Bristol, City of",UKK11,nuts3
+Connect Midlands - University of Warwick,college,Warwick,E07000222,lau1
+Cornwall College,college,Cornwall,E06000052,lau1
+DONCASTER COLLEGE 107019,college,Doncaster,E08000017,lau1
+Dumfries and Galloway College,college,Dumfries & Galloway,S30000016,lau1
+"EALING, HAMMERSMITH & WEST LONDON COLLEGE 106809",college,Ealing,UKI2303,lau1
+EASTLEIGH COLLEGE 108524,college,Eastleigh,E07000086,lau1
+EDEN COLLEGE OF HUMAN RESOURCE DEVELOPMENT 118465,college,Eden,E07000030,lau1
+ENFIELD COLLEGE 107878,college,Enfield,UKI2103,lau1
+EPPING FOREST COLLEGE 108461,college,Epping Forest,E07000072,lau1
+EXETER COLLEGE 108460,college,Exeter,E07000041,lau1
+"Ealing, Hammersmith & West London College",college,Ealing,UKI2303,lau1
+"Ealing, Hammersmith and West London College",college,Ealing,UKI2303,lau1
+Eden College,college,Eden,E07000030,lau1
+Eden college,college,Eden,E07000030,lau1
+Edinburgh Napier University,college,"Edinburgh, City of",UKM25,nuts3
+FAREHAM COLLEGE 108459,college,Fareham,E07000087,lau1
+GATESHEAD COLLEGE 108458,college,Gateshead,E08000037,lau1
+GLOUCESTERSHIR E COLLEGE 106583,college,Gloucester,E07000081,lau1
+GREAT YARMOUTH COLLEGE 106950,college,Great Yarmouth,E07000145,lau1
+GREENWICH COMMUNITY COLLEGE 108473,college,Greenwich,UKI2104,lau1
+GUILDFORD COLLEGE 107909,college,Guildford,E07000209,lau1
+Glasgow Clyde College,college,Glasgow City,UKM34,nuts3
+Glasgow College of Nautical Studies,college,Glasgow City,UKM34,nuts3
+Glasgow Kelvin College,college,Glasgow City,UKM34,nuts3
+Glasgow Metropolitan College,college,Glasgow City,UKM34,nuts3
+Guildford College of Further and Higher Education,college,Guildford,E07000209,lau1
+HACKNEY COMMUNITY COLLEGE 108523,college,Hackney,UKI1201,lau1
+HARLOW COLLEGE 105486,college,Harlow,E07000073,lau1
+HARROW COLLEGE 108767,college,Harrow,UKI2304,lau1
+HARTLEPOOL COLLEGE OF FURTHER EDUCATION 107069,college,Hartlepool,E06000001,lau1
+HAVANT COLLEGE 108422,college,Havant,E07000090,lau1
+HAVERING COLLEGE OF FURTHER AND HIGHER 108521,college,Havering,UKI2105,lau1
+HUNTINGDONSHIR E REGIONAL COLLEGE 106402,college,Huntingdonshire,E07000011,lau1
+HUNTINGDONSHIRE REGIONAL COLLEGE 106402,college,Huntingdonshire,E07000011,lau1
+"Harrow College, Harrow-on-the Hill Campus, Lowlands Road, Harrow, HA1 3AQ",college,Harrow,UKI2304,lau1
+KENSINGTON AND CHELSEA COLLEGE 108322,college,Kensington and Chelsea,UKI1104,lau1
+KING'S COLLEGE LONDON 115785,college,London,UKI,nuts1
+KIRKLEES COLLEGE 107157,college,Kirklees,E08000034,lau1
+KNOWSLEY COMMUNITY COLLEGE 106909,college,Knowsley,E08000011,lau1
+Kensington and Chelsea College,college,Kensington and Chelsea,UKI1104,lau1
+LAMBETH COLLEGE 106790,college,Lambeth,UKI1204,lau1
+LANCASTER AND MORECAMBE COLLEGE 106466,college,Lancaster,E07000121,lau1
+LEEDS CITY COLLEGE 118778,college,Leeds,E08000035,lau1
+LEWISHAM SOUTHWARK COLLEGE 105674,college,"Lewisham,Southwark","UKI1205,UKI1207",lau1
+LINCOLN COLLEGE 107635,college,Lincoln,E07000138,lau1
+LINCOLN COLLEGE 110223,college,Lincoln,E07000138,lau1
+LONDON SOUTH BANK UNIVERSITY 108261,college,London,UKI,nuts1
+LONDON VESTA COLLEGE LIMITED 124219,college,London,UKI,nuts1
+Lancaster University,college,Lancaster,E07000121,lau1
+Lancaster University University House Bailrigg Lancaster LA1 4YW,college,Lancaster,E07000121,lau1
+Leeds City College,college,Leeds,E08000035,lau1
+Lincoln College,college,Lincoln,E07000138,lau1
+London Capital Colleges,college,London,UKI,nuts1
+London Metropolitan University 41 Commercial Road E1 1LA,college,London,UKI,nuts1
+"London South Bank University, 103 Borough Road, London, SE1 0AA",college,London,UKI,nuts1
+"MANCHESTER COLLEGE, THE 118446",college,Manchester,E08000003,lau1
+MIDDLESBROUGH COLLEGE 107073,college,Middlesbrough,E06000002,lau1
+Manchester Metropolitan University,college,Manchester,E08000003,lau1
+NEWCASTLE COLLEGE CONSTRUCTION LIMITED 118365,college,Newcastle upon Tyne,E08000021,lau1
+NEWCASTLE- UNDER-LYME COLLEGE (NULC) 106068,college,Newcastle upon Tyne,E08000021,lau1
+NEWHAM COLLEGE OF FURTHER EDUCATION 108507,college,Newham,UKI1206,lau1
+NEWHAM SIXTH FORM COLLEGE 108407,college,Newham,UKI1206,lau1
+NORTHAMPTON COLLEGE 106970,college,Northampton,E07000154,lau1
+Newcastle College Group,college,Newcastle upon Tyne,E08000021,lau1
+Newcastle University,college,Newcastle upon Tyne,E08000021,lau1
+Newham College of Further Education,college,Newham,UKI1206,lau1
+Newham College of Further Education East Ham Campus High Street South E6 6ER,college,Newham,UKI1206,lau1
+Orkney College,college,Orkney Islands,S30000040,lau1
+PETERBOROUGH REGIONAL COLLEGE 106409,college,Peterborough,E06000031,lau1
+PRESTON COLLEGE 108623,college,Preston,E07000123,lau1
+Pembrokeshire College,college,Pembrokeshire,W06000009,lau1
+REDBRIDGE COLLEGE 108495,college,Redbridge,UKI2106,lau1
+REDCAR & CLEVELAND COLLEGE 107079,college,Redcar and Cleveland,E06000003,lau1
+RICHMOND UPON THAMES COLLEGE 108449,college,Richmond upon Thames,UKI2307,lau1
+ROTHERHAM COLLEGE OF ARTS AND TECHNOLOGY 108493,college,Rotherham,E08000018,lau1
+ROYAL FOREST OF DEAN COLLEGE 106589,college,Forest of Dean,E07000080,lau1
+SALFORD CITY COLLEGE 108406,college,Salford,E08000006,lau1
+SELBY COLLEGE 105583,college,Selby,E07000169,lau1
+SOUTH & CITY COLLEGE BIRMINGHAM 105074,college,Birmingham,E08000025,lau1
+SOUTHAMPTON CITY COLLEGE 106614,college,Southampton,E06000045,lau1
+SOUTHWARK COLLEGE 106797,college,Southwark,UKI1207,lau1
+STAFFORD COLLEGE 105114,college,Stafford,E07000197,lau1
+STOCKPORT COLLEGE 106863,college,Stockport,E08000007,lau1
+STOCKTON RIVERSIDE COLLEGE 107083,college,Stockton-on-Tees,E06000004,lau1
+STOKE ON TRENT COLLEGE 107044,college,Stoke-on-Trent,E06000021,lau1
+STROUD COLLEGE OF FURTHER EDUCATION 106590,college,Stroud,E07000082,lau1
+SUSSEX COAST COLLEGE HASTINGS 107520,college,Hastings,E07000062,lau1
+Shetland College,college,Shetland Islands,S30000041,lau1
+Stoke on Trent College,college,Stoke-on-Trent,E06000021,lau1
+TAMESIDE COLLEGE 106868,college,Tameside,E08000008,lau1
+TAMWORTH AND LICHFIELD COLLEGE 108312,college,"Lichfield,Tamworth","E07000194,E07000199",lau1
+THE CITY OF LIVERPOOL COLLEGE 106915,college,Liverpool,E08000012,lau1
+THE COLLEGE OF RICHARD COLLYER IN HORSHAM 108368,college,Horsham,E07000227,lau1
+THE OLDHAM COLLEGE 110734,college,Oldham,E08000004,lau1
+THE UNIVERSITY OF WEST LONDON 108331,college,Outer London - West and North West,UKI23,nuts3
+TOWER HAMLETS COLLEGE 106556,college,Tower Hamlets,UKI1208,lau1
+TRAFFORD COLLEGE 108484,college,Trafford,E08000009,lau1
+Tameside College,college,Tameside,E08000008,lau1
+The Manchester College,college,Manchester,E08000003,lau1
+The University of Manchester,college,Manchester,E08000003,lau1
+Tower Hamlets College,college,Tower Hamlets,UKI1208,lau1
+Tower Hamlets College 112 Poplar High Street E14 0AF,college,Tower Hamlets,UKI1208,lau1
+UNIVERSITY OF LINCOLN 111634,college,Lincoln,E07000138,lau1
+University Of Exeter,college,Exeter,E07000041,lau1
+University of Bristol,college,"Bristol, City of",UKK11,nuts3
+University of Cambridge,college,Cambridge,E07000008,lau1
+University of Edinburgh,college,"Edinburgh, City of",UKM25,nuts3
+University of Exeter,college,Exeter,E07000041,lau1
+University of Exeter - Evidence of Competiveness,college,Exeter,E07000041,lau1
+University of Exeter - SLIM,college,Exeter,E07000041,lau1
+University of Glasgow,college,Glasgow City,UKM34,nuts3
+University of Lincoln,college,Lincoln,E07000138,lau1
+University of Manchester,college,Manchester,E08000003,lau1
+University of Newcastle Upon Tyne,college,Newcastle upon Tyne,E08000021,lau1
+University of Northampton,college,Northampton,E07000154,lau1
+University of Northumbria at Newcastle,college,Newcastle upon Tyne,E08000021,lau1
+University of Salford,college,Salford,E08000006,lau1
+University of Stirling,college,Stirling,S30000011,lau1
+Urban Futures London Limited (Novated from Ealing and Hammersmith College,college,Ealing,UKI2303,lau1
+WALTHAM FOREST COLLEGE 108478,college,Waltham Forest,UKI2107,lau1
+WESTMINSTER KINGSWAY COLLEGE 105653,college,Westminster,UKI1106,lau1
+WIGAN AND LEIGH COLLEGE 107785,college,Wigan,E08000010,lau1
+WORCESTER COLLEGE OF TECHNOLOGY 106655,college,Worcester,E07000237,lau1
+WORTHING COLLEGE 108375,college,Worthing,E07000229,lau1
+Warwick University,college,Warwick,E07000222,lau1
+Westminster Kingsway College,college,Westminster,UKI1106,lau1
+Arts Council England,council,"North East (England),North West (England),Yorkshire and The Humber,East Midlands (England),West Midlands (England),East of England,London,South East (England),South West (England)","UKC,UKD,UKE,UKF,UKG,UKH,UKI,UKJ,UKK",nuts1
+British Fashion Council Somerset House WC2R 1LA,council,London,UKI,nuts1
+Countryside Council for Wales,council,Wales,UKL,nuts1
+Higher Education Funding Council for Wales,council,Wales,UKL,nuts1
+London Councils,council,London,UKI,nuts1
+NATIONAL COUNCIL ON AGEING 105761,council,"North East (England),North West (England),Yorkshire and The Humber,East Midlands (England),West Midlands (England),East of England,London,South East (England),South West (England),Wales,Scotland,Northern Ireland","UKC,UKD,UKE,UKF,UKG,UKH,UKI,UKJ,UKK,UKL,UKM,UKN",nuts1
+National Council for Graduate Entrepreneurship,council,"North East (England),North West (England),Yorkshire and The Humber,East Midlands (England),West Midlands (England),East of England,London,South East (England),South West (England),Wales,Scotland,Northern Ireland","UKC,UKD,UKE,UKF,UKG,UKH,UKI,UKJ,UKK,UKL,UKM,UKN",nuts1
+National Council for Voluntary,council,"North East (England),North West (England),Yorkshire and The Humber,East Midlands (England),West Midlands (England),East of England,London,South East (England),South West (England),Wales,Scotland,Northern Ireland","UKC,UKD,UKE,UKF,UKG,UKH,UKI,UKJ,UKK,UKL,UKM,UKN",nuts1
+SCOTTISH BAKERY TRAINING COUNCIL,council,Scotland,UKM,nuts1
+Scottish Borders Council,council,Scottish Borders,UKM24,nuts3
+Scottish Council for Voluntary Organisations,council,Scotland,UKM,nuts1
+Scottish Further & Higher Education Funding Council,council,Scotland,UKM,nuts1
+Scottish Further& Higher Education Funding Council,council,Scotland,UKM,nuts1
+The Highland Council,council,Scotland,UKM,nuts1
+Wales Council for Voluntary Action,council,Wales,UKL,nuts1
+Bedfordshire County Council,council,Bedford,UKH24,nuts3
+CAMBRIDGESHIRE COUNTY COUNCIL 107891,council,Cambridgeshire CC,UKH12,nuts3
+CENTRAL BEDFORDSHIRE COUNCIL 118734,council,Central Bedfordshire,UKH25,nuts3
+CHESHIRE EAST COUNCIL 118684,council,Cheshire East,UKD62,nuts3
+CHESHIRE WEST AND CHESTER COUNCIL 118685,council,Cheshire West and Chester,UKD63,nuts3
+COUNTY DURHAM COUNCIL 108668,council,Durham CC,UKC14,nuts3
+Cambridgeshire County Council,council,Cambridgeshire CC,UKH12,nuts3
+Central Bedfordshire Council,council,Central Bedfordshire,UKH25,nuts3
+Central Bedfordshire Council.,council,Central Bedfordshire,UKH25,nuts3
+Cheshire East Council,council,Cheshire East,UKD62,nuts3
+Cheshire West and Chester Council,council,Cheshire West and Chester,UKD63,nuts3
+Cyngor Gwynedd Council,council,Gwynedd,UKL12,nuts3
+DERBYSHIRE COUNTY COUNCIL 112616,council,Derby,UKF11,nuts3
+DEVON COUNTY COUNCIL 110160,council,Devon CC,UKK43,nuts3
+DORSET COUNTY COUNCIL 108092,council,Dorset CC,UKK22,nuts3
+Derbyshire County Council,council,Derby,UKF11,nuts3
+Dudley Metropolitan Council,council,Dudley,UKG36,nuts3
+Durham County Council,council,Durham CC,UKC14,nuts3
+EAST DORSET DISTRICT COUNCIL 115402,council,Dorset CC,UKK22,nuts3
+EAST RIDING OF YORKSHIRE COUNCIL 108073,council,East Riding of Yorkshire,UKE12,nuts3
+ESSEX COUNTY COUNCIL 110116,council,Essex CC,UKH33,nuts3
+East Riding of Yorkshire Council,council,East Riding of Yorkshire,UKE12,nuts3
+Essex County Council,council,Essex CC,UKH33,nuts3
+Falkirk Council,council,Falkirk,UKM26,nuts3
+HEREFORDSHIRE COUNCIL 110153,council,Hertfordshire,UKH23,nuts3
+HERTFORDSHIRE COUNTY COUNCIL 110147,council,"Herefordshire, County of",UKG11,nuts3
+Herefordshire Council,council,Hertfordshire,UKH23,nuts3
+Hertfordshire County Council,council,"Herefordshire, County of",UKG11,nuts3
+ISLE OF WIGHT COUNCIL 114962,council,Isle of Wight,UKJ34,nuts3
+Isle of Anglesey County Council,council,Isle of Anglesey,UKL11,nuts3
+KENT COUNTY COUNCIL 110202,council,Kent CC,UKJ42,nuts3
+Kent County Council,council,Kent CC,UKJ42,nuts3
+LANCASHIRE COUNTY COUNCIL 108153,council,Lancashire CC,UKD43,nuts3
+LEICESTERSHIRE COUNTY COUNCIL 106769,council,Leicester,UKF21,nuts3
+LINCOLNSHIRE COUNTY COUNCIL 110172,council,Lincolnshire,UKF30,nuts3
+Lancashire County Council,council,Lancashire CC,UKD43,nuts3
+Leicestershire County Council,council,Leicester,UKF21,nuts3
+Lincolnshire County Council,council,Lincolnshire,UKF30,nuts3
+MEDWAY COUNCIL 108044,council,Medway,UKJ41,nuts3
+MILTON KEYNES COUNCIL 108148,council,Milton Keynes,UKJ12,nuts3
+Medway Council,council,Medway,UKJ41,nuts3
+NORFOLK COUNTY COUNCIL 108038,council,Norfolk,UKH13,nuts3
+NORTH EAST LINCOLNSHIRE COUNCIL 108070,council,Lincolnshire,UKF30,nuts3
+NORTH YORKSHIRE COUNTY COUNCIL 108029,council,North Yorkshire CC,UKE22,nuts3
+NOTTINGHAMSHIRE COUNTY COUNCIL 107952,council,Nottingham,UKF14,nuts3
+Norfolk County Council,council,Norfolk,UKH13,nuts3
+North East Lincolnshire Council,council,Lincolnshire,UKF30,nuts3
+North Lanarkshire Council,council,North Lanarkshire,UKM36,nuts3
+North Tyneside Council,council,Tyneside,UKC22,nuts3
+North Yorks County Council,council,York,UKE21,nuts3
+North Yorkshire County Council,council,North Yorkshire CC,UKE22,nuts3
+Northumberland County Council,council,Northumberland,UKC21,nuts3
+Nottinghamshire County Council,council,Nottingham,UKF14,nuts3
+OXFORDSHIRE COUNTY COUNCIL 115409,council,Oxfordshire,UKJ14,nuts3
+Orkney Islands Council,council,Orkney Islands,UKM65,nuts3
+Oxfordshire County Council,council,Oxfordshire,UKJ14,nuts3
+SOMERSET COUNTY COUNCIL 107998,council,Somerset,UKK23,nuts3
+SOUTH TYNESIDE COUNCIL 107989,council,Tyneside,UKC22,nuts3
+STAFFORDSHIRE COUNTY COUNCIL 116188,council,Staffordshire CC,UKG24,nuts3
+SUFFOLK COUNTY COUNCIL 108002,council,Suffolk,UKH14,nuts3
+SURREY COUNTY COUNCIL 112269,council,Surrey,UKJ23,nuts3
+Sefton Council,council,Sefton,UKD73,nuts3
+Shetland Islands Council,council,Shetland Islands,UKM66,nuts3
+Shropshire Council County Training,council,Shropshire CC,UKG22,nuts3
+Shropshire County Council,council,Shropshire CC,UKG22,nuts3
+Somerset County Council,council,Somerset,UKK23,nuts3
+South Lanarkshire Council,council,South Lanarkshire,UKM38,nuts3
+Staffordshire County Council,council,Staffordshire CC,UKG24,nuts3
+Suffolk County Council,council,Suffolk,UKH14,nuts3
+Suffolk county Council,council,Suffolk,UKH14,nuts3
+THE NORTHUMBERLAND COUNCIL 112727,council,Northumberland,UKC21,nuts3
+THE SHROPSHIRE COUNCIL 110136,council,Shropshire CC,UKG22,nuts3
+THE WILTSHIRE COUNCIL 110145,council,Wiltshire,UKK15,nuts3
+Telford & Wrekin Council,council,Telford and Wrekin,UKG21,nuts3
+Thurrock Council,council,Thurrock,UKH32,nuts3
+Torbay Council,council,Torbay,UKK42,nuts3
+WARWICKSHIRE COUNTY COUNCIL 112309,council,Warwickshire,UKG13,nuts3
+WEST SUSSEX COUNTY COUNCIL 107962,council,West Sussex,UKJ24,nuts3
+WORCESTERSHIRE COUNTY COUNCIL 112256,council,Worcestershire,UKG12,nuts3
+WORCESTERSHIRE COUNTY COUNCIL 114823,council,Worcestershire,UKG12,nuts3
+Warwickshire County Council,council,Warwickshire,UKG13,nuts3
+West Lothian Council,council,West Lothian,UKM28,nuts3
+Wiltshire County Council,council,Wiltshire,UKK15,nuts3
+Worcestershire County Council,council,Worcestershire,UKG12,nuts3
+ARMAGH CITY AND DISTRICT COUNCIL,council,Armagh,UKN0501,lau1
+Aberdeen City Council,council,Aberdeen City,S30000026,lau1
+Aberdeenshire Council,council,Aberdeenshire,S30000027,lau1
+Angus Council,council,Angus,S30000001,lau1
+Antrim Borough Council,council,Antrim,UKN0301,lau1
+Ards Borough Council,council,Ards,UKN0302,lau1
+Argyll and Bute Council,council,"Argyll & Bute Mainland,Argyll & Bute Islands","S30000036,S30000035",lau1
+Armagh City and District Council,council,Armagh,UKN0501,lau1
+Ashfield District Council,council,Ashfield,E07000170,lau1
+BARKING & DAGENHAM LONDON BOROUGH COUNCIL 108156,council,Barking and Dagenham,UKI2101,lau1
+BARNSLEY METROPOLITAN BOROUGH COUNCIL 107015,council,Barnsley,E08000016,lau1
+BASSETLAW DISTRICT COUNCIL 117004,council,Bassetlaw,E07000171,lau1
+BIRMINGHAM CITY COUNCIL 108141,council,Birmingham,E08000025,lau1
+BOLTON METROPOLITAN BOROUGH COUNCIL 116165,council,Bolton,E08000001,lau1
+BOURNEMOUTH COUNCIL 108132,council,Bournemouth,E06000028,lau1
+BRADFORD CITY COUNCIL 108791,council,Bradford,E08000032,lau1
+BRIGHTON & HOVE CITY COUNCIL 110173,council,Brighton and Hove,E06000043,lau1
+BRISTOL CITY COUNCIL 115501,council,"Bristol, City of",UKK11,nuts3
+BROADLAND DISTRICT COUNCIL 106945,council,Broadland,E07000144,lau1
+BUCKINGHAMSHIR E COUNTY COUNCIL 108149,council,Buckinghamshire CC,UKJ13,nuts3
+BURY METROPOLITAN BOROUGH COUNCIL 108127,council,Bury,E08000002,lau1
+Ballymena Borough Council,council,Ballymena,UKN0303,lau1
+Ballymoney Borough Council,council,Ballymoney,UKN0401,lau1
+Banbridge District Council,council,Banbridge,UKN0304,lau1
+Barnsley Metropolitan Borough Council,council,Barnsley,E08000016,lau1
+Bassetlaw District Council,council,Bassetlaw,E07000171,lau1
+Bedford Borough Council,council,Bedford,E06000055,lau1
+Belfast City Council,council,Belfast,UKN0100,lau1
+Birmingham City Council,council,Birmingham,E08000025,lau1
+Blackburn with Darwen Borough Council,council,Blackburn with Darwen,E06000008,lau1
+Blackpool Borough Council,council,Blackpool,E06000009,lau1
+Blaenau Gwent County Borough Council,council,Blaenau Gwent,W06000019,lau1
+Bolsover District Council,council,Bolsover,E07000033,lau1
+Borough Council of Calderdale,council,Calderdale,E08000033,lau1
+Breckland Council,council,Breckland,E07000143,lau1
+Breckland District Council,council,Breckland,E07000143,lau1
+Bridgend County Borough Council,council,Bridgend,W06000013,lau1
+Bristol City Council,council,"Bristol, City of",UKK11,nuts3
+Broadland District Council,council,Broadland,E07000144,lau1
+CHESHIRE COUNTY COUNCIL 105291,council,Cheshire,UKD6,nuts2
+CITY OF YORK COUNCIL 107576,council,York,E06000014,lau1
+COLERAINE BOROUGH COUNCIL,council,Coleraine,UKN0402,lau1
+COMMON COUNCIL OF THE CITY OF LONDON 110175,council,London,UKI,nuts1
+COOKSTOWN DISTRICT COUNCIL,council,Cookstown,UKN0502,lau1
+COUNCIL OF THE ISLES OF SCILLY 110135,council,Isles of Scilly,E06000053,lau1
+COVENTRY CITY COUNCIL 108101,council,Coventry,E08000026,lau1
+CROYDON LONDON BOROUGH COUNCIL 108123,council,Croydon,UKI2202,lau1
+CUMBRIA COUNCIL FOR VOLUNTARY SERVICE 118234,council,Cumbria,UKD1,nuts2
+CUMBRIA COUNTY COUNCIL 108122,council,Cumbria,UKD1,nuts2
+Caerphilly County Borough Council,council,Caerphilly,W06000018,lau1
+Calderdale Metropolitan Borough Council,council,Calderdale,E08000033,lau1
+Cambridge County Council,council,Cambridge,E07000008,lau1
+Cardiff Council,council,Cardiff,W06000015,lau1
+Carlisle City Council,council,Carlisle,E07000028,lau1
+Carmarthenshire County Council,council,Carmarthenshire,W06000010,lau1
+Castlereagh Borough Council,council,Castlereagh,UKN0203,lau1
+Ceredigion County Council,council,Ceredigion,W06000008,lau1
+Cheshire West & Chester Borough Council,council,Cheshire West and Chester,E06000050,lau1
+Chesterfield Borough Council,council,Chesterfield,E07000034,lau1
+City of Bradford Metropolitan District Council,council,Bradford,E08000032,lau1
+City of Edinburgh Council,council,"Edinburgh, City of",UKM25,nuts3
+Clackmannanshir e Council,council,Clackmannanshire,S30000003,lau1
+Clackmannanshire Council,council,Clackmannanshire,S30000003,lau1
+Coleraine Borough Council,council,Coleraine,UKN0402,lau1
+Conwy County Borough Council,council,Conwy,W06000003,lau1
+Cookstown District Council,council,Cookstown,UKN0502,lau1
+Corby Borough Council,council,Corby,E07000150,lau1
+Cornwall Council,council,Cornwall,E06000052,lau1
+Cornwall County Council,council,Cornwall,E06000052,lau1
+Council Of The Isles of Scilly,council,Isles of Scilly,E06000053,lau1
+Coventry City Council,council,Coventry,E08000026,lau1
+Craigavon Borough Council,council,Craigavon,UKN0305,lau1
+Craigavon Brough Council,council,Craigavon,UKN0305,lau1
+Cumbria County Council,council,Cumbria,UKD1,nuts2
+DARLINGTON BOROUGH COUNCIL 107066,council,Darlington,E06000005,lau1
+DERBY CITY COUNCIL 112617,council,Derby,E06000015,lau1
+DONCASTER METROPOLITAN BOROUGH COUNCIL 107022,council,Doncaster,E08000017,lau1
+DUDLEY METROPOLITAN BOROUGH COUNCIL 111333,council,Dudley,E08000027,lau1
+Darlington Borough Council,council,Darlington,E06000005,lau1
+Denbighshire County Borough Council,council,Denbighshire,W06000004,lau1
+Derby City Council,council,Derby,E06000015,lau1
+Derry City Council,council,Derry,UKN0403,lau1
+Doncaster Borough Council,council,Doncaster,E08000017,lau1
+Down District Council,council,Down,UKN0306,lau1
+Dudley Metropolitan Borough Council,council,Dudley,E08000027,lau1
+Dumfries and Galloway Council,council,Dumfries & Galloway,S30000016,lau1
+Dundee City Council,council,Dundee City,S30000002,lau1
+Dungannon & South Tyrone Borough Council,council,Dungannon,UKN0503,lau1
+Dungannon & South Tyrone Brough Council,council,Dungannon,UKN0503,lau1
+Dungannon and South Tyrone Borough Council,council,Dungannon,UKN0503,lau1
+EALING LONDON BOROUGH COUNCIL 110138,council,Ealing,UKI2303,lau1
+ELLESMERE PORT AND NESTON BOROUGH COUNCIL 111640,council,Neston and Parkgate,UKD63_E05008127,lau2
+ENFIELD LONDON BOROUGH COUNCIL 109443,council,Enfield,UKI2103,lau1
+East Ayrshire Council,council,East Ayrshire,S30000017,lau1
+East Dunbartonshire Council,council,East Dunbartonshire,S30000015,lau1
+East Lindsey District Council,council,East Lindsey,E07000137,lau1
+East Lothian Council,council,East Lothian,S30000005,lau1
+East Midlands Councils,council,East Midlands (England),UKF,nuts1
+Enfield Council,council,Enfield,UKI2103,lau1
+Fermanagh District Council,council,Fermanagh,UKN0504,lau1
+Fife Council,council,Fife,S30000004,lau1
+Fife Council for Fife Community Planning Partnership,council,Fife,S30000004,lau1
+Flintshire County Council,council,Flintshire,W06000005,lau1
+GATESHEAD COUNCIL 107102,council,Gateshead,E08000037,lau1
+GLOUCESTERSHIR E COUNTY COUNCIL 105505,council,Gloucester,E07000081,lau1
+Gateshead Council,council,Gateshead,E08000037,lau1
+Glasgow City Council,council,Glasgow City,S30000019,lau1
+Glasgow Council for the Voluntary Sector,council,Glasgow City,S30000019,lau1
+Greenwich Council,council,Greenwich,UKI2104,lau1
+HALTON BOROUGH COUNCIL 106895,council,Halton,E06000006,lau1
+HARINGEY LONDON BOROUGH COUNCIL 107480,council,Haringey,UKI1202,lau1
+HARTLEPOOL BOROUGH COUNCIL 115616,council,Hartlepool,E06000001,lau1
+HAVERING LONDON BOROUGH COUNCIL 108069,council,Havering,UKI2105,lau1
+HOUNSLOW LONDON BOROUGH COUNCIL 107138,council,Hounslow,UKI2306,lau1
+Hambleton District Council,council,Hambleton,E07000164,lau1
+Harborough District Council,council,Harborough,E07000131,lau1
+Haringey Council,council,Haringey,UKI1202,lau1
+Harrow Council,council,Harrow,UKI2304,lau1
+Hartlepool Borough Council,council,Hartlepool,E06000001,lau1
+Inverclyde Council,council,Inverclyde,S30000022,lau1
+KETTERING BOROUGH COUNCIL 106963,council,Kettering,E07000153,lau1
+KINGSTON UPON HULL CITY COUNCIL 108072,council,"Kingston upon Hull, City of",UKE11,nuts3
+KIRKLEES METROPOLITAN COUNCIL 115465,council,Kirklees,E08000034,lau1
+KNOWSLEY METROPOLITAN BOROUGH COUNCIL 108057,council,Knowsley,E08000011,lau1
+Kingston upon Hull City Council,council,"Kingston upon Hull, City of",UKE11,nuts3
+Kirklees Council,council,Kirklees,E08000034,lau1
+Knowsley Metropolitan Borough Council,council,Knowsley,E08000011,lau1
+LAMBETH LONDON BOROUGH COUNCIL 111722,council,Lambeth,UKI1204,lau1
+LAMBETH LONDON BOROUGH COUNCIL 117451,council,Lambeth,UKI1204,lau1
+LB Brent Council,council,Brent,UKI2302,lau1
+LEEDS CITY COUNCIL 115315,council,Leeds,E08000035,lau1
+LEICESTER CITY COUNCIL 112414,council,Leicester,E06000016,lau1
+LIVERPOOL CITY COUNCIL 108048,council,Liverpool,E08000012,lau1
+Lancaster City Council,council,Lancaster,E07000121,lau1
+Larne Borough Council,council,Larne,UKN0307,lau1
+Leeds City Council,council,Leeds,E08000035,lau1
+Leicester City Council,council,Leicester,E06000016,lau1
+Limavady Borough Council,council,Limavady,UKN0404,lau1
+Lisburn City Council,council,Lisburn,UKN0204,lau1
+Lisburn city council,council,Lisburn,UKN0204,lau1
+Liverpool City Council,council,Liverpool,E08000012,lau1
+Local Strategy Partnership Derry City Council area,council,Derry,UKN0403,lau1
+Luton Borough Council,council,Luton,E06000032,lau1
+MERTON BOROUGH COUNCIL 115152,council,Merton,UKI2204,lau1
+MIDDLESBROUGH COUNCIL 107072,council,Middlesbrough,E06000002,lau1
+Magherafelt District Council,council,Magherafelt,UKN0505,lau1
+Manchester City Council,council,Manchester,E08000003,lau1
+Mansfield District Council,council,Mansfield,E07000174,lau1
+Melton Borough Council,council,Melton,E07000133,lau1
+Merthyr Tydfil County Borough Council,council,Merthyr Tydfil,W06000024,lau1
+Middlesborough Borough Council,council,Middlesbrough,E06000002,lau1
+Middlesbrough Council,council,Middlesbrough,E06000002,lau1
+Midlothian Council,council,Midlothian,S30000006,lau1
+Moyle District Council,council,Moyle,UKN0405,lau1
+NEWCASTLE UPON TYNE CITY COUNCIL 108039,council,Newcastle upon Tyne,E08000021,lau1
+NORTH TYNESIDE METROPOLITAN BOROUGH COUNCIL 107970,council,North Tyneside,E08000022,lau1
+NORTH WEST TRAINING COUNCIL 105892,council,North West (England),UKD,nuts1
+NOTTINGHAM CITY COUNCIL 116162,council,Nottingham,E06000018,lau1
+Neath Port Talbot County Borough Council,council,Neath Port Talbot,W06000012,lau1
+Newcastle City Council,council,Newcastle upon Tyne,E08000021,lau1
+Newport City Council,council,Newport,W06000022,lau1
+Newry and Mourne District Council,council,Newry and Mourne,UKN0506,lau1
+Newtownabbey Borough Council,council,Newtownabbey,UKN0202,lau1
+North Ayrshire Council,council,North Ayrshire mainland,S30000018,lau1
+North Down Borough Council,council,North Down,UKN0205,lau1
+Nottingham City Council,council,Nottingham,E06000018,lau1
+OXFORD DIOCESAN COUNCIL FOR SOCIAL WORK 112751,council,Oxford,E07000178,lau1
+Oldham Metropolitan Borough Council,council,Oldham,E08000004,lau1
+Omagh District Council,council,Omagh,UKN0507,lau1
+Omagh District Council for Omagh District Training Consortium,council,Omagh,UKN0507,lau1
+Omagh District Council for and on behalf of Omagh District Training Consortium,council,Omagh,UKN0507,lau1
+Oxford City Council,council,Oxford,E07000178,lau1
+PETERBOROUGH CITY COUNCIL 112456,council,Peterborough,E06000031,lau1
+PLYMOUTH CITY COUNCIL 114820,council,Plymouth,E06000026,lau1
+Pembrokeshire County Council,council,Pembrokeshire,W06000009,lau1
+Pendle Borough Council,council,Pendle,E07000122,lau1
+Perth and Kinross Council,council,Perth & Kinross,S30000010,lau1
+Plymouth City Council (Misc/Grants,council,Plymouth,E06000026,lau1
+REDBRIDGE LONDON BOROUGH COUNCIL 108009,council,Redbridge,UKI2106,lau1
+REDCAR AND CLEVELAND BOROUGH COUNCIL 107078,council,Redcar and Cleveland,E06000003,lau1
+RICHMOND UPON THAMES BOROUGH COUNCIL 107141,council,Richmond upon Thames,UKI2307,lau1
+RICHMOND UPON THAMES BOROUGH COUNCIL 116192,council,Richmond upon Thames,UKI2307,lau1
+ROCHDALE BOROUGH COUNCIL 108006,council,Rochdale,E08000005,lau1
+ROTHERHAM BOROUGH COUNCIL 106055,council,Rotherham,E08000018,lau1
+RUTLAND COUNTY COUNCIL 110561,council,Rutland,E06000017,lau1
+Reading Borough Council,council,Reading,E06000038,lau1
+Redbridge Council for Voluntary Service,council,Redbridge,UKI2106,lau1
+Redcar & Cleveland Borough Council,council,Redcar and Cleveland,E06000003,lau1
+Renfrewshire Council,council,Renfrewshire,S30000021,lau1
+Rhondda Cynon Taf County Borough Council,council,Rhondda Cynon Taf,W06000016,lau1
+Rotherham Metropolitan Borough Council,council,Rotherham,E08000018,lau1
+SALFORD CITY COUNCIL 110143,council,Salford,E08000006,lau1
+SANDWELL METROPOLITAN BOROUGH COUNCIL 107984,council,Sandwell,E08000028,lau1
+SANDWELL METROPOLITAN BOROUGH COUNCIL 110058,council,Sandwell,E08000028,lau1
+SEDGEFIELD BOROUGH COUNCIL 106432,council,Sedgefield,UKC14_E05008002,lau2
+SEED - Ards Borough Council,council,Ards,UKN0302,lau1
+SEED - Banbridge District Council,council,Banbridge,UKN0304,lau1
+SEED - Down District Council,council,Down,UKN0306,lau1
+SEFTON METROPOLITAN BOROUGH COUNCIL 115970,council,Sefton,E08000014,lau1
+SHEFFIELD CITY COUNCIL 112753,council,Sheffield,E08000019,lau1
+"SIGNAL, North Down Borough Council",council,North Down,UKN0205,lau1
+SLOUGH BOROUGH COUNCIL 106336,council,Slough,E06000039,lau1
+SOUTHAMPTON CITY COUNCIL 110203,council,Southampton,E06000045,lau1
+SOUTHEND-ON-SEA BOROUGH COUNCIL 110149,council,Southend-on-Sea,E06000033,lau1
+STOCKPORT METROPOLITAN BOROUGH COUNCIL 107988,council,Stockport,E08000007,lau1
+STOCKTON-ON-TEES BOROUGH COUNCIL 107084,council,Stockton-on-Tees,E06000004,lau1
+Salford City Council,council,Salford,E08000006,lau1
+Scarborough Borough Council,council,Scarborough,E07000168,lau1
+Sefton Borough Council,council,Sefton,E08000014,lau1
+Sheffield City Council,council,Sheffield,E08000019,lau1
+South Holland District Council,council,South Holland,E07000140,lau1
+South Tyneside Metropolitan Borough Council,council,South Tyneside,E08000023,lau1
+Southampton City Council,council,Southampton,E06000045,lau1
+Southend-on-Sea Borough Council,council,Southend-on-Sea,E06000033,lau1
+St Helens Metropolitan Borough Council,council,St. Helens,E08000013,lau1
+Staveley Town Council,council,Chesterfield,E07000034,lau1
+Stirling Council,council,Stirling,S30000011,lau1
+Stockport Council,council,Stockport,E08000007,lau1
+Stockport Metropolitain Borough Council,council,Stockport,E08000007,lau1
+Stockton Borough Council,council,Stockton-on-Tees,E06000004,lau1
+Stockton-on-Tees Borough Council,council,Stockton-on-Tees,E06000004,lau1
+Stoke On Trent City Council,council,Stoke-on-Trent,E06000021,lau1
+Strabane District Council,council,Strabane,UKN0406,lau1
+Strabane District Council & Omagh District Council,council,"Omagh,Strabane","UKN0507,UKN0406",lau1
+Sunderland City Council,council,Sunderland,E08000024,lau1
+TAMESIDE METROPOLITAN BOROUGH COUNCIL 107976,council,Tameside,E08000008,lau1
+THE CORNWALL COUNCIL 108108,council,Cornwall,E06000052,lau1
+THE CORNWALL COUNCIL 115676,council,Cornwall,E06000052,lau1
+TOWER HAMLETS LONDON BOROUGH COUNCIL 107980,council,Tower Hamlets,UKI1208,lau1
+TRAFFORD METROPOLITAN BOROUGH COUNCIL 106869,council,Trafford,E08000009,lau1
+The Moray Council,council,"West Moray, North East Moray","S30000032,S30000033",lau1
+Torfaen County Borough Council,council,Torfaen,W06000020,lau1
+VALE ROYAL BOROUGH COUNCIL 106424,council,Cheshire West and Chester,UKD63,nuts3
+WAKEFIELD CITY COUNCIL 107968,council,Wakefield,E08000036,lau1
+WALSALL METROPOLITAN BOROUGH COUNCIL 111355,council,Walsall,E08000030,lau1
+WALTHAM FOREST LONDON BOROUGH COUNCIL 109899,council,Waltham Forest,UKI2107,lau1
+WANDSWORTH LONDON BOROUGH COUNCIL 108973,council,Wandsworth,UKI1105,lau1
+WARRINGTON BOROUGH COUNCIL 106426,council,Warrington,E06000007,lau1
+WAVERLEY BOROUGH COUNCIL 105529,council,Waverley,E07000216,lau1
+WESTMINSTER CITY COUNCIL 111720,council,Westminster,UKI1106,lau1
+WIGAN METROPOLITAN BOROUGH COUNCIL 106841,council,Wigan,E08000010,lau1
+WIRRAL METROPOLITAN BOROUGH COUNCIL 116058,council,Wirral,E08000015,lau1
+WOLVERHAMPTON CITY COUNCIL 108152,council,Wolverhampton,E08000031,lau1
+WYCOMBE DISTRICT COUNCIL 116440,council,Wycombe,E07000007,lau1
+Wandsworth Borough Council Wandsworth High Street SW18 2PU,council,Wandsworth,UKI1105,lau1
+Warrington Borough Council,council,Warrington,E06000007,lau1
+Waveney District Council,council,Waveney,E07000206,lau1
+West Dunbartonshire Council,council,West Dunbartonshire,S30000014,lau1
+West Dunbartonshire Council on Behalf of West Dunbartonshire CPP,council,West Dunbartonshire,S30000014,lau1
+West Lindsey District Council,council,West Lindsey,E07000142,lau1
+Westminster City Council Westminster City Hall 64 Victoria Street SW1E 6QP,council,Westminster,UKI1106,lau1
+Wirral Borough Council,council,Wirral,E08000015,lau1
+Wirral Metropolitan Borough Council,council,Wirral,E08000015,lau1
+Wolverhampton City Council,council,Wolverhampton,E08000031,lau1
+Wrexham County Council,council,Wrexham,W06000006,lau1
+Wyre Borough Council,council,Wyre,E07000128,lau1

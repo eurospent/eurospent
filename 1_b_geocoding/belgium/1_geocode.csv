@@ -1,0 +1,1764 @@
+beneficiary_id,query_country_code,query_country,query_type,query_state,query_region,query_county,query_city,query_postal_code,query_address,result_lat,result_long,geocoded
+,BE,Belgium,coordinate,,,,,,,50.695342,5.611917,True
+,BE,Belgium,coordinate,,,,,,,50.710761,4.174519,True
+,BE,Belgium,coordinate,,,,,,,50.728724,3.329463,True
+,BE,Belgium,coordinate,,,,,,,50.729335,4.221937,True
+,BE,Belgium,coordinate,,,,,,,50.741480,4.251664,True
+,BE,Belgium,coordinate,,,,,,,50.747295,3.601078,True
+,BE,Belgium,coordinate,,,,,,,50.752925,4.262955,True
+,BE,Belgium,coordinate,,,,,,,50.766681,4.435770,True
+,BE,Belgium,coordinate,,,,,,,50.768625,3.272483,True
+,BE,Belgium,coordinate,,,,,,,50.770598,3.887134,True
+,BE,Belgium,coordinate,,,,,,,50.777960,3.452289,True
+,BE,Belgium,coordinate,,,,,,,50.781371,3.444436,True
+,BE,Belgium,coordinate,,,,,,,50.781438,5.418531,True
+,BE,Belgium,coordinate,,,,,,,50.784190,5.474490,True
+,BE,Belgium,coordinate,,,,,,,50.788306,5.531924,True
+,BE,Belgium,coordinate,,,,,,,50.789452,3.100894,True
+,BE,Belgium,coordinate,,,,,,,50.795698,3.095527,True
+,BE,Belgium,coordinate,,,,,,,50.796103,3.091777,True
+,BE,Belgium,coordinate,,,,,,,50.798617,3.120848,True
+,BE,Belgium,coordinate,,,,,,,50.799499,4.012620,True
+,BE,Belgium,coordinate,,,,,,,50.802325,4.948788,True
+,BE,Belgium,coordinate,,,,,,,50.802742,4.954695,True
+,BE,Belgium,coordinate,,,,,,,50.803378,4.934194,True
+,BE,Belgium,coordinate,,,,,,,50.804389,4.425691,True
+,BE,Belgium,coordinate,,,,,,,50.806133,3.180779,True
+,BE,Belgium,coordinate,,,,,,,50.806401,4.915318,True
+,BE,Belgium,coordinate,,,,,,,50.808268,4.944588,True
+,BE,Belgium,coordinate,,,,,,,50.809984,4.287192,True
+,BE,Belgium,coordinate,,,,,,,50.810430,4.287461,True
+,BE,Belgium,coordinate,,,,,,,50.811494,4.955349,True
+,BE,Belgium,coordinate,,,,,,,50.813917,3.207346,True
+,BE,Belgium,coordinate,,,,,,,50.814537,3.338428,True
+,BE,Belgium,coordinate,,,,,,,50.815087,5.173419,True
+,BE,Belgium,coordinate,,,,,,,50.815304,4.372016,True
+,BE,Belgium,coordinate,,,,,,,50.815452,4.294899,True
+,BE,Belgium,coordinate,,,,,,,50.816088,3.207924,True
+,BE,Belgium,coordinate,,,,,,,50.818957,3.330070,True
+,BE,Belgium,coordinate,,,,,,,50.819351,3.340600,True
+,BE,Belgium,coordinate,,,,,,,50.819489,3.257708,True
+,BE,Belgium,coordinate,,,,,,,50.819878,4.386302,True
+,BE,Belgium,coordinate,,,,,,,50.820804,3.336802,True
+,BE,Belgium,coordinate,,,,,,,50.821167,3.223372,True
+,BE,Belgium,coordinate,,,,,,,50.821380,4.391668,True
+,BE,Belgium,coordinate,,,,,,,50.821685,5.204952,True
+,BE,Belgium,coordinate,,,,,,,50.823010,4.392630,True
+,BE,Belgium,coordinate,,,,,,,50.824862,3.300830,True
+,BE,Belgium,coordinate,,,,,,,50.825342,4.367198,True
+,BE,Belgium,coordinate,,,,,,,50.827722,3.307084,True
+,BE,Belgium,coordinate,,,,,,,50.828876,4.343734,True
+,BE,Belgium,coordinate,,,,,,,50.829657,2.954540,True
+,BE,Belgium,coordinate,,,,,,,50.830706,3.592391,True
+,BE,Belgium,coordinate,,,,,,,50.831755,3.246724,True
+,BE,Belgium,coordinate,,,,,,,50.832193,5.332426,True
+,BE,Belgium,coordinate,,,,,,,50.833610,4.011374,True
+,BE,Belgium,coordinate,,,,,,,50.833965,4.329745,True
+,BE,Belgium,coordinate,,,,,,,50.835612,3.230541,True
+,BE,Belgium,coordinate,,,,,,,50.837509,4.349046,True
+,BE,Belgium,coordinate,,,,,,,50.838341,3.286863,True
+,BE,Belgium,coordinate,,,,,,,50.839215,4.331186,True
+,BE,Belgium,coordinate,,,,,,,50.839708,3.001186,True
+,BE,Belgium,coordinate,,,,,,,50.839968,4.040467,True
+,BE,Belgium,coordinate,,,,,,,50.840150,4.353752,True
+,BE,Belgium,coordinate,,,,,,,50.840646,3.114129,True
+,BE,Belgium,coordinate,,,,,,,50.841378,4.369938,True
+,BE,Belgium,coordinate,,,,,,,50.841778,4.322869,True
+,BE,Belgium,coordinate,,,,,,,50.842104,4.370511,True
+,BE,Belgium,coordinate,,,,,,,50.842712,4.371383,True
+,BE,Belgium,coordinate,,,,,,,50.842899,4.352501,True
+,BE,Belgium,coordinate,,,,,,,50.843717,4.318556,True
+,BE,Belgium,coordinate,,,,,,,50.843874,4.368516,True
+,BE,Belgium,coordinate,,,,,,,50.843885,4.353403,True
+,BE,Belgium,coordinate,,,,,,,50.844020,4.353569,True
+,BE,Belgium,coordinate,,,,,,,50.844337,4.354342,True
+,BE,Belgium,coordinate,,,,,,,50.845525,4.369942,True
+,BE,Belgium,coordinate,,,,,,,50.845678,4.374042,True
+,BE,Belgium,coordinate,,,,,,,50.847069,4.347968,True
+,BE,Belgium,coordinate,,,,,,,50.847110,2.903582,True
+,BE,Belgium,coordinate,,,,,,,50.847168,4.360279,True
+,BE,Belgium,coordinate,,,,,,,50.847421,4.362455,True
+,BE,Belgium,coordinate,,,,,,,50.847438,4.724701,True
+,BE,Belgium,coordinate,,,,,,,50.847504,4.361179,True
+,BE,Belgium,coordinate,,,,,,,50.848031,4.736543,True
+,BE,Belgium,coordinate,,,,,,,50.848569,3.329960,True
+,BE,Belgium,coordinate,,,,,,,50.848948,4.363225,True
+,BE,Belgium,coordinate,,,,,,,50.848950,4.356442,True
+,BE,Belgium,coordinate,,,,,,,50.848966,2.880609,True
+,BE,Belgium,coordinate,,,,,,,50.849027,2.868619,True
+,BE,Belgium,coordinate,,,,,,,50.849797,4.348350,True
+,BE,Belgium,coordinate,,,,,,,50.849966,2.876078,True
+,BE,Belgium,coordinate,,,,,,,50.849996,4.735217,True
+,BE,Belgium,coordinate,,,,,,,50.850563,3.251291,True
+,BE,Belgium,coordinate,,,,,,,50.850684,3.261965,True
+,BE,Belgium,coordinate,,,,,,,50.850839,4.358331,True
+,BE,Belgium,coordinate,,,,,,,50.851080,4.401889,True
+,BE,Belgium,coordinate,,,,,,,50.851357,4.468714,True
+,BE,Belgium,coordinate,,,,,,,50.851584,4.344740,True
+,BE,Belgium,coordinate,,,,,,,50.851767,4.339238,True
+,BE,Belgium,coordinate,,,,,,,50.852120,4.396662,True
+,BE,Belgium,coordinate,,,,,,,50.852201,4.330328,True
+,BE,Belgium,coordinate,,,,,,,50.852664,4.353086,True
+,BE,Belgium,coordinate,,,,,,,50.853839,3.334861,True
+,BE,Belgium,coordinate,,,,,,,50.854143,4.783911,True
+,BE,Belgium,coordinate,,,,,,,50.854624,3.187320,True
+,BE,Belgium,coordinate,,,,,,,50.855091,3.127682,True
+,BE,Belgium,coordinate,,,,,,,50.855208,4.365247,True
+,BE,Belgium,coordinate,,,,,,,50.856242,4.323520,True
+,BE,Belgium,coordinate,,,,,,,50.856676,4.367255,True
+,BE,Belgium,coordinate,,,,,,,50.857119,4.367486,True
+,BE,Belgium,coordinate,,,,,,,50.857243,4.342483,True
+,BE,Belgium,coordinate,,,,,,,50.858452,4.347777,True
+,BE,Belgium,coordinate,,,,,,,50.858514,4.356999,True
+,BE,Belgium,coordinate,,,,,,,50.858793,4.347595,True
+,BE,Belgium,coordinate,,,,,,,50.861695,3.607180,True
+,BE,Belgium,coordinate,,,,,,,50.862105,3.430084,True
+,BE,Belgium,coordinate,,,,,,,50.862159,4.671838,True
+,BE,Belgium,coordinate,,,,,,,50.862215,4.324549,True
+,BE,Belgium,coordinate,,,,,,,50.862240,2.887942,True
+,BE,Belgium,coordinate,,,,,,,50.862426,5.503671,True
+,BE,Belgium,coordinate,,,,,,,50.862525,4.359225,True
+,BE,Belgium,coordinate,,,,,,,50.862666,4.359137,True
+,BE,Belgium,coordinate,,,,,,,50.862903,3.263479,True
+,BE,Belgium,coordinate,,,,,,,50.863335,3.596213,True
+,BE,Belgium,coordinate,,,,,,,50.863865,4.352809,True
+,BE,Belgium,coordinate,,,,,,,50.864004,4.352955,True
+,BE,Belgium,coordinate,,,,,,,50.864206,4.348798,True
+,BE,Belgium,coordinate,,,,,,,50.865155,4.678824,True
+,BE,Belgium,coordinate,,,,,,,50.865887,4.325686,True
+,BE,Belgium,coordinate,,,,,,,50.866290,4.363012,True
+,BE,Belgium,coordinate,,,,,,,50.866505,4.363110,True
+,BE,Belgium,coordinate,,,,,,,50.866598,4.695377,True
+,BE,Belgium,coordinate,,,,,,,50.868170,4.712123,True
+,BE,Belgium,coordinate,,,,,,,50.868244,4.694486,True
+,BE,Belgium,coordinate,,,,,,,50.868782,3.447119,True
+,BE,Belgium,coordinate,,,,,,,50.868787,4.366075,True
+,BE,Belgium,coordinate,,,,,,,50.868860,4.712479,True
+,BE,Belgium,coordinate,,,,,,,50.869998,2.890121,True
+,BE,Belgium,coordinate,,,,,,,50.870179,4.388318,True
+,BE,Belgium,coordinate,,,,,,,50.870590,4.418014,True
+,BE,Belgium,coordinate,,,,,,,50.870715,2.875590,True
+,BE,Belgium,coordinate,,,,,,,50.871456,4.288486,True
+,BE,Belgium,coordinate,,,,,,,50.871566,4.687079,True
+,BE,Belgium,coordinate,,,,,,,50.871670,4.492764,True
+,BE,Belgium,coordinate,,,,,,,50.872023,4.287482,True
+,BE,Belgium,coordinate,,,,,,,50.872569,3.442636,True
+,BE,Belgium,coordinate,,,,,,,50.872602,4.693220,True
+,BE,Belgium,coordinate,,,,,,,50.872822,4.277254,True
+,BE,Belgium,coordinate,,,,,,,50.872895,4.348152,True
+,BE,Belgium,coordinate,,,,,,,50.873033,3.328926,True
+,BE,Belgium,coordinate,,,,,,,50.873185,4.295029,True
+,BE,Belgium,coordinate,,,,,,,50.873483,4.702921,True
+,BE,Belgium,coordinate,,,,,,,50.873727,4.685905,True
+,BE,Belgium,coordinate,,,,,,,50.874674,4.287477,True
+,BE,Belgium,coordinate,,,,,,,50.874824,4.486106,True
+,BE,Belgium,coordinate,,,,,,,50.875936,4.662071,True
+,BE,Belgium,coordinate,,,,,,,50.876345,2.882904,True
+,BE,Belgium,coordinate,,,,,,,50.876972,4.716817,True
+,BE,Belgium,coordinate,,,,,,,50.877122,4.700602,True
+,BE,Belgium,coordinate,,,,,,,50.877296,5.306659,True
+,BE,Belgium,coordinate,,,,,,,50.878080,5.365241,True
+,BE,Belgium,coordinate,,,,,,,50.878103,4.699674,True
+,BE,Belgium,coordinate,,,,,,,50.878879,4.706884,True
+,BE,Belgium,coordinate,,,,,,,50.879502,4.482621,True
+,BE,Belgium,coordinate,,,,,,,50.879568,4.393821,True
+,BE,Belgium,coordinate,,,,,,,50.880415,4.456811,True
+,BE,Belgium,coordinate,,,,,,,50.880891,3.353591,True
+,BE,Belgium,coordinate,,,,,,,50.881138,5.633965,True
+,BE,Belgium,coordinate,,,,,,,50.881334,4.829225,True
+,BE,Belgium,coordinate,,,,,,,50.881415,2.701529,True
+,BE,Belgium,coordinate,,,,,,,50.882784,4.457216,True
+,BE,Belgium,coordinate,,,,,,,50.883313,4.440573,True
+,BE,Belgium,coordinate,,,,,,,50.883666,4.712825,True
+,BE,Belgium,coordinate,,,,,,,50.884218,4.358000,True
+,BE,Belgium,coordinate,,,,,,,50.884471,4.711811,True
+,BE,Belgium,coordinate,,,,,,,50.885642,4.709948,True
+,BE,Belgium,coordinate,,,,,,,50.886256,4.277579,True
+,BE,Belgium,coordinate,,,,,,,50.886732,4.697668,True
+,BE,Belgium,coordinate,,,,,,,50.888059,5.662488,True
+,BE,Belgium,coordinate,,,,,,,50.888193,4.447743,True
+,BE,Belgium,coordinate,,,,,,,50.888330,5.300290,True
+,BE,Belgium,coordinate,,,,,,,50.888491,5.537140,True
+,BE,Belgium,coordinate,,,,,,,50.888795,4.759323,True
+,BE,Belgium,coordinate,,,,,,,50.890096,4.458555,True
+,BE,Belgium,coordinate,,,,,,,50.890126,5.416770,True
+,BE,Belgium,coordinate,,,,,,,50.891482,4.255882,True
+,BE,Belgium,coordinate,,,,,,,50.894008,4.428384,True
+,BE,Belgium,coordinate,,,,,,,50.895009,3.410875,True
+,BE,Belgium,coordinate,,,,,,,50.898687,4.400210,True
+,BE,Belgium,coordinate,,,,,,,50.899702,4.342817,True
+,BE,Belgium,coordinate,,,,,,,50.900759,5.301663,True
+,BE,Belgium,coordinate,,,,,,,50.900999,4.485574,True
+,BE,Belgium,coordinate,,,,,,,50.902013,3.361505,True
+,BE,Belgium,coordinate,,,,,,,50.903930,2.740505,True
+,BE,Belgium,coordinate,,,,,,,50.906332,5.506678,True
+,BE,Belgium,coordinate,,,,,,,50.907655,4.402062,True
+,BE,Belgium,coordinate,,,,,,,50.907677,4.050247,True
+,BE,Belgium,coordinate,,,,,,,50.909417,3.263268,True
+,BE,Belgium,coordinate,,,,,,,50.910830,5.413360,True
+,BE,Belgium,coordinate,,,,,,,50.911205,4.717387,True
+,BE,Belgium,coordinate,,,,,,,50.911291,4.417397,True
+,BE,Belgium,coordinate,,,,,,,50.911763,4.037371,True
+,BE,Belgium,coordinate,,,,,,,50.913221,5.344494,True
+,BE,Belgium,coordinate,,,,,,,50.913743,2.909774,True
+,BE,Belgium,coordinate,,,,,,,50.914281,5.344381,True
+,BE,Belgium,coordinate,,,,,,,50.914352,4.399721,True
+,BE,Belgium,coordinate,,,,,,,50.915008,4.399571,True
+,BE,Belgium,coordinate,,,,,,,50.915132,5.502013,True
+,BE,Belgium,coordinate,,,,,,,50.915203,4.045564,True
+,BE,Belgium,coordinate,,,,,,,50.916212,5.329532,True
+,BE,Belgium,coordinate,,,,,,,50.916552,5.328451,True
+,BE,Belgium,coordinate,,,,,,,50.916654,4.223974,True
+,BE,Belgium,coordinate,,,,,,,50.917782,5.350580,True
+,BE,Belgium,coordinate,,,,,,,50.918304,4.361875,True
+,BE,Belgium,coordinate,,,,,,,50.919111,4.477011,True
+,BE,Belgium,coordinate,,,,,,,50.919895,5.486039,True
+,BE,Belgium,coordinate,,,,,,,50.920796,3.337808,True
+,BE,Belgium,coordinate,,,,,,,50.921484,3.210493,True
+,BE,Belgium,coordinate,,,,,,,50.921874,4.701753,True
+,BE,Belgium,coordinate,,,,,,,50.922153,5.331224,True
+,BE,Belgium,coordinate,,,,,,,50.922373,5.354642,True
+,BE,Belgium,coordinate,,,,,,,50.922465,3.140247,True
+,BE,Belgium,coordinate,,,,,,,50.922488,5.354533,True
+,BE,Belgium,coordinate,,,,,,,50.922512,5.354527,True
+,BE,Belgium,coordinate,,,,,,,50.923266,5.374246,True
+,BE,Belgium,coordinate,,,,,,,50.923595,5.536470,True
+,BE,Belgium,coordinate,,,,,,,50.924404,4.435196,True
+,BE,Belgium,coordinate,,,,,,,50.925076,4.035506,True
+,BE,Belgium,coordinate,,,,,,,50.925289,4.447558,True
+,BE,Belgium,coordinate,,,,,,,50.926031,3.117112,True
+,BE,Belgium,coordinate,,,,,,,50.926447,4.427683,True
+,BE,Belgium,coordinate,,,,,,,50.926720,5.326568,True
+,BE,Belgium,coordinate,,,,,,,50.926894,5.525016,True
+,BE,Belgium,coordinate,,,,,,,50.926976,5.346903,True
+,BE,Belgium,coordinate,,,,,,,50.927327,4.004023,True
+,BE,Belgium,coordinate,,,,,,,50.927581,3.537359,True
+,BE,Belgium,coordinate,,,,,,,50.927605,5.361343,True
+,BE,Belgium,coordinate,,,,,,,50.927754,5.357691,True
+,BE,Belgium,coordinate,,,,,,,50.929214,4.424751,True
+,BE,Belgium,coordinate,,,,,,,50.930280,3.202360,True
+,BE,Belgium,coordinate,,,,,,,50.930603,5.362809,True
+,BE,Belgium,coordinate,,,,,,,50.930698,5.370076,True
+,BE,Belgium,coordinate,,,,,,,50.930865,4.428050,True
+,BE,Belgium,coordinate,,,,,,,50.931285,4.021270,True
+,BE,Belgium,coordinate,,,,,,,50.931682,3.192095,True
+,BE,Belgium,coordinate,,,,,,,50.931781,5.330258,True
+,BE,Belgium,coordinate,,,,,,,50.932186,5.396065,True
+,BE,Belgium,coordinate,,,,,,,50.933214,5.341951,True
+,BE,Belgium,coordinate,,,,,,,50.933361,3.647055,True
+,BE,Belgium,coordinate,,,,,,,50.933821,3.117285,True
+,BE,Belgium,coordinate,,,,,,,50.934316,4.375596,True
+,BE,Belgium,coordinate,,,,,,,50.935057,4.045338,True
+,BE,Belgium,coordinate,,,,,,,50.935769,5.315666,True
+,BE,Belgium,coordinate,,,,,,,50.936801,5.412771,True
+,BE,Belgium,coordinate,,,,,,,50.937196,4.034990,True
+,BE,Belgium,coordinate,,,,,,,50.937845,5.349203,True
+,BE,Belgium,coordinate,,,,,,,50.938333,4.434206,True
+,BE,Belgium,coordinate,,,,,,,50.938522,3.120234,True
+,BE,Belgium,coordinate,,,,,,,50.938834,4.404093,True
+,BE,Belgium,coordinate,,,,,,,50.939135,4.025018,True
+,BE,Belgium,coordinate,,,,,,,50.939210,3.637864,True
+,BE,Belgium,coordinate,,,,,,,50.939720,5.499216,True
+,BE,Belgium,coordinate,,,,,,,50.940089,5.353118,True
+,BE,Belgium,coordinate,,,,,,,50.940405,5.318745,True
+,BE,Belgium,coordinate,,,,,,,50.942439,5.321448,True
+,BE,Belgium,coordinate,,,,,,,50.942944,4.055331,True
+,BE,Belgium,coordinate,,,,,,,50.942971,4.730220,True
+,BE,Belgium,coordinate,,,,,,,50.943377,5.376059,True
+,BE,Belgium,coordinate,,,,,,,50.943439,5.324957,True
+,BE,Belgium,coordinate,,,,,,,50.943478,3.163569,True
+,BE,Belgium,coordinate,,,,,,,50.943649,3.122991,True
+,BE,Belgium,coordinate,,,,,,,50.945080,5.475690,True
+,BE,Belgium,coordinate,,,,,,,50.945084,4.443694,True
+,BE,Belgium,coordinate,,,,,,,50.945139,3.123739,True
+,BE,Belgium,coordinate,,,,,,,50.945858,4.444678,True
+,BE,Belgium,coordinate,,,,,,,50.946041,3.097128,True
+,BE,Belgium,coordinate,,,,,,,50.946301,5.694753,True
+,BE,Belgium,coordinate,,,,,,,50.946337,4.034232,True
+,BE,Belgium,coordinate,,,,,,,50.946532,4.438892,True
+,BE,Belgium,coordinate,,,,,,,50.946915,3.156340,True
+,BE,Belgium,coordinate,,,,,,,50.948734,5.341609,True
+,BE,Belgium,coordinate,,,,,,,50.948793,4.037290,True
+,BE,Belgium,coordinate,,,,,,,50.949259,3.593212,True
+,BE,Belgium,coordinate,,,,,,,50.949521,3.119445,True
+,BE,Belgium,coordinate,,,,,,,50.951699,5.114305,True
+,BE,Belgium,coordinate,,,,,,,50.951907,5.350423,True
+,BE,Belgium,coordinate,,,,,,,50.952116,5.084698,True
+,BE,Belgium,coordinate,,,,,,,50.953535,3.286122,True
+,BE,Belgium,coordinate,,,,,,,50.953903,5.405932,True
+,BE,Belgium,coordinate,,,,,,,50.954097,5.485518,True
+,BE,Belgium,coordinate,,,,,,,50.957498,3.547014,True
+,BE,Belgium,coordinate,,,,,,,50.957629,3.101694,True
+,BE,Belgium,coordinate,,,,,,,50.958285,3.550329,True
+,BE,Belgium,coordinate,,,,,,,50.960354,3.121110,True
+,BE,Belgium,coordinate,,,,,,,50.960512,3.101824,True
+,BE,Belgium,coordinate,,,,,,,50.965503,5.495988,True
+,BE,Belgium,coordinate,,,,,,,50.967732,5.490864,True
+,BE,Belgium,coordinate,,,,,,,50.967798,5.517704,True
+,BE,Belgium,coordinate,,,,,,,50.968849,2.781897,True
+,BE,Belgium,coordinate,,,,,,,50.970485,3.517031,True
+,BE,Belgium,coordinate,,,,,,,50.970868,3.865084,True
+,BE,Belgium,coordinate,,,,,,,50.971097,3.515985,True
+,BE,Belgium,coordinate,,,,,,,50.974651,3.014575,True
+,BE,Belgium,coordinate,,,,,,,50.975279,3.163722,True
+,BE,Belgium,coordinate,,,,,,,50.975650,3.125338,True
+,BE,Belgium,coordinate,,,,,,,50.977835,3.125029,True
+,BE,Belgium,coordinate,,,,,,,50.978525,3.120688,True
+,BE,Belgium,coordinate,,,,,,,50.979301,2.746671,True
+,BE,Belgium,coordinate,,,,,,,50.980615,4.827381,True
+,BE,Belgium,coordinate,,,,,,,50.981143,5.354611,True
+,BE,Belgium,coordinate,,,,,,,50.981422,3.343646,True
+,BE,Belgium,coordinate,,,,,,,50.982720,5.515534,True
+,BE,Belgium,coordinate,,,,,,,50.982748,3.341674,True
+,BE,Belgium,coordinate,,,,,,,50.983383,5.242496,True
+,BE,Belgium,coordinate,,,,,,,50.984103,4.136626,True
+,BE,Belgium,coordinate,,,,,,,50.986100,3.752980,True
+,BE,Belgium,coordinate,,,,,,,50.986932,3.674569,True
+,BE,Belgium,coordinate,,,,,,,50.988288,3.769299,True
+,BE,Belgium,coordinate,,,,,,,50.988705,4.836089,True
+,BE,Belgium,coordinate,,,,,,,50.988743,3.842851,True
+,BE,Belgium,coordinate,,,,,,,50.989638,3.198910,True
+,BE,Belgium,coordinate,,,,,,,50.990522,3.834303,True
+,BE,Belgium,coordinate,,,,,,,50.992215,4.822262,True
+,BE,Belgium,coordinate,,,,,,,50.993072,5.517522,True
+,BE,Belgium,coordinate,,,,,,,50.993140,5.241807,True
+,BE,Belgium,coordinate,,,,,,,50.993196,5.198899,True
+,BE,Belgium,coordinate,,,,,,,50.993761,3.421637,True
+,BE,Belgium,coordinate,,,,,,,50.993784,5.236307,True
+,BE,Belgium,coordinate,,,,,,,50.995097,3.124609,True
+,BE,Belgium,coordinate,,,,,,,50.995696,3.119071,True
+,BE,Belgium,coordinate,,,,,,,50.995735,5.462413,True
+,BE,Belgium,coordinate,,,,,,,50.995861,3.791182,True
+,BE,Belgium,coordinate,,,,,,,50.996250,3.116563,True
+,BE,Belgium,coordinate,,,,,,,50.996296,3.780346,True
+,BE,Belgium,coordinate,,,,,,,50.997181,5.231997,True
+,BE,Belgium,coordinate,,,,,,,50.997853,5.186542,True
+,BE,Belgium,coordinate,,,,,,,50.999377,5.511352,True
+,BE,Belgium,coordinate,,,,,,,51.004364,3.754895,True
+,BE,Belgium,coordinate,,,,,,,51.007191,3.712097,True
+,BE,Belgium,coordinate,,,,,,,51.008165,3.937947,True
+,BE,Belgium,coordinate,,,,,,,51.008181,3.708155,True
+,BE,Belgium,coordinate,,,,,,,51.008378,3.707583,True
+,BE,Belgium,coordinate,,,,,,,51.008695,4.361134,True
+,BE,Belgium,coordinate,,,,,,,51.009244,3.705231,True
+,BE,Belgium,coordinate,,,,,,,51.009786,3.712611,True
+,BE,Belgium,coordinate,,,,,,,51.011911,5.121860,True
+,BE,Belgium,coordinate,,,,,,,51.012823,3.643045,True
+,BE,Belgium,coordinate,,,,,,,51.014986,5.364736,True
+,BE,Belgium,coordinate,,,,,,,51.015317,4.481193,True
+,BE,Belgium,coordinate,,,,,,,51.015746,4.459047,True
+,BE,Belgium,coordinate,,,,,,,51.015995,5.364697,True
+,BE,Belgium,coordinate,,,,,,,51.016042,5.695089,True
+,BE,Belgium,coordinate,,,,,,,51.017368,4.481689,True
+,BE,Belgium,coordinate,,,,,,,51.021310,4.487229,True
+,BE,Belgium,coordinate,,,,,,,51.023199,3.697769,True
+,BE,Belgium,coordinate,,,,,,,51.023326,3.698447,True
+,BE,Belgium,coordinate,,,,,,,51.023334,4.479460,True
+,BE,Belgium,coordinate,,,,,,,51.023856,3.208748,True
+,BE,Belgium,coordinate,,,,,,,51.024161,3.731691,True
+,BE,Belgium,coordinate,,,,,,,51.024182,3.117277,True
+,BE,Belgium,coordinate,,,,,,,51.025477,4.101952,True
+,BE,Belgium,coordinate,,,,,,,51.025654,5.372443,True
+,BE,Belgium,coordinate,,,,,,,51.025879,4.477537,True
+,BE,Belgium,coordinate,,,,,,,51.026543,5.375069,True
+,BE,Belgium,coordinate,,,,,,,51.027774,4.480866,True
+,BE,Belgium,coordinate,,,,,,,51.028019,2.857403,True
+,BE,Belgium,coordinate,,,,,,,51.028639,3.000189,True
+,BE,Belgium,coordinate,,,,,,,51.029190,4.476039,True
+,BE,Belgium,coordinate,,,,,,,51.029320,4.480734,True
+,BE,Belgium,coordinate,,,,,,,51.029515,3.735458,True
+,BE,Belgium,coordinate,,,,,,,51.029696,2.854029,True
+,BE,Belgium,coordinate,,,,,,,51.029840,3.687742,True
+,BE,Belgium,coordinate,,,,,,,51.030662,4.479666,True
+,BE,Belgium,coordinate,,,,,,,51.031651,4.091779,True
+,BE,Belgium,coordinate,,,,,,,51.031949,4.102779,True
+,BE,Belgium,coordinate,,,,,,,51.033052,4.100931,True
+,BE,Belgium,coordinate,,,,,,,51.033759,3.718754,True
+,BE,Belgium,coordinate,,,,,,,51.033787,2.849780,True
+,BE,Belgium,coordinate,,,,,,,51.035404,3.734978,True
+,BE,Belgium,coordinate,,,,,,,51.035806,3.753827,True
+,BE,Belgium,coordinate,,,,,,,51.036931,5.540944,True
+,BE,Belgium,coordinate,,,,,,,51.037105,3.710089,True
+,BE,Belgium,coordinate,,,,,,,51.037141,3.713624,True
+,BE,Belgium,coordinate,,,,,,,51.037466,3.618271,True
+,BE,Belgium,coordinate,,,,,,,51.037614,3.623958,True
+,BE,Belgium,coordinate,,,,,,,51.037712,5.228789,True
+,BE,Belgium,coordinate,,,,,,,51.038661,5.329537,True
+,BE,Belgium,coordinate,,,,,,,51.038672,5.542617,True
+,BE,Belgium,coordinate,,,,,,,51.039471,3.731827,True
+,BE,Belgium,coordinate,,,,,,,51.040180,3.710021,True
+,BE,Belgium,coordinate,,,,,,,51.040737,3.764850,True
+,BE,Belgium,coordinate,,,,,,,51.041116,5.330343,True
+,BE,Belgium,coordinate,,,,,,,51.041862,5.690096,True
+,BE,Belgium,coordinate,,,,,,,51.044140,3.590375,True
+,BE,Belgium,coordinate,,,,,,,51.044402,3.751920,True
+,BE,Belgium,coordinate,,,,,,,51.044520,3.734419,True
+,BE,Belgium,coordinate,,,,,,,51.044537,3.751135,True
+,BE,Belgium,coordinate,,,,,,,51.046372,5.183123,True
+,BE,Belgium,coordinate,,,,,,,51.046780,3.710500,True
+,BE,Belgium,coordinate,,,,,,,51.047554,3.729938,True
+,BE,Belgium,coordinate,,,,,,,51.047578,3.724473,True
+,BE,Belgium,coordinate,,,,,,,51.047704,3.727382,True
+,BE,Belgium,coordinate,,,,,,,51.047725,3.727208,True
+,BE,Belgium,coordinate,,,,,,,51.047995,3.728320,True
+,BE,Belgium,coordinate,,,,,,,51.048521,3.410782,True
+,BE,Belgium,coordinate,,,,,,,51.048969,3.703299,True
+,BE,Belgium,coordinate,,,,,,,51.049962,3.718688,True
+,BE,Belgium,coordinate,,,,,,,51.050770,3.707842,True
+,BE,Belgium,coordinate,,,,,,,51.051377,3.207836,True
+,BE,Belgium,coordinate,,,,,,,51.051575,3.726871,True
+,BE,Belgium,coordinate,,,,,,,51.051610,3.728530,True
+,BE,Belgium,coordinate,,,,,,,51.052207,3.718563,True
+,BE,Belgium,coordinate,,,,,,,51.052531,3.728088,True
+,BE,Belgium,coordinate,,,,,,,51.053085,3.582839,True
+,BE,Belgium,coordinate,,,,,,,51.053675,4.457578,True
+,BE,Belgium,coordinate,,,,,,,51.053782,3.731905,True
+,BE,Belgium,coordinate,,,,,,,51.054081,3.714476,True
+,BE,Belgium,coordinate,,,,,,,51.054531,3.725321,True
+,BE,Belgium,coordinate,,,,,,,51.055587,4.458992,True
+,BE,Belgium,coordinate,,,,,,,51.055599,3.722966,True
+,BE,Belgium,coordinate,,,,,,,51.055615,3.731691,True
+,BE,Belgium,coordinate,,,,,,,51.056058,3.726892,True
+,BE,Belgium,coordinate,,,,,,,51.056397,3.746144,True
+,BE,Belgium,coordinate,,,,,,,51.056521,5.174383,True
+,BE,Belgium,coordinate,,,,,,,51.057460,3.725397,True
+,BE,Belgium,coordinate,,,,,,,51.059751,5.165161,True
+,BE,Belgium,coordinate,,,,,,,51.060175,3.746949,True
+,BE,Belgium,coordinate,,,,,,,51.060603,3.731028,True
+,BE,Belgium,coordinate,,,,,,,51.061100,3.718327,True
+,BE,Belgium,coordinate,,,,,,,51.063385,4.721060,True
+,BE,Belgium,coordinate,,,,,,,51.064266,4.514869,True
+,BE,Belgium,coordinate,,,,,,,51.064653,3.752599,True
+,BE,Belgium,coordinate,,,,,,,51.065041,4.714734,True
+,BE,Belgium,coordinate,,,,,,,51.066228,3.702715,True
+,BE,Belgium,coordinate,,,,,,,51.066327,2.671514,True
+,BE,Belgium,coordinate,,,,,,,51.066359,4.313464,True
+,BE,Belgium,coordinate,,,,,,,51.066816,5.161081,True
+,BE,Belgium,coordinate,,,,,,,51.067355,5.095569,True
+,BE,Belgium,coordinate,,,,,,,51.067376,3.732636,True
+,BE,Belgium,coordinate,,,,,,,51.068082,3.722621,True
+,BE,Belgium,coordinate,,,,,,,51.068422,3.715539,True
+,BE,Belgium,coordinate,,,,,,,51.068464,3.762782,True
+,BE,Belgium,coordinate,,,,,,,51.068875,4.050167,True
+,BE,Belgium,coordinate,,,,,,,51.068882,3.701817,True
+,BE,Belgium,coordinate,,,,,,,51.069536,4.501007,True
+,BE,Belgium,coordinate,,,,,,,51.071004,5.221709,True
+,BE,Belgium,coordinate,,,,,,,51.073474,5.140688,True
+,BE,Belgium,coordinate,,,,,,,51.073725,5.170528,True
+,BE,Belgium,coordinate,,,,,,,51.074417,3.723303,True
+,BE,Belgium,coordinate,,,,,,,51.074940,4.040569,True
+,BE,Belgium,coordinate,,,,,,,51.076701,4.805637,True
+,BE,Belgium,coordinate,,,,,,,51.076926,3.728233,True
+,BE,Belgium,coordinate,,,,,,,51.080327,4.405075,True
+,BE,Belgium,coordinate,,,,,,,51.080710,5.164579,True
+,BE,Belgium,coordinate,,,,,,,51.081772,4.366041,True
+,BE,Belgium,coordinate,,,,,,,51.081777,4.813064,True
+,BE,Belgium,coordinate,,,,,,,51.082738,3.728002,True
+,BE,Belgium,coordinate,,,,,,,51.082789,4.001870,True
+,BE,Belgium,coordinate,,,,,,,51.082963,4.047760,True
+,BE,Belgium,coordinate,,,,,,,51.084982,3.998543,True
+,BE,Belgium,coordinate,,,,,,,51.085665,3.701993,True
+,BE,Belgium,coordinate,,,,,,,51.086011,4.362422,True
+,BE,Belgium,coordinate,,,,,,,51.086088,3.818242,True
+,BE,Belgium,coordinate,,,,,,,51.086343,4.482177,True
+,BE,Belgium,coordinate,,,,,,,51.087771,4.475206,True
+,BE,Belgium,coordinate,,,,,,,51.088379,5.232387,True
+,BE,Belgium,coordinate,,,,,,,51.091894,5.112498,True
+,BE,Belgium,coordinate,,,,,,,51.092289,3.820248,True
+,BE,Belgium,coordinate,,,,,,,51.092870,3.697177,True
+,BE,Belgium,coordinate,,,,,,,51.093317,3.667613,True
+,BE,Belgium,coordinate,,,,,,,51.093930,4.135795,True
+,BE,Belgium,coordinate,,,,,,,51.096319,3.638705,True
+,BE,Belgium,coordinate,,,,,,,51.098316,4.610569,True
+,BE,Belgium,coordinate,,,,,,,51.098374,3.441438,True
+,BE,Belgium,coordinate,,,,,,,51.098710,3.610645,True
+,BE,Belgium,coordinate,,,,,,,51.100802,5.055268,True
+,BE,Belgium,coordinate,,,,,,,51.101607,3.220633,True
+,BE,Belgium,coordinate,,,,,,,51.105141,3.431973,True
+,BE,Belgium,coordinate,,,,,,,51.105144,3.431921,True
+,BE,Belgium,coordinate,,,,,,,51.105391,2.650080,True
+,BE,Belgium,coordinate,,,,,,,51.106251,3.444712,True
+,BE,Belgium,coordinate,,,,,,,51.106312,3.444254,True
+,BE,Belgium,coordinate,,,,,,,51.108086,5.782564,True
+,BE,Belgium,coordinate,,,,,,,51.109962,3.733635,True
+,BE,Belgium,coordinate,,,,,,,51.113268,3.789787,True
+,BE,Belgium,coordinate,,,,,,,51.114044,4.181940,True
+,BE,Belgium,coordinate,,,,,,,51.117155,4.367659,True
+,BE,Belgium,coordinate,,,,,,,51.117924,3.775906,True
+,BE,Belgium,coordinate,,,,,,,51.118192,3.558996,True
+,BE,Belgium,coordinate,,,,,,,51.118474,4.017068,True
+,BE,Belgium,coordinate,,,,,,,51.119850,5.013076,True
+,BE,Belgium,coordinate,,,,,,,51.120329,3.291275,True
+,BE,Belgium,coordinate,,,,,,,51.126206,3.250751,True
+,BE,Belgium,coordinate,,,,,,,51.126613,5.505606,True
+,BE,Belgium,coordinate,,,,,,,51.126911,3.155376,True
+,BE,Belgium,coordinate,,,,,,,51.127232,4.423723,True
+,BE,Belgium,coordinate,,,,,,,51.128343,4.581384,True
+,BE,Belgium,coordinate,,,,,,,51.132905,5.525455,True
+,BE,Belgium,coordinate,,,,,,,51.133580,4.457252,True
+,BE,Belgium,coordinate,,,,,,,51.133852,3.493746,True
+,BE,Belgium,coordinate,,,,,,,51.134749,4.933067,True
+,BE,Belgium,coordinate,,,,,,,51.136908,4.925619,True
+,BE,Belgium,coordinate,,,,,,,51.137513,3.772588,True
+,BE,Belgium,coordinate,,,,,,,51.138203,3.252012,True
+,BE,Belgium,coordinate,,,,,,,51.139575,4.189832,True
+,BE,Belgium,coordinate,,,,,,,51.141047,4.437622,True
+,BE,Belgium,coordinate,,,,,,,51.141740,4.440498,True
+,BE,Belgium,coordinate,,,,,,,51.142185,4.437227,True
+,BE,Belgium,coordinate,,,,,,,51.143222,5.626161,True
+,BE,Belgium,coordinate,,,,,,,51.143457,4.435357,True
+,BE,Belgium,coordinate,,,,,,,51.143650,4.921820,True
+,BE,Belgium,coordinate,,,,,,,51.143701,4.897666,True
+,BE,Belgium,coordinate,,,,,,,51.144112,4.064813,True
+,BE,Belgium,coordinate,,,,,,,51.146866,3.240462,True
+,BE,Belgium,coordinate,,,,,,,51.148101,4.393959,True
+,BE,Belgium,coordinate,,,,,,,51.148136,4.856493,True
+,BE,Belgium,coordinate,,,,,,,51.148866,4.914838,True
+,BE,Belgium,coordinate,,,,,,,51.149032,4.565514,True
+,BE,Belgium,coordinate,,,,,,,51.149165,4.887288,True
+,BE,Belgium,coordinate,,,,,,,51.150679,4.382654,True
+,BE,Belgium,coordinate,,,,,,,51.151944,3.547180,True
+,BE,Belgium,coordinate,,,,,,,51.152095,4.534705,True
+,BE,Belgium,coordinate,,,,,,,51.152889,4.133497,True
+,BE,Belgium,coordinate,,,,,,,51.153605,3.678603,True
+,BE,Belgium,coordinate,,,,,,,51.155738,4.865744,True
+,BE,Belgium,coordinate,,,,,,,51.156820,3.232918,True
+,BE,Belgium,coordinate,,,,,,,51.157482,4.410898,True
+,BE,Belgium,coordinate,,,,,,,51.158254,5.157242,True
+,BE,Belgium,coordinate,,,,,,,51.160008,4.368053,True
+,BE,Belgium,coordinate,,,,,,,51.160498,5.152481,True
+,BE,Belgium,coordinate,,,,,,,51.163813,4.800282,True
+,BE,Belgium,coordinate,,,,,,,51.164296,4.777815,True
+,BE,Belgium,coordinate,,,,,,,51.166526,3.024646,True
+,BE,Belgium,coordinate,,,,,,,51.171290,4.426346,True
+,BE,Belgium,coordinate,,,,,,,51.172827,4.389538,True
+,BE,Belgium,coordinate,,,,,,,51.174792,4.400457,True
+,BE,Belgium,coordinate,,,,,,,51.176854,4.835595,True
+,BE,Belgium,coordinate,,,,,,,51.178475,3.540240,True
+,BE,Belgium,coordinate,,,,,,,51.178969,4.349508,True
+,BE,Belgium,coordinate,,,,,,,51.179058,3.548215,True
+,BE,Belgium,coordinate,,,,,,,51.179993,3.111419,True
+,BE,Belgium,coordinate,,,,,,,51.181073,3.573040,True
+,BE,Belgium,coordinate,,,,,,,51.181234,3.548358,True
+,BE,Belgium,coordinate,,,,,,,51.181526,4.336988,True
+,BE,Belgium,coordinate,,,,,,,51.183610,3.831348,True
+,BE,Belgium,coordinate,,,,,,,51.183876,3.550034,True
+,BE,Belgium,coordinate,,,,,,,51.184167,3.002404,True
+,BE,Belgium,coordinate,,,,,,,51.184851,4.609554,True
+,BE,Belgium,coordinate,,,,,,,51.184986,3.447115,True
+,BE,Belgium,coordinate,,,,,,,51.185252,4.323527,True
+,BE,Belgium,coordinate,,,,,,,51.185914,3.568632,True
+,BE,Belgium,coordinate,,,,,,,51.186158,4.435308,True
+,BE,Belgium,coordinate,,,,,,,51.186326,3.227348,True
+,BE,Belgium,coordinate,,,,,,,51.186683,3.248996,True
+,BE,Belgium,coordinate,,,,,,,51.186895,4.427830,True
+,BE,Belgium,coordinate,,,,,,,51.188146,4.427496,True
+,BE,Belgium,coordinate,,,,,,,51.189691,3.568960,True
+,BE,Belgium,coordinate,,,,,,,51.190306,2.830836,True
+,BE,Belgium,coordinate,,,,,,,51.190482,4.451932,True
+,BE,Belgium,coordinate,,,,,,,51.190670,3.232534,True
+,BE,Belgium,coordinate,,,,,,,51.192027,4.419596,True
+,BE,Belgium,coordinate,,,,,,,51.192608,3.219005,True
+,BE,Belgium,coordinate,,,,,,,51.193525,3.184295,True
+,BE,Belgium,coordinate,,,,,,,51.193716,4.409603,True
+,BE,Belgium,coordinate,,,,,,,51.193856,4.370321,True
+,BE,Belgium,coordinate,,,,,,,51.193933,5.235784,True
+,BE,Belgium,coordinate,,,,,,,51.194061,3.636829,True
+,BE,Belgium,coordinate,,,,,,,51.194674,4.464119,True
+,BE,Belgium,coordinate,,,,,,,51.194977,4.423385,True
+,BE,Belgium,coordinate,,,,,,,51.195040,4.318603,True
+,BE,Belgium,coordinate,,,,,,,51.195616,3.827474,True
+,BE,Belgium,coordinate,,,,,,,51.195808,4.638428,True
+,BE,Belgium,coordinate,,,,,,,51.196339,4.318057,True
+,BE,Belgium,coordinate,,,,,,,51.196488,3.005971,True
+,BE,Belgium,coordinate,,,,,,,51.196739,3.223553,True
+,BE,Belgium,coordinate,,,,,,,51.197206,5.230664,True
+,BE,Belgium,coordinate,,,,,,,51.198445,4.416364,True
+,BE,Belgium,coordinate,,,,,,,51.199624,3.526386,True
+,BE,Belgium,coordinate,,,,,,,51.199723,3.206892,True
+,BE,Belgium,coordinate,,,,,,,51.200020,4.414494,True
+,BE,Belgium,coordinate,,,,,,,51.200209,4.392079,True
+,BE,Belgium,coordinate,,,,,,,51.200221,4.438212,True
+,BE,Belgium,coordinate,,,,,,,51.200231,4.438220,True
+,BE,Belgium,coordinate,,,,,,,51.200827,4.432862,True
+,BE,Belgium,coordinate,,,,,,,51.201356,5.519469,True
+,BE,Belgium,coordinate,,,,,,,51.203406,4.427319,True
+,BE,Belgium,coordinate,,,,,,,51.203645,3.497711,True
+,BE,Belgium,coordinate,,,,,,,51.203939,3.763186,True
+,BE,Belgium,coordinate,,,,,,,51.204279,4.441545,True
+,BE,Belgium,coordinate,,,,,,,51.204841,4.410445,True
+,BE,Belgium,coordinate,,,,,,,51.205822,4.398362,True
+,BE,Belgium,coordinate,,,,,,,51.205831,4.470966,True
+,BE,Belgium,coordinate,,,,,,,51.205863,3.224475,True
+,BE,Belgium,coordinate,,,,,,,51.208458,4.386153,True
+,BE,Belgium,coordinate,,,,,,,51.208927,2.966004,True
+,BE,Belgium,coordinate,,,,,,,51.208949,3.227624,True
+,BE,Belgium,coordinate,,,,,,,51.209527,2.962962,True
+,BE,Belgium,coordinate,,,,,,,51.209746,4.407710,True
+,BE,Belgium,coordinate,,,,,,,51.210058,4.439588,True
+,BE,Belgium,coordinate,,,,,,,51.210536,4.418519,True
+,BE,Belgium,coordinate,,,,,,,51.210944,3.236195,True
+,BE,Belgium,coordinate,,,,,,,51.211166,3.225612,True
+,BE,Belgium,coordinate,,,,,,,51.212264,4.390031,True
+,BE,Belgium,coordinate,,,,,,,51.212265,2.936279,True
+,BE,Belgium,coordinate,,,,,,,51.213023,4.430911,True
+,BE,Belgium,coordinate,,,,,,,51.214106,4.343845,True
+,BE,Belgium,coordinate,,,,,,,51.214613,3.162609,True
+,BE,Belgium,coordinate,,,,,,,51.215155,4.413560,True
+,BE,Belgium,coordinate,,,,,,,51.215202,4.406381,True
+,BE,Belgium,coordinate,,,,,,,51.216126,4.410546,True
+,BE,Belgium,coordinate,,,,,,,51.216687,5.186983,True
+,BE,Belgium,coordinate,,,,,,,51.217161,2.915262,True
+,BE,Belgium,coordinate,,,,,,,51.217169,4.413617,True
+,BE,Belgium,coordinate,,,,,,,51.218236,4.420767,True
+,BE,Belgium,coordinate,,,,,,,51.218781,4.352643,True
+,BE,Belgium,coordinate,,,,,,,51.219524,4.417853,True
+,BE,Belgium,coordinate,,,,,,,51.219877,4.401136,True
+,BE,Belgium,coordinate,,,,,,,51.220037,4.404486,True
+,BE,Belgium,coordinate,,,,,,,51.220078,2.950113,True
+,BE,Belgium,coordinate,,,,,,,51.220285,5.376541,True
+,BE,Belgium,coordinate,,,,,,,51.220380,4.407584,True
+,BE,Belgium,coordinate,,,,,,,51.220448,4.441926,True
+,BE,Belgium,coordinate,,,,,,,51.220803,3.230528,True
+,BE,Belgium,coordinate,,,,,,,51.221311,4.399161,True
+,BE,Belgium,coordinate,,,,,,,51.222168,4.411675,True
+,BE,Belgium,coordinate,,,,,,,51.222468,4.410134,True
+,BE,Belgium,coordinate,,,,,,,51.226633,4.416308,True
+,BE,Belgium,coordinate,,,,,,,51.226649,4.409633,True
+,BE,Belgium,coordinate,,,,,,,51.227107,4.403753,True
+,BE,Belgium,coordinate,,,,,,,51.227240,5.431730,True
+,BE,Belgium,coordinate,,,,,,,51.228038,4.413347,True
+,BE,Belgium,coordinate,,,,,,,51.232566,4.318439,True
+,BE,Belgium,coordinate,,,,,,,51.233035,4.385771,True
+,BE,Belgium,coordinate,,,,,,,51.233682,4.509159,True
+,BE,Belgium,coordinate,,,,,,,51.236557,4.500468,True
+,BE,Belgium,coordinate,,,,,,,51.236849,4.420221,True
+,BE,Belgium,coordinate,,,,,,,51.238809,5.269832,True
+,BE,Belgium,coordinate,,,,,,,51.240250,4.304384,True
+,BE,Belgium,coordinate,,,,,,,51.242073,3.200371,True
+,BE,Belgium,coordinate,,,,,,,51.243548,4.440891,True
+,BE,Belgium,coordinate,,,,,,,51.244109,4.448241,True
+,BE,Belgium,coordinate,,,,,,,51.244292,4.419750,True
+,BE,Belgium,coordinate,,,,,,,51.247850,5.521657,True
+,BE,Belgium,coordinate,,,,,,,51.248022,5.519523,True
+,BE,Belgium,coordinate,,,,,,,51.248447,3.199471,True
+,BE,Belgium,coordinate,,,,,,,51.253268,5.551176,True
+,BE,Belgium,coordinate,,,,,,,51.256088,4.416808,True
+,BE,Belgium,coordinate,,,,,,,51.263904,4.392327,True
+,BE,Belgium,coordinate,,,,,,,51.266551,4.400566,True
+,BE,Belgium,coordinate,,,,,,,51.272596,4.456315,True
+,BE,Belgium,coordinate,,,,,,,51.281020,4.236451,True
+,BE,Belgium,coordinate,,,,,,,51.287918,4.916369,True
+,BE,Belgium,coordinate,,,,,,,51.294784,4.346924,True
+,BE,Belgium,coordinate,,,,,,,51.297254,3.074436,True
+,BE,Belgium,coordinate,,,,,,,51.300371,4.915252,True
+,BE,Belgium,coordinate,,,,,,,51.300796,5.103906,True
+,BE,Belgium,coordinate,,,,,,,51.301412,4.932483,True
+,BE,Belgium,coordinate,,,,,,,51.302850,4.934066,True
+,BE,Belgium,coordinate,,,,,,,51.304729,4.296763,True
+,BE,Belgium,coordinate,,,,,,,51.304759,4.840450,True
+,BE,Belgium,coordinate,,,,,,,51.308053,4.492528,True
+,BE,Belgium,coordinate,,,,,,,51.308199,3.137538,True
+,BE,Belgium,coordinate,,,,,,,51.308560,4.921007,True
+,BE,Belgium,coordinate,,,,,,,51.314022,4.979676,True
+,BE,Belgium,coordinate,,,,,,,51.316434,4.929668,True
+,BE,Belgium,coordinate,,,,,,,51.317548,3.179329,True
+,BE,Belgium,coordinate,,,,,,,51.318832,4.286752,True
+,BE,Belgium,coordinate,,,,,,,51.319345,3.179464,True
+,BE,Belgium,coordinate,,,,,,,51.319574,4.949579,True
+,BE,Belgium,coordinate,,,,,,,51.321330,4.967181,True
+,BE,Belgium,coordinate,,,,,,,51.321411,4.963243,True
+,BE,Belgium,coordinate,,,,,,,51.324028,4.943440,True
+,BE,Belgium,coordinate,,,,,,,51.324050,4.285598,True
+,BE,Belgium,coordinate,,,,,,,51.325390,4.824239,True
+,BE,Belgium,coordinate,,,,,,,51.325567,4.350455,True
+,BE,Belgium,coordinate,,,,,,,51.328845,4.531009,True
+,BE,Belgium,coordinate,,,,,,,51.331968,4.326329,True
+,BE,Belgium,coordinate,,,,,,,51.332603,5.117487,True
+,BE,Belgium,coordinate,,,,,,,51.354855,4.272698,True
+,BE,Belgium,coordinate,,,,,,,51.388677,4.732676,True
+MADE IN POWER,BE,Belgium,beneficiary,,,,,,,,,False
+ALANINE,BE,Belgium,beneficiary,,,,,,,,,False
+KIDEAkit,BE,Belgium,beneficiary,,,,,,,,,False
+EURO HEAT PIPES,BE,Belgium,beneficiary,,,,,,,,,False
+IWAN SIMONIS,BE,Belgium,beneficiary,,,,,,,,,False
+NEWMECA,BE,Belgium,beneficiary,,,,,,,,,False
+MOCKEL,BE,Belgium,beneficiary,,,,,,,,,False
+SPI,BE,Belgium,beneficiary,,,,,,,,,False
+SGF DISTRIBUTION,BE,Belgium,beneficiary,,,,,,,,,False
+EPCO SA,BE,Belgium,beneficiary,,,,,,,,,False
+HMS BAUSYSTEME,BE,Belgium,beneficiary,,,,,,,,,False
+DIMEQUIP SA (ou SA DISPOSAL MEDICAL EQUIPMENT),BE,Belgium,beneficiary,,,,,,,,,False
+FUNDP Namur,BE,Belgium,beneficiary,,,,,,,,,False
+DATAVIN,BE,Belgium,beneficiary,,,,,,,,,False
+AUTOMATION ET ROBOTICS,BE,Belgium,beneficiary,,,,,,,,,False
+MOSSELMAN,BE,Belgium,beneficiary,,,,,,,,,False
+L'ECOPAIN D'IGNACE,BE,Belgium,beneficiary,,,,,,,,,False
+Prefarails,BE,Belgium,beneficiary,,,,,,,,,False
+PH. DEPUYDT CONSULTING ANENGINEERING ,BE,Belgium,beneficiary,,,,,,,,,False
+MENUISERIE RICHE,BE,Belgium,beneficiary,,,,,,,,,False
+QUALITY ASSISTANCE,BE,Belgium,beneficiary,,,,,,,,,False
+EQUI-NUTRI,BE,Belgium,beneficiary,,,,,,,,,False
+SA Bone Therapeutics,BE,Belgium,beneficiary,,,,,,,,,False
+IMMO - LABO,BE,Belgium,beneficiary,,,,,,,,,False
+AGRINOVA,BE,Belgium,beneficiary,,,,,,,,,False
+AIGREMONT,BE,Belgium,beneficiary,,,,,,,,,False
+MX DESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+S.C.R.L. LA RESSOURCERIE NAMUROISE,BE,Belgium,beneficiary,,,,,,,,,False
+Régie communale autonome de la Ville de La Louvière,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. STERIGENICS BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+NECTAR & CO,BE,Belgium,beneficiary,,,,,,,,,False
+LOUISE,BE,Belgium,beneficiary,,,,,,,,,False
+EULOCO SA,BE,Belgium,beneficiary,,,,,,,,,False
+NRB SA,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MD VERRE,BE,Belgium,beneficiary,,,,,,,,,False
+CURADOR,BE,Belgium,beneficiary,,,,,,,,,False
+IBS - branche Wallonie,BE,Belgium,beneficiary,,,,,,,,,False
+Union des classes Moyennes de la Province de Namur (UCM),BE,Belgium,beneficiary,,,,,,,,,False
+Centre spatial de Liège - CSL,BE,Belgium,beneficiary,,,,,,,,,False
+METAL QUARTZ,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MIFRATEL,BE,Belgium,beneficiary,,,,,,,,,False
+HERITAGE 1466,BE,Belgium,beneficiary,,,,,,,,,False
+La Maison de l'Entreprise,BE,Belgium,beneficiary,,,,,,,,,False
+MEDSYS,BE,Belgium,beneficiary,,,,,,,,,False
+A.C.M. PRODESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. AGC FLAT GLASS EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+GREENELEC Europe,BE,Belgium,beneficiary,,,,,,,,,False
+SIFACO BENELUX,BE,Belgium,beneficiary,,,,,,,,,False
+RECYTERRE,BE,Belgium,beneficiary,,,,,,,,,False
+FRESH CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. CARGILL CHOCOLATE BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+ETABLISSEMENTS ROBERT STIERNON ,BE,Belgium,beneficiary,,,,,,,,,False
+IEG,BE,Belgium,beneficiary,,,,,,,,,False
+GILLEMAN LOGISTICS SA,BE,Belgium,beneficiary,,,,,,,,,False
+Idelux,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. OPTICABLE,BE,Belgium,beneficiary,,,,,,,,,False
+BACKEREI - KONDITOREI - KOCKARTZ,BE,Belgium,beneficiary,,,,,,,,,False
+C.W.P.F.I.V. asbl CEFOVERRE,BE,Belgium,beneficiary,,,,,,,,,False
+MEUNIER GROUP,BE,Belgium,beneficiary,,,,,,,,,False
+COBEPEX - SOCIETE ANONYME BELGE POUR LA PROMOTION DE L'EXPORTATION ,BE,Belgium,beneficiary,,,,,,,,,False
+ENROBAGE - STOCKEM - ESA,BE,Belgium,beneficiary,,,,,,,,,False
+CENAERO,BE,Belgium,beneficiary,,,,,,,,,False
+CURAVAC EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+GDTECH DEVELOPPEMENT EXPERIMENTAL,BE,Belgium,beneficiary,,,,,,,,,False
+ETABLISSEMENTS ROBERT STIERNON,BE,Belgium,beneficiary,,,,,,,,,False
+CER,BE,Belgium,beneficiary,,,,,,,,,False
+IMCYSE,BE,Belgium,beneficiary,,,,,,,,,False
+DVL _ K,BE,Belgium,beneficiary,,,,,,,,,False
+BIOREM,BE,Belgium,beneficiary,,,,,,,,,False
+JAM & RY,BE,Belgium,beneficiary,,,,,,,,,False
+TECHNIC ONE,BE,Belgium,beneficiary,,,,,,,,,False
+Bizliner,BE,Belgium,beneficiary,,,,,,,,,False
+FLYING-CAM,BE,Belgium,beneficiary,,,,,,,,,False
+CRESCENDO CONSULTING,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L. BENECHIM,BE,Belgium,beneficiary,,,,,,,,,False
+SCRLFS Fromagerie du Gros Chêne ,BE,Belgium,beneficiary,,,,,,,,,False
+CRM,BE,Belgium,beneficiary,,,,,,,,,False
+BC.net,BE,Belgium,beneficiary,,,,,,,,,False
+CONCEPT ET FORME,BE,Belgium,beneficiary,,,,,,,,,False
+IONIC YACHTS,BE,Belgium,beneficiary,,,,,,,,,False
+BOGECO,BE,Belgium,beneficiary,,,,,,,,,False
+Entreprises Marcel Collignon et Fils,BE,Belgium,beneficiary,,,,,,,,,False
+BUREAU D'ARCHITECTES WOTRON,BE,Belgium,beneficiary,,,,,,,,,False
+JOVA,BE,Belgium,beneficiary,,,,,,,,,False
+ISONEXT,BE,Belgium,beneficiary,,,,,,,,,False
+COMETRANS BELGIUM SA,BE,Belgium,beneficiary,,,,,,,,,False
+GILFI,BE,Belgium,beneficiary,,,,,,,,,False
+SERENITY,BE,Belgium,beneficiary,,,,,,,,,False
+CREACEED,BE,Belgium,beneficiary,,,,,,,,,False
+DEXSIL LABS SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+Institut du Patrimoine wallon,BE,Belgium,beneficiary,,,,,,,,,False
+BRIQUETERIES DE PLOEGSTEERT,BE,Belgium,beneficiary,,,,,,,,,False
+GD tech - GLOBAL DESIGN TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. BAXTER,BE,Belgium,beneficiary,,,,,,,,,False
+Kiwi Engineering,BE,Belgium,beneficiary,,,,,,,,,False
+COMINES STEEL SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+KESSLER FRERES,BE,Belgium,beneficiary,,,,,,,,,False
+ECOFROST,BE,Belgium,beneficiary,,,,,,,,,False
+BE FUN,BE,Belgium,beneficiary,,,,,,,,,False
+HERE NOW & MANAGEMENT,BE,Belgium,beneficiary,,,,,,,,,False
+Industrial Consulting Automation Research Engineering,BE,Belgium,beneficiary,,,,,,,,,False
+SOCIETE NOUVELLE HAINAUT CARLIER,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. AZNETWORK BENELUX,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL HORECA Wallonie,BE,Belgium,beneficiary,,,,,,,,,False
+ENGETIL,BE,Belgium,beneficiary,,,,,,,,,False
+Insulco,BE,Belgium,beneficiary,,,,,,,,,False
+Dreamgest,BE,Belgium,beneficiary,,,,,,,,,False
+EVOLVE POWERTRAINS,BE,Belgium,beneficiary,,,,,,,,,False
+COVERFIL,BE,Belgium,beneficiary,,,,,,,,,False
+TARADON LABORATORY,BE,Belgium,beneficiary,,,,,,,,,False
+CCI CONNECT,BE,Belgium,beneficiary,,,,,,,,,False
+NOVALLIA SA,BE,Belgium,beneficiary,,,,,,,,,False
+AGRI PACKAGING,BE,Belgium,beneficiary,,,,,,,,,False
+MECHANICAL ENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+ImmuneHealth,BE,Belgium,beneficiary,,,,,,,,,False
+PROFISH TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+CARBONETTA,BE,Belgium,beneficiary,,,,,,,,,False
+BOUCHONS LECLERCQ ET FILS,BE,Belgium,beneficiary,,,,,,,,,False
+EDITIONS ERASME,BE,Belgium,beneficiary,,,,,,,,,False
+DIAsource ImmunoAssays,BE,Belgium,beneficiary,,,,,,,,,False
+CHALEUR BOVIN S.N.C.,BE,Belgium,beneficiary,,,,,,,,,False
+DIAGAM,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Hublet,BE,Belgium,beneficiary,,,,,,,,,False
+AGROFUTUR,BE,Belgium,beneficiary,,,,,,,,,False
+BTF,BE,Belgium,beneficiary,,,,,,,,,False
+MITHRA RDP,BE,Belgium,beneficiary,,,,,,,,,False
+ROBIX,BE,Belgium,beneficiary,,,,,,,,,False
+EUBAGE LABORATORY,BE,Belgium,beneficiary,,,,,,,,,False
+BATTYBOIS,BE,Belgium,beneficiary,,,,,,,,,False
+E - XSTREAM ENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+CEWAC,BE,Belgium,beneficiary,,,,,,,,,False
+EMUREF,BE,Belgium,beneficiary,,,,,,,,,False
+AIRWATEC,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. TILMAN,BE,Belgium,beneficiary,,,,,,,,,False
+KITOZYME,BE,Belgium,beneficiary,,,,,,,,,False
+Bureau Economique de la Province de Namur,BE,Belgium,beneficiary,,,,,,,,,False
+RESARM ENGINEERING PLASTICS,BE,Belgium,beneficiary,,,,,,,,,False
+EONIX,BE,Belgium,beneficiary,,,,,,,,,False
+CRIBC,BE,Belgium,beneficiary,,,,,,,,,False
+BECARV,BE,Belgium,beneficiary,,,,,,,,,False
+LA MAISON DE DEMAIN,BE,Belgium,beneficiary,,,,,,,,,False
+ORTIS,BE,Belgium,beneficiary,,,,,,,,,False
+AQUATIC SCIENCE,BE,Belgium,beneficiary,,,,,,,,,False
+DELHEZ SYSTEMES,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. EUTRACO LOGISTICS,BE,Belgium,beneficiary,,,,,,,,,False
+OFFSHORE 45,BE,Belgium,beneficiary,,,,,,,,,False
+NEOCERAM SA,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL Liège Congrès,BE,Belgium,beneficiary,,,,,,,,,False
+BEADS BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Trachet - Soberac,BE,Belgium,beneficiary,,,,,,,,,False
+E-BUGS,BE,Belgium,beneficiary,,,,,,,,,False
+BSI SA,BE,Belgium,beneficiary,,,,,,,,,False
+mecanic systems,BE,Belgium,beneficiary,,,,,,,,,False
+ISTAR MEDICAL,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. PHYSIOL,BE,Belgium,beneficiary,,,,,,,,,False
+Mr Herman PIRMEZ,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERES SCHAUSS,BE,Belgium,beneficiary,,,,,,,,,False
+Fabribois,BE,Belgium,beneficiary,,,,,,,,,False
+Premium Cellulose Insulation Manufacturer,BE,Belgium,beneficiary,,,,,,,,,False
+MAGnésium,BE,Belgium,beneficiary,,,,,,,,,False
+JEMA,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MILCAMPS,BE,Belgium,beneficiary,,,,,,,,,False
+A. MENCHIOR ET FILS,BE,Belgium,beneficiary,,,,,,,,,False
+MAISON VENDÔME,BE,Belgium,beneficiary,,,,,,,,,False
+COLASSE SA,BE,Belgium,beneficiary,,,,,,,,,False
+UCM HAINAUT,BE,Belgium,beneficiary,,,,,,,,,False
+MALEX,BE,Belgium,beneficiary,,,,,,,,,False
+Feronyl,BE,Belgium,beneficiary,,,,,,,,,False
+CED M.M.,BE,Belgium,beneficiary,,,,,,,,,False
+LASER 2000,BE,Belgium,beneficiary,,,,,,,,,False
+D. - TEK,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. DOOSAN INFRACORE EUROPE (CONV 111600),BE,Belgium,beneficiary,,,,,,,,,False
+AGC FLAT GLASS EUROPE SA,BE,Belgium,beneficiary,,,,,,,,,False
+QILIUM,BE,Belgium,beneficiary,,,,,,,,,False
+BENECHIM SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+Bio&Natura Food SA,BE,Belgium,beneficiary,,,,,,,,,False
+Gravaubel,BE,Belgium,beneficiary,,,,,,,,,False
+Lambiotte et Compagnie,BE,Belgium,beneficiary,,,,,,,,,False
+VET,BE,Belgium,beneficiary,,,,,,,,,False
+TOTAL SALES SOLUTIONS IN THE FIELD,BE,Belgium,beneficiary,,,,,,,,,False
+Les Carrières DE LA FLECHE,BE,Belgium,beneficiary,,,,,,,,,False
+SPRL CONSTRUCTION TOUT & FINITION,BE,Belgium,beneficiary,,,,,,,,,False
+PHYSIOL,BE,Belgium,beneficiary,,,,,,,,,False
+PORC QUALITE ARDENNE S.C.,BE,Belgium,beneficiary,,,,,,,,,False
+2-observe SA,BE,Belgium,beneficiary,,,,,,,,,False
+MUZYTRIBE,BE,Belgium,beneficiary,,,,,,,,,False
+SA Beads Belgium,BE,Belgium,beneficiary,,,,,,,,,False
+Brasserie d'Orval,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. NEOCERAM (CONV 100210),BE,Belgium,beneficiary,,,,,,,,,False
+PASTIFICIO DELLA MAMMA,BE,Belgium,beneficiary,,,,,,,,,False
+Carrières de Silex du Versant de Maisières,BE,Belgium,beneficiary,,,,,,,,,False
+Chassis Norma,BE,Belgium,beneficiary,,,,,,,,,False
+SPLICE CONSULT,BE,Belgium,beneficiary,,,,,,,,,False
+HAINAUT DEVELOPPEMENT,BE,Belgium,beneficiary,,,,,,,,,False
+LE FOREM,BE,Belgium,beneficiary,,,,,,,,,False
+Produits de Viande d'ARGIFRAL,BE,Belgium,beneficiary,,,,,,,,,False
+OTORINO,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERE DE MARENNE,BE,Belgium,beneficiary,,,,,,,,,False
+SA FCR Convergence,BE,Belgium,beneficiary,,,,,,,,,False
+BV SYNGETA CHEMICALS,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Emile Vanhulen,BE,Belgium,beneficiary,,,,,,,,,False
+FOOD IMPACT,BE,Belgium,beneficiary,,,,,,,,,False
+MODULART,BE,Belgium,beneficiary,,,,,,,,,False
+BAKBEL EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+PAUMELLES LIEGEOISES,BE,Belgium,beneficiary,,,,,,,,,False
+ZincOx Belgium,BE,Belgium,beneficiary,,,,,,,,,False
+HORPI DEVELOPMENT,BE,Belgium,beneficiary,,,,,,,,,False
+UN PAS PLUS LOIN,BE,Belgium,beneficiary,,,,,,,,,False
+GEOGRIND,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. COSELOG,BE,Belgium,beneficiary,,,,,,,,,False
+GEEK IMPACT,BE,Belgium,beneficiary,,,,,,,,,False
+LFC,BE,Belgium,beneficiary,,,,,,,,,False
+HYMETEC,BE,Belgium,beneficiary,,,,,,,,,False
+PACK - O - PLAST,BE,Belgium,beneficiary,,,,,,,,,False
+GREEN2CHEM CONSULTING,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Charles MAQUET et Fils ,BE,Belgium,beneficiary,,,,,,,,,False
+Alvénat,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. EVS BROADCAST EQUIPMENT,BE,Belgium,beneficiary,,,,,,,,,False
+SAMTECH,BE,Belgium,beneficiary,,,,,,,,,False
+RESPECT-IT,BE,Belgium,beneficiary,,,,,,,,,False
+VERSCHUERE TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+B-SIDE,BE,Belgium,beneficiary,,,,,,,,,False
+Fédération du Tourisme de la Province du Hainaut,BE,Belgium,beneficiary,,,,,,,,,False
+SOCIETE COMINOISE DE MAILLE INDUSTRIELLE,BE,Belgium,beneficiary,,,,,,,,,False
+GDTECH,BE,Belgium,beneficiary,,,,,,,,,False
+Cardio3 Biosciences,BE,Belgium,beneficiary,,,,,,,,,False
+C.E. +T. TECHNICS,BE,Belgium,beneficiary,,,,,,,,,False
+Professional Computing Solutions,BE,Belgium,beneficiary,,,,,,,,,False
+SENTINALCO,BE,Belgium,beneficiary,,,,,,,,,False
+MIFRATEL SA,BE,Belgium,beneficiary,,,,,,,,,False
+VITALTRONICS,BE,Belgium,beneficiary,,,,,,,,,False
+Freedelity,BE,Belgium,beneficiary,,,,,,,,,False
+BAEYENS GLASS & INOX,BE,Belgium,beneficiary,,,,,,,,,False
+JMei,BE,Belgium,beneficiary,,,,,,,,,False
+RUNLITE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. GREEN ENERGY 4 SEASONS,BE,Belgium,beneficiary,,,,,,,,,False
+YAMM,BE,Belgium,beneficiary,,,,,,,,,False
+BALIST ENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+SIOEN FABRICS SA,BE,Belgium,beneficiary,,,,,,,,,False
+DE POORTERE FRERES,BE,Belgium,beneficiary,,,,,,,,,False
+ITEOS THERAPEUTICS,BE,Belgium,beneficiary,,,,,,,,,False
+POMPES NEPTUNE,BE,Belgium,beneficiary,,,,,,,,,False
+Société civile d'architectes helium3 SCRL,BE,Belgium,beneficiary,,,,,,,,,False
+HAULOGY.NET,BE,Belgium,beneficiary,,,,,,,,,False
+JOB'IN Guichet d'entreprise,BE,Belgium,beneficiary,,,,,,,,,False
+GEOTEC INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+"Land, Farm & Men",BE,Belgium,beneficiary,,,,,,,,,False
+DALEMANS Charles,BE,Belgium,beneficiary,,,,,,,,,False
+LA LIEGEOISE,BE,Belgium,beneficiary,,,,,,,,,False
+VEGEPACK,BE,Belgium,beneficiary,,,,,,,,,False
+COVER GROUP,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. METALTEAM,BE,Belgium,beneficiary,,,,,,,,,False
+A-CSYS DEVELOPPEMENT EXPERIMENTAL,BE,Belgium,beneficiary,,,,,,,,,False
+ETABLISSEMENTS PAULY - ANDIANNE,BE,Belgium,beneficiary,,,,,,,,,False
+Laboratoire OVEMIN,BE,Belgium,beneficiary,,,,,,,,,False
+JAGUAR - THIRY,BE,Belgium,beneficiary,,,,,,,,,False
+CONGRES HOTEL VAN DER VALK,BE,Belgium,beneficiary,,,,,,,,,False
+SUD CHARPENTES LAMCOL,BE,Belgium,beneficiary,,,,,,,,,False
+COTE TERRASSE ET JARDIN,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERE EMOND,BE,Belgium,beneficiary,,,,,,,,,False
+MATERIA NOVA,BE,Belgium,beneficiary,,,,,,,,,False
+WOW TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+HYDROPROTECT,BE,Belgium,beneficiary,,,,,,,,,False
+SANIFOX,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. VESUVIUS GROUP,BE,Belgium,beneficiary,,,,,,,,,False
+KX CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+CREATIVE LIFE CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+Port autonome de Namur,BE,Belgium,beneficiary,,,,,,,,,False
+SPRL Fromagerie des Ardennes,BE,Belgium,beneficiary,,,,,,,,,False
+SOPRISM,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. I-MOVIX,BE,Belgium,beneficiary,,,,,,,,,False
+Buhlmann,BE,Belgium,beneficiary,,,,,,,,,False
+PHISA,BE,Belgium,beneficiary,,,,,,,,,False
+BE. WAN,BE,Belgium,beneficiary,,,,,,,,,False
+Apptree,BE,Belgium,beneficiary,,,,,,,,,False
+URBA - STYLE,BE,Belgium,beneficiary,,,,,,,,,False
+LES ATELIERS DE BLICQUY,BE,Belgium,beneficiary,,,,,,,,,False
+RECYCLING PRODUCT COVERS,BE,Belgium,beneficiary,,,,,,,,,False
+CROC'IN,BE,Belgium,beneficiary,,,,,,,,,False
+AL CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+ALKAR TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+FIB - SERVICES,BE,Belgium,beneficiary,,,,,,,,,False
+GENGOULF,BE,Belgium,beneficiary,,,,,,,,,False
+NEW TECHNELEC,BE,Belgium,beneficiary,,,,,,,,,False
+BIOGEM,BE,Belgium,beneficiary,,,,,,,,,False
+ENTREPRISES Jean NONET et FILS,BE,Belgium,beneficiary,,,,,,,,,False
+CARDIATIS,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. REX PANELS & PROFILES,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MAPEI BENELUX,BE,Belgium,beneficiary,,,,,,,,,False
+SOCIETE BELGE DE MATERIAUX COMPOSITES ,BE,Belgium,beneficiary,,,,,,,,,False
+ACTINA,BE,Belgium,beneficiary,,,,,,,,,False
+SYNACO,BE,Belgium,beneficiary,,,,,,,,,False
+SA SOCAMUT,BE,Belgium,beneficiary,,,,,,,,,False
+TCONCEPT COMPANY,BE,Belgium,beneficiary,,,,,,,,,False
+Escavèche du Clos Normand,BE,Belgium,beneficiary,,,,,,,,,False
+ARC,BE,Belgium,beneficiary,,,,,,,,,False
+INOV,BE,Belgium,beneficiary,,,,,,,,,False
+TECHNOFUTUR INDUSTRIE,BE,Belgium,beneficiary,,,,,,,,,False
+KRIZALID STUDIO,BE,Belgium,beneficiary,,,,,,,,,False
+"Province de Liège, Pouvoir Organisateur pour l'Enseignement de Promotion- Sociale",BE,Belgium,beneficiary,,,,,,,,,False
+CISSOID,BE,Belgium,beneficiary,,,,,,,,,False
+Fédération du Tourisme de la Province de Namur,BE,Belgium,beneficiary,,,,,,,,,False
+MEURENS NATURAL,BE,Belgium,beneficiary,,,,,,,,,False
+BorderSystem,BE,Belgium,beneficiary,,,,,,,,,False
+AKKRO MEDIA,BE,Belgium,beneficiary,,,,,,,,,False
+it4ip,BE,Belgium,beneficiary,,,,,,,,,False
+IT-OPTICS,BE,Belgium,beneficiary,,,,,,,,,False
+SPYTANK,BE,Belgium,beneficiary,,,,,,,,,False
+CENTEXBEL,BE,Belgium,beneficiary,,,,,,,,,False
+CARDON LOGISTIQUE SA,BE,Belgium,beneficiary,,,,,,,,,False
+DECOCK YOUNGPLANTS,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MASTHERCELL,BE,Belgium,beneficiary,,,,,,,,,False
+Asinerie du Pays des Collines,BE,Belgium,beneficiary,,,,,,,,,False
+OPHITEO,BE,Belgium,beneficiary,,,,,,,,,False
+GENIMIN,BE,Belgium,beneficiary,,,,,,,,,False
+IDEA,BE,Belgium,beneficiary,,,,,,,,,False
+DELPHI GENETICS SA,BE,Belgium,beneficiary,,,,,,,,,False
+ELOY PREFAB,BE,Belgium,beneficiary,,,,,,,,,False
+LOGITOYS SA,BE,Belgium,beneficiary,,,,,,,,,False
+BELROBOTICS,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L. COMMUNICATION IMPRESSION COMPOSITION,BE,Belgium,beneficiary,,,,,,,,,False
+TF CO,BE,Belgium,beneficiary,,,,,,,,,False
+XYLOWATT,BE,Belgium,beneficiary,,,,,,,,,False
+Développement en Traitementde l'Information,BE,Belgium,beneficiary,,,,,,,,,False
+GUEUZERIE TILQUIN,BE,Belgium,beneficiary,,,,,,,,,False
+PIERRET,BE,Belgium,beneficiary,,,,,,,,,False
+SOFT 33,BE,Belgium,beneficiary,,,,,,,,,False
+Jac,BE,Belgium,beneficiary,,,,,,,,,False
+Port Autonome de Charleroi,BE,Belgium,beneficiary,,,,,,,,,False
+CPAS de HUY,BE,Belgium,beneficiary,,,,,,,,,False
+Sélecta,BE,Belgium,beneficiary,,,,,,,,,False
+DENTAL DESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+Ategis,BE,Belgium,beneficiary,,,,,,,,,False
+HAPPY PAPER,BE,Belgium,beneficiary,,,,,,,,,False
+Union des Classes Moyennes de la Province de Liège,BE,Belgium,beneficiary,,,,,,,,,False
+BIO-LIFE,BE,Belgium,beneficiary,,,,,,,,,False
+F.TODDE,BE,Belgium,beneficiary,,,,,,,,,False
+SA Luxembourg Développement Europe,BE,Belgium,beneficiary,,,,,,,,,False
+REVER,BE,Belgium,beneficiary,,,,,,,,,False
+TERRACO GROUP,BE,Belgium,beneficiary,,,,,,,,,False
+PRYME INVEST,BE,Belgium,beneficiary,,,,,,,,,False
+MAURY,BE,Belgium,beneficiary,,,,,,,,,False
+Certech,BE,Belgium,beneficiary,,,,,,,,,False
+MEDESTIME,BE,Belgium,beneficiary,,,,,,,,,False
+METAPLASTITUBE SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+CREASET,BE,Belgium,beneficiary,,,,,,,,,False
+PAROBEL INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+MEDI - LINE,BE,Belgium,beneficiary,,,,,,,,,False
+Chambre de Commerce et d'Industrie du Luxembourg belge,BE,Belgium,beneficiary,,,,,,,,,False
+BIOPTIS,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL WANT,BE,Belgium,beneficiary,,,,,,,,,False
+DN&T (Design Naval & Transports),BE,Belgium,beneficiary,,,,,,,,,False
+Rubbergreen Industrie,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L. STOCKHABO,BE,Belgium,beneficiary,,,,,,,,,False
+HURBZ,BE,Belgium,beneficiary,,,,,,,,,False
+3-GSP,BE,Belgium,beneficiary,,,,,,,,,False
+JASPAR Valves and Maintenance,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. Ets. R. HEINEN N.V.,BE,Belgium,beneficiary,,,,,,,,,False
+STORME,BE,Belgium,beneficiary,,,,,,,,,False
+UNIFAST DAUDE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. GOURMAND,BE,Belgium,beneficiary,,,,,,,,,False
+MUNCK SERVICES BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+INNOVATION TECHNOLOGY ENIRONNEMENT QUALITY (ITEQ),BE,Belgium,beneficiary,,,,,,,,,False
+BARTEX,BE,Belgium,beneficiary,,,,,,,,,False
+TECNA SA,BE,Belgium,beneficiary,,,,,,,,,False
+Meca Solutions,BE,Belgium,beneficiary,,,,,,,,,False
+ROSCIC STIPAN,BE,Belgium,beneficiary,,,,,,,,,False
+Wishbone,BE,Belgium,beneficiary,,,,,,,,,False
+IDETA,BE,Belgium,beneficiary,,,,,,,,,False
+VN Developments,BE,Belgium,beneficiary,,,,,,,,,False
+PHARMA TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+ALPINTER,BE,Belgium,beneficiary,,,,,,,,,False
+BIEBUYCK Ets,BE,Belgium,beneficiary,,,,,,,,,False
+Société de développement de Liège Guillemins (SDLG),BE,Belgium,beneficiary,,,,,,,,,False
+S.C.R.L. B-NET,BE,Belgium,beneficiary,,,,,,,,,False
+SUNWORKS SCRL,BE,Belgium,beneficiary,,,,,,,,,False
+TRIPY,BE,Belgium,beneficiary,,,,,,,,,False
+ATELIER DE CONSTRUCTION METALLIQUE,BE,Belgium,beneficiary,,,,,,,,,False
+SMOLINFO,BE,Belgium,beneficiary,,,,,,,,,False
+BIO SOLUTION SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+EUROQUARTZ,BE,Belgium,beneficiary,,,,,,,,,False
+OPTICABLE SA,BE,Belgium,beneficiary,,,,,,,,,False
+ADVANCED ORTHOPEDIC SYSTEM,BE,Belgium,beneficiary,,,,,,,,,False
+VORTAL,BE,Belgium,beneficiary,,,,,,,,,False
+BONE THERAPEUTICS,BE,Belgium,beneficiary,,,,,,,,,False
+ECOSTAL,BE,Belgium,beneficiary,,,,,,,,,False
+IFAPME - Institut de formation en alternance et des indépendants et des petites et moyennes entreprises,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. AC RECYCLING,BE,Belgium,beneficiary,,,,,,,,,False
+BUZON PEDESTAL INTERNATIOAL,BE,Belgium,beneficiary,,,,,,,,,False
+PUROLATOR ADVANCED FILTRATION,BE,Belgium,beneficiary,,,,,,,,,False
+ENDO TOOLS THERAPEUTICS,BE,Belgium,beneficiary,,,,,,,,,False
+UCL Mons,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. LES VERANDAS 4 SAISONS,BE,Belgium,beneficiary,,,,,,,,,False
+MAXILINE,BE,Belgium,beneficiary,,,,,,,,,False
+THE GREAT CIRCLE,BE,Belgium,beneficiary,,,,,,,,,False
+ERIC ROMPEN IMPLANTOLOGIE,BE,Belgium,beneficiary,,,,,,,,,False
+WattsUp s.p.r.l.,BE,Belgium,beneficiary,,,,,,,,,False
+BELOURTHE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. SISE,BE,Belgium,beneficiary,,,,,,,,,False
+PAOKIT,BE,Belgium,beneficiary,,,,,,,,,False
+CHIMAY FROMAGE,BE,Belgium,beneficiary,,,,,,,,,False
+SOLID WOOD LIFE,BE,Belgium,beneficiary,,,,,,,,,False
+PALANTE PARTNERSHIP,BE,Belgium,beneficiary,,,,,,,,,False
+COVERSYS,BE,Belgium,beneficiary,,,,,,,,,False
+VRintelligence,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. EUMEDICA,BE,Belgium,beneficiary,,,,,,,,,False
+SMARTWEAR,BE,Belgium,beneficiary,,,,,,,,,False
+BECKER INTERNATIONAL MANAGEMENT,BE,Belgium,beneficiary,,,,,,,,,False
+Fédération du Tourisme de la province du Luxembourg belge,BE,Belgium,beneficiary,,,,,,,,,False
+Ateliers Bodart et Vange,BE,Belgium,beneficiary,,,,,,,,,False
+Fonderie Gaston Fallais,BE,Belgium,beneficiary,,,,,,,,,False
+Isosystems,BE,Belgium,beneficiary,,,,,,,,,False
+Province de Namur,BE,Belgium,beneficiary,,,,,,,,,False
+MEUSE ET SAMBRE,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL Gîtes de Wallonie,BE,Belgium,beneficiary,,,,,,,,,False
+CABINET DE MEDECINE GENERALE JAMOULLE & ASSOCIES,BE,Belgium,beneficiary,,,,,,,,,False
+BELGIAN FIBERS MANUFACTURING,BE,Belgium,beneficiary,,,,,,,,,False
+DIM3,BE,Belgium,beneficiary,,,,,,,,,False
+A-CSYS RECHERCHE INDUSTRIELLE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. TPS TECHNOLOGIES,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MT DOTTIGNIES,BE,Belgium,beneficiary,,,,,,,,,False
+Desobry,BE,Belgium,beneficiary,,,,,,,,,False
+MAINTENANCE HYDRO PNEUMATIQUE SA,BE,Belgium,beneficiary,,,,,,,,,False
+F.L. CONSULTING,BE,Belgium,beneficiary,,,,,,,,,False
+INDUSYS TECHNOLOGIES BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+GDTech s.a. - GLOBAL DESIGN TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL WALCAMP,BE,Belgium,beneficiary,,,,,,,,,False
+HIPPEROS,BE,Belgium,beneficiary,,,,,,,,,False
+BATTERIES TOUSSAINT NYSSENNE,BE,Belgium,beneficiary,,,,,,,,,False
+TILMAN,BE,Belgium,beneficiary,,,,,,,,,False
+OPTEC,BE,Belgium,beneficiary,,,,,,,,,False
+QUALIFORME,BE,Belgium,beneficiary,,,,,,,,,False
+ENERBAN,BE,Belgium,beneficiary,,,,,,,,,False
+BIA SERVICES SA,BE,Belgium,beneficiary,,,,,,,,,False
+TOTAL CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+Technocité,BE,Belgium,beneficiary,,,,,,,,,False
+TECHNOFUTUR TIC,BE,Belgium,beneficiary,,,,,,,,,False
+Professional Computing Solutions ,BE,Belgium,beneficiary,,,,,,,,,False
+COLOMBUS FOOD SA,BE,Belgium,beneficiary,,,,,,,,,False
+PUR VER,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. SOPROFEN,BE,Belgium,beneficiary,,,,,,,,,False
+UTERON PHARMA,BE,Belgium,beneficiary,,,,,,,,,False
+EVOLVE,BE,Belgium,beneficiary,,,,,,,,,False
+"Fédération Wallonie-Bruxelles, Infrastructures culturelles",BE,Belgium,beneficiary,,,,,,,,,False
+THYMOLUX,BE,Belgium,beneficiary,,,,,,,,,False
+MAN TO TREE,BE,Belgium,beneficiary,,,,,,,,,False
+THELIS,BE,Belgium,beneficiary,,,,,,,,,False
+FUTURE RESOURCES,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Lixon,BE,Belgium,beneficiary,,,,,,,,,False
+JD'C INNOVATION,BE,Belgium,beneficiary,,,,,,,,,False
+BOCAD SERVICE,BE,Belgium,beneficiary,,,,,,,,,False
+Mithra Pharmaceuticals,BE,Belgium,beneficiary,,,,,,,,,False
+PH. DEPUYDT CONSULTING ANENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. BLANCHISSERIE DUMOULIN,BE,Belgium,beneficiary,,,,,,,,,False
+DIPOLE CONSULTING,BE,Belgium,beneficiary,,,,,,,,,False
+SILVER RAY,BE,Belgium,beneficiary,,,,,,,,,False
+OPAL-SYSTEMS,BE,Belgium,beneficiary,,,,,,,,,False
+MITIS,BE,Belgium,beneficiary,,,,,,,,,False
+SPW - DGO1,BE,Belgium,beneficiary,,,,,,,,,False
+J. BLOCKX Fils,BE,Belgium,beneficiary,,,,,,,,,False
+UPIGNAC,BE,Belgium,beneficiary,,,,,,,,,False
+THERMIBEL,BE,Belgium,beneficiary,,,,,,,,,False
+GIE SITE DE NIMY,BE,Belgium,beneficiary,,,,,,,,,False
+FIB BELGIUM SA,BE,Belgium,beneficiary,,,,,,,,,False
+NEOCERAM,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. CALYOS,BE,Belgium,beneficiary,,,,,,,,,False
+OncoDNA,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements SIMONIS S.,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. AW Europe,BE,Belgium,beneficiary,,,,,,,,,False
+INDUSTRIAL CONTROL MACHINES,BE,Belgium,beneficiary,,,,,,,,,False
+HomeAlert,BE,Belgium,beneficiary,,,,,,,,,False
+ALVA CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+BOULET - MENAGE,BE,Belgium,beneficiary,,,,,,,,,False
+LAKSA,BE,Belgium,beneficiary,,,,,,,,,False
+BELGARENA,BE,Belgium,beneficiary,,,,,,,,,False
+SA Food Impact,BE,Belgium,beneficiary,,,,,,,,,False
+GEPART SA,BE,Belgium,beneficiary,,,,,,,,,False
+LASER ENGINEERING APPLICATIONS,BE,Belgium,beneficiary,,,,,,,,,False
+SA NDC,BE,Belgium,beneficiary,,,,,,,,,False
+EPSLOG,BE,Belgium,beneficiary,,,,,,,,,False
+Les Produits Purs de Courcelles,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. BePharBel MANUFACTURING,BE,Belgium,beneficiary,,,,,,,,,False
+CEEI HERACLES,BE,Belgium,beneficiary,,,,,,,,,False
+CABAY TRANSPORT,BE,Belgium,beneficiary,,,,,,,,,False
+DOCLEDGE,BE,Belgium,beneficiary,,,,,,,,,False
+AMHYSPIN,BE,Belgium,beneficiary,,,,,,,,,False
+RCT Industrie,BE,Belgium,beneficiary,,,,,,,,,False
+STRATER,BE,Belgium,beneficiary,,,,,,,,,False
+ALTACOUSTIC,BE,Belgium,beneficiary,,,,,,,,,False
+DTA,BE,Belgium,beneficiary,,,,,,,,,False
+ALAN _ Co,BE,Belgium,beneficiary,,,,,,,,,False
+MARTIN MENUISIERS,BE,Belgium,beneficiary,,,,,,,,,False
+Institut Scientifique des Services Publics (ISSeP),BE,Belgium,beneficiary,,,,,,,,,False
+LEBAILLY,BE,Belgium,beneficiary,,,,,,,,,False
+PROCOTEX CORPORATION,BE,Belgium,beneficiary,,,,,,,,,False
+BRITTE-MUSTAD,BE,Belgium,beneficiary,,,,,,,,,False
+MAYA FAIR TRADE,BE,Belgium,beneficiary,,,,,,,,,False
+ELOY WATER,BE,Belgium,beneficiary,,,,,,,,,False
+DOGSTUDIO,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L PETER MUELLER,BE,Belgium,beneficiary,,,,,,,,,False
+SA Cardiartis,BE,Belgium,beneficiary,,,,,,,,,False
+"Fédération Wallonie- Bruxelles, DG Enseignement obligatoire",BE,Belgium,beneficiary,,,,,,,,,False
+GDTECH RECHERCHE INDUSTRIELLE,BE,Belgium,beneficiary,,,,,,,,,False
+BELGIUM SATELLITE SA,BE,Belgium,beneficiary,,,,,,,,,False
+SA Facybel,BE,Belgium,beneficiary,,,,,,,,,False
+RENOGEN,BE,Belgium,beneficiary,,,,,,,,,False
+ADDITYS,BE,Belgium,beneficiary,,,,,,,,,False
+CAPTEL,BE,Belgium,beneficiary,,,,,,,,,False
+DEOM TURBO,BE,Belgium,beneficiary,,,,,,,,,False
+MATRIO - GROUP,BE,Belgium,beneficiary,,,,,,,,,False
+DIAROTECH,BE,Belgium,beneficiary,,,,,,,,,False
+DISTILLERIE DU CENTENAIRE,BE,Belgium,beneficiary,,,,,,,,,False
+Athena Informatic,BE,Belgium,beneficiary,,,,,,,,,False
+IGRETEC,BE,Belgium,beneficiary,,,,,,,,,False
+Uniwan,BE,Belgium,beneficiary,,,,,,,,,False
+UCL,BE,Belgium,beneficiary,,,,,,,,,False
+CELABOR,BE,Belgium,beneficiary,,,,,,,,,False
+IMMOROUTE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. WATER CUTTING HAINAUT,BE,Belgium,beneficiary,,,,,,,,,False
+GOTRACE,BE,Belgium,beneficiary,,,,,,,,,False
+DYVERTEX,BE,Belgium,beneficiary,,,,,,,,,False
+ROLIX,BE,Belgium,beneficiary,,,,,,,,,False
+DO EAT,BE,Belgium,beneficiary,,,,,,,,,False
+PRODUCTION INDUSTRIELLE PHIL DESIGN STUDIO ,BE,Belgium,beneficiary,,,,,,,,,False
+EUROSCREEN,BE,Belgium,beneficiary,,,,,,,,,False
+Limited Edition,BE,Belgium,beneficiary,,,,,,,,,False
+A.M.B.,BE,Belgium,beneficiary,,,,,,,,,False
+SERVITEX,BE,Belgium,beneficiary,,,,,,,,,False
+DICO SERVICE,BE,Belgium,beneficiary,,,,,,,,,False
+CERSA,BE,Belgium,beneficiary,,,,,,,,,False
+CSTC,BE,Belgium,beneficiary,,,,,,,,,False
+LE TISSAGE D'ARCADE,BE,Belgium,beneficiary,,,,,,,,,False
+I-MOVIX,BE,Belgium,beneficiary,,,,,,,,,False
+VIGO UNIVERSAL,BE,Belgium,beneficiary,,,,,,,,,False
+C.M.L. Industries,BE,Belgium,beneficiary,,,,,,,,,False
+Le Saupont,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. SOLIDBETON,BE,Belgium,beneficiary,,,,,,,,,False
+CITOBI,BE,Belgium,beneficiary,,,,,,,,,False
+GLOBAL DESIGN TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+SLICING PACKING FUN,BE,Belgium,beneficiary,,,,,,,,,False
+REFRACTAIRES et TRAVAUX,BE,Belgium,beneficiary,,,,,,,,,False
+WALOPT,BE,Belgium,beneficiary,,,,,,,,,False
+ATELIERS GRAUX,BE,Belgium,beneficiary,,,,,,,,,False
+FOOD'X,BE,Belgium,beneficiary,,,,,,,,,False
+ASSOCIATION INFORMATIQUE POUR LA GESTION DULOGEMENT SOCIAL ,BE,Belgium,beneficiary,,,,,,,,,False
+DEXIL LABS,BE,Belgium,beneficiary,,,,,,,,,False
+NEG - Nouveaux Entrepôts et Garages,BE,Belgium,beneficiary,,,,,,,,,False
+FOOTIIS,BE,Belgium,beneficiary,,,,,,,,,False
+DIAGENODE,BE,Belgium,beneficiary,,,,,,,,,False
+HYDRO+RENTAL,BE,Belgium,beneficiary,,,,,,,,,False
+CAMARG SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+CETIC,BE,Belgium,beneficiary,,,,,,,,,False
+LANAFORM LANA ALLPEAK,BE,Belgium,beneficiary,,,,,,,,,False
+LASER COATING DIAMOND TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+DECKERS,BE,Belgium,beneficiary,,,,,,,,,False
+"S.P.R.L. INDUSTRIELLE GEN., MAINTENANCE & SERVICES",BE,Belgium,beneficiary,,,,,,,,,False
+PLASTISERVICE,BE,Belgium,beneficiary,,,,,,,,,False
+ENTREPRISE BORAINE DE MECANIQUE,BE,Belgium,beneficiary,,,,,,,,,False
+AC&CS,BE,Belgium,beneficiary,,,,,,,,,False
+GIE SODIAC (CONV 100197),BE,Belgium,beneficiary,,,,,,,,,False
+S.A. XTRATHERM,BE,Belgium,beneficiary,,,,,,,,,False
+CARESQUARE,BE,Belgium,beneficiary,,,,,,,,,False
+A-M-B- CONSTRUCT,BE,Belgium,beneficiary,,,,,,,,,False
+Stûv,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL MNEMA,BE,Belgium,beneficiary,,,,,,,,,False
+EMPHASE ENVIRONNEMENT,BE,Belgium,beneficiary,,,,,,,,,False
+SALUC,BE,Belgium,beneficiary,,,,,,,,,False
+GALLER - CHOCOLATIERS,BE,Belgium,beneficiary,,,,,,,,,False
+PROSPECTIVE DESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+DESCLEE-NOEL GROUPE,BE,Belgium,beneficiary,,,,,,,,,False
+VAPOPLAST,BE,Belgium,beneficiary,,,,,,,,,False
+ARCHIBEL,BE,Belgium,beneficiary,,,,,,,,,False
+Produits Habi,BE,Belgium,beneficiary,,,,,,,,,False
+TDS,BE,Belgium,beneficiary,,,,,,,,,False
+L.R. VITRAUX,BE,Belgium,beneficiary,,,,,,,,,False
+DefIMedia,BE,Belgium,beneficiary,,,,,,,,,False
+AURIGA INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+Nadine Daro,BE,Belgium,beneficiary,,,,,,,,,False
+Humiva,BE,Belgium,beneficiary,,,,,,,,,False
+exelio,BE,Belgium,beneficiary,,,,,,,,,False
+BEAL INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+IMW PRODUCTIONS BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L. ARTE-DOLCE,BE,Belgium,beneficiary,,,,,,,,,False
+BIOSPEEDHOME,BE,Belgium,beneficiary,,,,,,,,,False
+Commissariat Général au Tourisme,BE,Belgium,beneficiary,,,,,,,,,False
+WALLOREST,BE,Belgium,beneficiary,,,,,,,,,False
+SOTOS DIGITAL,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ITEOS THERAPEUTICS,BE,Belgium,beneficiary,,,,,,,,,False
+Magnée - Enrobés,BE,Belgium,beneficiary,,,,,,,,,False
+D.R.B.,BE,Belgium,beneficiary,,,,,,,,,False
+INTERLOGISTICS SA,BE,Belgium,beneficiary,,,,,,,,,False
+ANTOING RECYCLAGE BETONS,BE,Belgium,beneficiary,,,,,,,,,False
+Calcaires de la Sambre,BE,Belgium,beneficiary,,,,,,,,,False
+BRASSERIE LEFEBVRE,BE,Belgium,beneficiary,,,,,,,,,False
+MOTTRIX snc,BE,Belgium,beneficiary,,,,,,,,,False
+GROUP TECHNOCHIM EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+BIOXODES,BE,Belgium,beneficiary,,,,,,,,,False
+GALVA POWER GROUP SA,BE,Belgium,beneficiary,,,,,,,,,False
+FOOD INGREDIENTS TECHNOLOGIES,BE,Belgium,beneficiary,,,,,,,,,False
+LESCAV,BE,Belgium,beneficiary,,,,,,,,,False
+BIO-CLIMAT CONSTRUCT,BE,Belgium,beneficiary,,,,,,,,,False
+FLOWTRONIC SA en abrégé FLOW-TRONIC,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERES DE LA PREALLE,BE,Belgium,beneficiary,,,,,,,,,False
+DEFITEC,BE,Belgium,beneficiary,,,,,,,,,False
+Les Ateliers de la Meuse,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL Tramway Touristique de l'Aisne,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ESSERS LOGISTICS COMPANY,BE,Belgium,beneficiary,,,,,,,,,False
+SERVICES PROSPECTIONS VENTES,BE,Belgium,beneficiary,,,,,,,,,False
+FACYBEL,BE,Belgium,beneficiary,,,,,,,,,False
+D-LINEO,BE,Belgium,beneficiary,,,,,,,,,False
+ARPADIS MANAGE SA,BE,Belgium,beneficiary,,,,,,,,,False
+CARDONE INDUSTRIES EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+TOOLTECH,BE,Belgium,beneficiary,,,,,,,,,False
+Les Vergers du Vieux Tauves,BE,Belgium,beneficiary,,,,,,,,,False
+STABILAME,BE,Belgium,beneficiary,,,,,,,,,False
+Général Décoration,BE,Belgium,beneficiary,,,,,,,,,False
+ioteo,BE,Belgium,beneficiary,,,,,,,,,False
+SOCIETE BELGE D'INFORMATIQUE MEDICALE,BE,Belgium,beneficiary,,,,,,,,,False
+GREEN PROPULSION,BE,Belgium,beneficiary,,,,,,,,,False
+CENTRE TERRE ET PIERRE,BE,Belgium,beneficiary,,,,,,,,,False
+ARSALIS,BE,Belgium,beneficiary,,,,,,,,,False
+STEVENS & CIE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ABA RECYCLING,BE,Belgium,beneficiary,,,,,,,,,False
+ITEOS,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL Musées et Société en Wallonie,BE,Belgium,beneficiary,,,,,,,,,False
+PRODUCTION INDUSTRIELLE PHIL DESIGN STUDIO,BE,Belgium,beneficiary,,,,,,,,,False
+CARDEM,BE,Belgium,beneficiary,,,,,,,,,False
+TOITURES LUC DELHEZ,BE,Belgium,beneficiary,,,,,,,,,False
+WALLONIE AEROTRAINING NETWORK,BE,Belgium,beneficiary,,,,,,,,,False
+PLASTIQUAL,BE,Belgium,beneficiary,,,,,,,,,False
+HP MANAGEMENT & CONSULTING,BE,Belgium,beneficiary,,,,,,,,,False
+CABINET DOCTEUR XAVIER JACBS,BE,Belgium,beneficiary,,,,,,,,,False
+BIZZDEV,BE,Belgium,beneficiary,,,,,,,,,False
+MASTHERCELL,BE,Belgium,beneficiary,,,,,,,,,False
+CONTINENTAL BAKERIES BELGIUM SA (anciennement THE RICE CAKE FACTORY),BE,Belgium,beneficiary,,,,,,,,,False
+INTERSYSTO,BE,Belgium,beneficiary,,,,,,,,,False
+SA INNODEM2,BE,Belgium,beneficiary,,,,,,,,,False
+QUINTENS BAKERIES SA,BE,Belgium,beneficiary,,,,,,,,,False
+OVIZIO IMAGING SYSTEMS,BE,Belgium,beneficiary,,,,,,,,,False
+MENUISERIE ADELAIRE MARCEL,BE,Belgium,beneficiary,,,,,,,,,False
+PRO - SYSTEMA,BE,Belgium,beneficiary,,,,,,,,,False
+TWIN DEVELOPMENT,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. DOW CORNING,BE,Belgium,beneficiary,,,,,,,,,False
+OVOGENICS,BE,Belgium,beneficiary,,,,,,,,,False
+SA Selligent,BE,Belgium,beneficiary,,,,,,,,,False
+KOPO,BE,Belgium,beneficiary,,,,,,,,,False
+BIOSOURCE EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements HENROTTE,BE,Belgium,beneficiary,,,,,,,,,False
+Brasserie Dubuisson fréres,BE,Belgium,beneficiary,,,,,,,,,False
+SAGITA,BE,Belgium,beneficiary,,,,,,,,,False
+IPRATECH,BE,Belgium,beneficiary,,,,,,,,,False
+Aepodia,BE,Belgium,beneficiary,,,,,,,,,False
+ILOOOVE.IT,BE,Belgium,beneficiary,,,,,,,,,False
+QUALITY ASSISTANCE SA,BE,Belgium,beneficiary,,,,,,,,,False
+CMI,BE,Belgium,beneficiary,,,,,,,,,False
+Mill Valley SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+B.K.S.,BE,Belgium,beneficiary,,,,,,,,,False
+O.COM,BE,Belgium,beneficiary,,,,,,,,,False
+CHALLENGE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. LESSINES INDUSTRY,BE,Belgium,beneficiary,,,,,,,,,False
+MG CONSULTANTS,BE,Belgium,beneficiary,,,,,,,,,False
+H & M HENNES,BE,Belgium,beneficiary,,,,,,,,,False
+MICHEL AUGHUET SYNTHETIC TECHNOLOGIES (MAST),BE,Belgium,beneficiary,,,,,,,,,False
+AGROMYL,BE,Belgium,beneficiary,,,,,,,,,False
+CERATEC ELECTROTECHNICS SA,BE,Belgium,beneficiary,,,,,,,,,False
+ART BOIS ETALLE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. BRIDGESTONE AIRCRAFT TIRE (EUROPE),BE,Belgium,beneficiary,,,,,,,,,False
+V2l,BE,Belgium,beneficiary,,,,,,,,,False
+ULB,BE,Belgium,beneficiary,,,,,,,,,False
+Recytex Europe,BE,Belgium,beneficiary,,,,,,,,,False
+STI Consult,BE,Belgium,beneficiary,,,,,,,,,False
+CHAUFF' ET VOUS,BE,Belgium,beneficiary,,,,,,,,,False
+CREACTION,BE,Belgium,beneficiary,,,,,,,,,False
+Brasserie Mynsbrughen et de Silly,BE,Belgium,beneficiary,,,,,,,,,False
+CITW,BE,Belgium,beneficiary,,,,,,,,,False
+EPUR,BE,Belgium,beneficiary,,,,,,,,,False
+CREATIVE CARBON CYCLE,BE,Belgium,beneficiary,,,,,,,,,False
+ULG (anciennement FUSAGx Unité de Technologie des Industries Agroalimentaires),BE,Belgium,beneficiary,,,,,,,,,False
+ALLOYS FOR TECHNICAL APPLICATONS,BE,Belgium,beneficiary,,,,,,,,,False
+SOMIVANE,BE,Belgium,beneficiary,,,,,,,,,False
+C.E. T. TECHNICS,BE,Belgium,beneficiary,,,,,,,,,False
+ALTER ENERGY,BE,Belgium,beneficiary,,,,,,,,,False
+ZENTECH,BE,Belgium,beneficiary,,,,,,,,,False
+CLIMATECH INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+DUMOULIN SA DEVELOPPEMENT EXPERIMENTAL,BE,Belgium,beneficiary,,,,,,,,,False
+RECOVAL BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+Mica Systems,BE,Belgium,beneficiary,,,,,,,,,False
+SolAZ,BE,Belgium,beneficiary,,,,,,,,,False
+Grando,BE,Belgium,beneficiary,,,,,,,,,False
+Sirris,BE,Belgium,beneficiary,,,,,,,,,False
+COMET TRAITEMENTS,BE,Belgium,beneficiary,,,,,,,,,False
+SYNOLYNE PHARMA,BE,Belgium,beneficiary,,,,,,,,,False
+LASER ENGINEERING APPLICATIONS SA,BE,Belgium,beneficiary,,,,,,,,,False
+VENTFIELD INDUSTRIES SA,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Jarilux,BE,Belgium,beneficiary,,,,,,,,,False
+Le FOREM,BE,Belgium,beneficiary,,,,,,,,,False
+SUPERDYE,BE,Belgium,beneficiary,,,,,,,,,False
+EYEPEA,BE,Belgium,beneficiary,,,,,,,,,False
+POLYMEDIS SA,BE,Belgium,beneficiary,,,,,,,,,False
+ACIC,BE,Belgium,beneficiary,,,,,,,,,False
+M.I.M.S.,BE,Belgium,beneficiary,,,,,,,,,False
+CHACON,BE,Belgium,beneficiary,,,,,,,,,False
+INTOPIX,BE,Belgium,beneficiary,,,,,,,,,False
+PAILLE TECH,BE,Belgium,beneficiary,,,,,,,,,False
+EVS BROADCAST SA,BE,Belgium,beneficiary,,,,,,,,,False
+SA Bouchons Leclerq et Fils,BE,Belgium,beneficiary,,,,,,,,,False
+MeterBuy,BE,Belgium,beneficiary,,,,,,,,,False
+LAMBDA - X,BE,Belgium,beneficiary,,,,,,,,,False
+X - PACK,BE,Belgium,beneficiary,,,,,,,,,False
+CoRI,BE,Belgium,beneficiary,,,,,,,,,False
+MECATECH,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. FISHING CACTUS,BE,Belgium,beneficiary,,,,,,,,,False
+Menuiserie DAUSSAINT,BE,Belgium,beneficiary,,,,,,,,,False
+G H L - GROUPE,BE,Belgium,beneficiary,,,,,,,,,False
+ASSOCIATION INFORMATIQUE POUR LA GESTION DULOGEMENT SOCIAL,BE,Belgium,beneficiary,,,,,,,,,False
+ALTISSIA International,BE,Belgium,beneficiary,,,,,,,,,False
+ORTHODYNE,BE,Belgium,beneficiary,,,,,,,,,False
+Multitel,BE,Belgium,beneficiary,,,,,,,,,False
+BELVAS,BE,Belgium,beneficiary,,,,,,,,,False
+CHANVRECO,BE,Belgium,beneficiary,,,,,,,,,False
+NEW BARON & LEVEQUE EAST,BE,Belgium,beneficiary,,,,,,,,,False
+CE+T,BE,Belgium,beneficiary,,,,,,,,,False
+ARDOISIERES D'HERBEUMONT,BE,Belgium,beneficiary,,,,,,,,,False
+DYNAR DESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+FOOD PARTNERS CO,BE,Belgium,beneficiary,,,,,,,,,False
+C.A.S.Q.C. SA,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. UNIVAR BLANDAIN,BE,Belgium,beneficiary,,,,,,,,,False
+Cafés Liégeois,BE,Belgium,beneficiary,,,,,,,,,False
+QUALIFIED AUDIT PARTNERS,BE,Belgium,beneficiary,,,,,,,,,False
+NEW SOKAO,BE,Belgium,beneficiary,,,,,,,,,False
+ORILAM DESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+TRASIS,BE,Belgium,beneficiary,,,,,,,,,False
+SRWT (Société Régionale Wallonne des Transports),BE,Belgium,beneficiary,,,,,,,,,False
+S.A. VIRIDAXIS,BE,Belgium,beneficiary,,,,,,,,,False
+Coopérative de l'Yerne,BE,Belgium,beneficiary,,,,,,,,,False
+DELTATEC,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ECOPLAST TECHNOLOGY (CONV 102299),BE,Belgium,beneficiary,,,,,,,,,False
+S.A. FLY HOTEL,BE,Belgium,beneficiary,,,,,,,,,False
+Flexiways,BE,Belgium,beneficiary,,,,,,,,,False
+Le PASS,BE,Belgium,beneficiary,,,,,,,,,False
+ELECTRONIC SYSTEMS DESIGN,BE,Belgium,beneficiary,,,,,,,,,False
+IDELUX,BE,Belgium,beneficiary,,,,,,,,,False
+DESSERT FACTORY,BE,Belgium,beneficiary,,,,,,,,,False
+FARNELL ELECTRONIC COMPONENTS LTD,BE,Belgium,beneficiary,,,,,,,,,False
+WASTE OIL SERVICES HAUTRAGE,BE,Belgium,beneficiary,,,,,,,,,False
+BIOHAINAUT,BE,Belgium,beneficiary,,,,,,,,,False
+Marcel HALLOIN,BE,Belgium,beneficiary,,,,,,,,,False
+GALACTIC SA,BE,Belgium,beneficiary,,,,,,,,,False
+ULG,BE,Belgium,beneficiary,,,,,,,,,False
+VECTURIS,BE,Belgium,beneficiary,,,,,,,,,False
+VENYO,BE,Belgium,beneficiary,,,,,,,,,False
+COSELOG,BE,Belgium,beneficiary,,,,,,,,,False
+Stallbois,BE,Belgium,beneficiary,,,,,,,,,False
+SCE Immobilière,BE,Belgium,beneficiary,,,,,,,,,False
+ACCES ECHAFAUDAGE,BE,Belgium,beneficiary,,,,,,,,,False
+LE CONDITIONNEMENT BELGE,BE,Belgium,beneficiary,,,,,,,,,False
+TRYAL INV.,BE,Belgium,beneficiary,,,,,,,,,False
+RADERMACHER DISTILLERIE,BE,Belgium,beneficiary,,,,,,,,,False
+Microcyc,BE,Belgium,beneficiary,,,,,,,,,False
+4 Mobility Urban Security Traffic (4MUST) ,BE,Belgium,beneficiary,,,,,,,,,False
+MEGAMAX SA,BE,Belgium,beneficiary,,,,,,,,,False
+PROGENOSIS,BE,Belgium,beneficiary,,,,,,,,,False
+DESOBRY,BE,Belgium,beneficiary,,,,,,,,,False
+CSP BENELUX SA,BE,Belgium,beneficiary,,,,,,,,,False
+AE VALVES,BE,Belgium,beneficiary,,,,,,,,,False
+GRAPHIL,BE,Belgium,beneficiary,,,,,,,,,False
+POLYMAR,BE,Belgium,beneficiary,,,,,,,,,False
+CORIS BIOCONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+REDDY,BE,Belgium,beneficiary,,,,,,,,,False
+ENTREPRISES DE MONTAGES EN GENERAL JEAN BOUTIQUE SA,BE,Belgium,beneficiary,,,,,,,,,False
+PROSOPON EDITIONS,BE,Belgium,beneficiary,,,,,,,,,False
+Caulier developpement s.a,BE,Belgium,beneficiary,,,,,,,,,False
+BUREAU D'ETUDES GREISCH,BE,Belgium,beneficiary,,,,,,,,,False
+GREENWATT,BE,Belgium,beneficiary,,,,,,,,,False
+E-Protein,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. WALCODIS (CONV 101484),BE,Belgium,beneficiary,,,,,,,,,False
+Géo modul'air,BE,Belgium,beneficiary,,,,,,,,,False
+SYMBIOSE BIOMATERIALS,BE,Belgium,beneficiary,,,,,,,,,False
+SICAFI,BE,Belgium,beneficiary,,,,,,,,,False
+MESSIO,BE,Belgium,beneficiary,,,,,,,,,False
+BELGOREX,BE,Belgium,beneficiary,,,,,,,,,False
+LAMBDA - PLUS,BE,Belgium,beneficiary,,,,,,,,,False
+PSYCHOMED.COM,BE,Belgium,beneficiary,,,,,,,,,False
+SYREG,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. LVH INDUSTRY,BE,Belgium,beneficiary,,,,,,,,,False
+Uniteq,BE,Belgium,beneficiary,,,,,,,,,False
+HUTRADE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ALMECO,BE,Belgium,beneficiary,,,,,,,,,False
+Jacques TILMAN,BE,Belgium,beneficiary,,,,,,,,,False
+MAN-TO-TREE,BE,Belgium,beneficiary,,,,,,,,,False
+MARKET - IP,BE,Belgium,beneficiary,,,,,,,,,False
+Metal Deploye Belge,BE,Belgium,beneficiary,,,,,,,,,False
+ROLPH & ROLPH,BE,Belgium,beneficiary,,,,,,,,,False
+LEXIAGO,BE,Belgium,beneficiary,,,,,,,,,False
+ATELIER THEO BOVEROUX,BE,Belgium,beneficiary,,,,,,,,,False
+PENNEL & FLIPO SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+TEMAPAIN,BE,Belgium,beneficiary,,,,,,,,,False
+HLO,BE,Belgium,beneficiary,,,,,,,,,False
+SPW - DG01,BE,Belgium,beneficiary,,,,,,,,,False
+BUREAU D'ETUDES LEMAIRE,BE,Belgium,beneficiary,,,,,,,,,False
+ATELIERS MARCEL LAMBERT SA,BE,Belgium,beneficiary,,,,,,,,,False
+DELTA DIFFUSION,BE,Belgium,beneficiary,,,,,,,,,False
+ELEONOR,BE,Belgium,beneficiary,,,,,,,,,False
+POMMEE,BE,Belgium,beneficiary,,,,,,,,,False
+MT CONSULTING,BE,Belgium,beneficiary,,,,,,,,,False
+PRECIS SELECT,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERES DE PREALLE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. QUALITY ASSISTANCE,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERES ET ENTREPRISES BODARWE ET FILS SA,BE,Belgium,beneficiary,,,,,,,,,False
+DEQUENNE CHIMIE,BE,Belgium,beneficiary,,,,,,,,,False
+Wirtschaftsförderungsgesells chaft Ostbelgien,BE,Belgium,beneficiary,,,,,,,,,False
+Broyeurs Soudron-Sacre,BE,Belgium,beneficiary,,,,,,,,,False
+RA CONCEPT,BE,Belgium,beneficiary,,,,,,,,,False
+LA BIOSPHERE,BE,Belgium,beneficiary,,,,,,,,,False
+SCIPION,BE,Belgium,beneficiary,,,,,,,,,False
+ALTERNATECH,BE,Belgium,beneficiary,,,,,,,,,False
+MOLIERE ET COMPAGNIE,BE,Belgium,beneficiary,,,,,,,,,False
+DEQUENNE CHIMIE SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+D VIN,BE,Belgium,beneficiary,,,,,,,,,False
+Anciens Etablissements Yvens Decroupet,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ALYSSE FOOD,BE,Belgium,beneficiary,,,,,,,,,False
+CARDIO3 BIOSCIENCES,BE,Belgium,beneficiary,,,,,,,,,False
+DOOSAN INFRACORE EUROPE SA,BE,Belgium,beneficiary,,,,,,,,,False
+NOVALON,BE,Belgium,beneficiary,,,,,,,,,False
+Colin-Desreumaux,BE,Belgium,beneficiary,,,,,,,,,False
+TECHNIFUTUR,BE,Belgium,beneficiary,,,,,,,,,False
+KITOZYME SA,BE,Belgium,beneficiary,,,,,,,,,False
+THE GREEN KOW Company,BE,Belgium,beneficiary,,,,,,,,,False
+LASER COATING DIAMOND TECHNOLOGY SA,BE,Belgium,beneficiary,,,,,,,,,False
+HERBALGEM,BE,Belgium,beneficiary,,,,,,,,,False
+PREFABRICATIONS ET FERRAILLAGES ,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. JTEKT TORSEN EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+SPI- Services Promotion Initiatives en Province de Liège,BE,Belgium,beneficiary,,,,,,,,,False
+MULTIMEDIA TRADING INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+ODYSSEA PHARMA,BE,Belgium,beneficiary,,,,,,,,,False
+ALTERNATIVE BUSINESS CENTE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. H.E.R.O.N.,BE,Belgium,beneficiary,,,,,,,,,False
+CARAH,BE,Belgium,beneficiary,,,,,,,,,False
+SOCIETE BELGE D'INFORMATIQUE MEDICALE ,BE,Belgium,beneficiary,,,,,,,,,False
+Selecta,BE,Belgium,beneficiary,,,,,,,,,False
+ABRASIVE TRADING INVEST SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+GRAFE LECOCQ ET FILS,BE,Belgium,beneficiary,,,,,,,,,False
+NEOVECTIS,BE,Belgium,beneficiary,,,,,,,,,False
+LESSINES INDUSTRIES,BE,Belgium,beneficiary,,,,,,,,,False
+"Fédération Wallonie-Bruxelles, DG Enseignement obligatoire",BE,Belgium,beneficiary,,,,,,,,,False
+TPMS BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+FISHING CACTUS,BE,Belgium,beneficiary,,,,,,,,,False
+IP Trade,BE,Belgium,beneficiary,,,,,,,,,False
+CE+T - CONSTRUCTIONS ELECTRONIQUES + TELECOMMUNICATIONS,BE,Belgium,beneficiary,,,,,,,,,False
+LIEGE AIR CARGO SA,BE,Belgium,beneficiary,,,,,,,,,False
+Progrescom,BE,Belgium,beneficiary,,,,,,,,,False
+CENTRE DE RECHERCHES ET DE NOUVELLES APPLICATIONS SA (C.R.N.A.),BE,Belgium,beneficiary,,,,,,,,,False
+POLMANS,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. BELREF REFRACTORIES,BE,Belgium,beneficiary,,,,,,,,,False
+MATHONET - GABRIEL,BE,Belgium,beneficiary,,,,,,,,,False
+PROGRESS,BE,Belgium,beneficiary,,,,,,,,,False
+S & D Tech.,BE,Belgium,beneficiary,,,,,,,,,False
+BUSINESS SOLUTIONS BUILDERS (Belgium) SA ,BE,Belgium,beneficiary,,,,,,,,,False
+REFRACTORY PARTNERS,BE,Belgium,beneficiary,,,,,,,,,False
+Ets BISTER,BE,Belgium,beneficiary,,,,,,,,,False
+BIORTIES,BE,Belgium,beneficiary,,,,,,,,,False
+NANO4,BE,Belgium,beneficiary,,,,,,,,,False
+RVC,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL Pays de Famenne,BE,Belgium,beneficiary,,,,,,,,,False
+CS ENGINEERING SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+SYSPEO International,BE,Belgium,beneficiary,,,,,,,,,False
+MITRA INNOVATIONS,BE,Belgium,beneficiary,,,,,,,,,False
+SOCIETE BELGE DE MATERIAUX COMPOSITES,BE,Belgium,beneficiary,,,,,,,,,False
+SIGNAL ENGINEERING AND ELECTRONICS,BE,Belgium,beneficiary,,,,,,,,,False
+STOW INTERNATIONAL SA,BE,Belgium,beneficiary,,,,,,,,,False
+Taipro Engineering,BE,Belgium,beneficiary,,,,,,,,,False
+EUROCOVER,BE,Belgium,beneficiary,,,,,,,,,False
+ELIOSYS,BE,Belgium,beneficiary,,,,,,,,,False
+Bos International,BE,Belgium,beneficiary,,,,,,,,,False
+BELGIAN VOLITION,BE,Belgium,beneficiary,,,,,,,,,False
+A. LANDGRAF,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ETS GAUME,BE,Belgium,beneficiary,,,,,,,,,False
+SYNE,BE,Belgium,beneficiary,,,,,,,,,False
+Techno.bel,BE,Belgium,beneficiary,,,,,,,,,False
+TABLE TENNIS RUBBER FIXING BELGIUM,BE,Belgium,beneficiary,,,,,,,,,False
+LASERSPEC,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. SOLARIS PAC,BE,Belgium,beneficiary,,,,,,,,,False
+Les Lacs de l'Eau d'Heure,BE,Belgium,beneficiary,,,,,,,,,False
+IOL,BE,Belgium,beneficiary,,,,,,,,,False
+CRITERE,BE,Belgium,beneficiary,,,,,,,,,False
+IONICS,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L. TF CO,BE,Belgium,beneficiary,,,,,,,,,False
+THERMO 2000,BE,Belgium,beneficiary,,,,,,,,,False
+La Comète,BE,Belgium,beneficiary,,,,,,,,,False
+KINGSPAN DOOR COMPONENTS SA,BE,Belgium,beneficiary,,,,,,,,,False
+SGTC - Société Générale de Technique et de Commerce,BE,Belgium,beneficiary,,,,,,,,,False
+Port Autonome du Centre et de l'Ouest,BE,Belgium,beneficiary,,,,,,,,,False
+G.I.E. WALCHANVRE,BE,Belgium,beneficiary,,,,,,,,,False
+WATERPRO,BE,Belgium,beneficiary,,,,,,,,,False
+Belvas,BE,Belgium,beneficiary,,,,,,,,,False
+Spechim,BE,Belgium,beneficiary,,,,,,,,,False
+SPW - DG02,BE,Belgium,beneficiary,,,,,,,,,False
+Société civile d'architectes helium3 SCRL ,BE,Belgium,beneficiary,,,,,,,,,False
+ADVANCED COATING,BE,Belgium,beneficiary,,,,,,,,,False
+H.P. LINDEN,BE,Belgium,beneficiary,,,,,,,,,False
+GARNIMETAL,BE,Belgium,beneficiary,,,,,,,,,False
+DNAlytics,BE,Belgium,beneficiary,,,,,,,,,False
+Société Technique des Echange urs de Chaleur,BE,Belgium,beneficiary,,,,,,,,,False
+IsoHemp,BE,Belgium,beneficiary,,,,,,,,,False
+ATELIERS HUBERT GERKEN,BE,Belgium,beneficiary,,,,,,,,,False
+ADVACHEM,BE,Belgium,beneficiary,,,,,,,,,False
+SA Grando,BE,Belgium,beneficiary,,,,,,,,,False
+PLASTIFLAC-LEJEUNE,BE,Belgium,beneficiary,,,,,,,,,False
+TECHNICHEM,BE,Belgium,beneficiary,,,,,,,,,False
+Tech4Rail,BE,Belgium,beneficiary,,,,,,,,,False
+CALYOS,BE,Belgium,beneficiary,,,,,,,,,False
+ALC TOURNAI SA,BE,Belgium,beneficiary,,,,,,,,,False
+CARLOR ENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+OXYLENT,BE,Belgium,beneficiary,,,,,,,,,False
+SEDIS LOGISTICS,BE,Belgium,beneficiary,,,,,,,,,False
+AZIMUT,BE,Belgium,beneficiary,,,,,,,,,False
+ROOSENS BETONS,BE,Belgium,beneficiary,,,,,,,,,False
+DOTHEE,BE,Belgium,beneficiary,,,,,,,,,False
+DENORME ENERGY SYSTEM,BE,Belgium,beneficiary,,,,,,,,,False
+Affinerie de la Meuse,BE,Belgium,beneficiary,,,,,,,,,False
+FERMENTED PRODUCT PARTNE,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. SolAZ,BE,Belgium,beneficiary,,,,,,,,,False
+Ateliers ROGER PONCIN,BE,Belgium,beneficiary,,,,,,,,,False
+PLANETE DIGITALE,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERE DE VINALMONT,BE,Belgium,beneficiary,,,,,,,,,False
+AMPI,BE,Belgium,beneficiary,,,,,,,,,False
+POLYMER CONTRACTORS FELUY SA,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. MECAR,BE,Belgium,beneficiary,,,,,,,,,False
+VINCIT,BE,Belgium,beneficiary,,,,,,,,,False
+FONDERIE ET MECANIQUE DE LA SAMBRE,BE,Belgium,beneficiary,,,,,,,,,False
+PIERRET EXTRUSION,BE,Belgium,beneficiary,,,,,,,,,False
+ECO PRINTS,BE,Belgium,beneficiary,,,,,,,,,False
+DEVAS,BE,Belgium,beneficiary,,,,,,,,,False
+STX-Med,BE,Belgium,beneficiary,,,,,,,,,False
+N.T.,BE,Belgium,beneficiary,,,,,,,,,False
+DUMOULIN SA,BE,Belgium,beneficiary,,,,,,,,,False
+BiiON,BE,Belgium,beneficiary,,,,,,,,,False
+Bodart et Gonay,BE,Belgium,beneficiary,,,,,,,,,False
+DELPHI GENETICS,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. FACOLOG (CONV 92298),BE,Belgium,beneficiary,,,,,,,,,False
+ECOGITO MEDICAL,BE,Belgium,beneficiary,,,,,,,,,False
+BIOAWARE,BE,Belgium,beneficiary,,,,,,,,,False
+Sucrerie Couplet,BE,Belgium,beneficiary,,,,,,,,,False
+EUROGEMA,BE,Belgium,beneficiary,,,,,,,,,False
+TAXUSHARVEST,BE,Belgium,beneficiary,,,,,,,,,False
+NUTRI HEALTH,BE,Belgium,beneficiary,,,,,,,,,False
+STOCKHABO SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+Office de Promotion du Tourisme de Wallonie et de Bruxelles ASBL (OPT),BE,Belgium,beneficiary,,,,,,,,,False
+IFAPME,BE,Belgium,beneficiary,,,,,,,,,False
+PROBIOX,BE,Belgium,beneficiary,,,,,,,,,False
+Office de Promotion du Tourisme de Wallonie et de Bruxelles ASBL,BE,Belgium,beneficiary,,,,,,,,,False
+CILBiotech,BE,Belgium,beneficiary,,,,,,,,,False
+ANALIS,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L. D39S,BE,Belgium,beneficiary,,,,,,,,,False
+Ecolair SA,BE,Belgium,beneficiary,,,,,,,,,False
+REALCO,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. ELIOSYS,BE,Belgium,beneficiary,,,,,,,,,False
+TRADECOWALL,BE,Belgium,beneficiary,,,,,,,,,False
+Menuiserie Olivier,BE,Belgium,beneficiary,,,,,,,,,False
+DEXSIL LABS,BE,Belgium,beneficiary,,,,,,,,,False
+BOS INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+ECOPLAST TECHNOLOGY SA,BE,Belgium,beneficiary,,,,,,,,,False
+IPW,BE,Belgium,beneficiary,,,,,,,,,False
+L'ARTISANE FOOD,BE,Belgium,beneficiary,,,,,,,,,False
+SPW - DGO2,BE,Belgium,beneficiary,,,,,,,,,False
+VALADIS,BE,Belgium,beneficiary,,,,,,,,,False
+MULTICOLORE,BE,Belgium,beneficiary,,,,,,,,,False
+MATHY-BY-BOLS,BE,Belgium,beneficiary,,,,,,,,,False
+SA IMBC Convergence,BE,Belgium,beneficiary,,,,,,,,,False
+TECONEX sa,BE,Belgium,beneficiary,,,,,,,,,False
+BHC,BE,Belgium,beneficiary,,,,,,,,,False
+RFIDEA,BE,Belgium,beneficiary,,,,,,,,,False
+NIEZEN,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. GALACTIC (CONV 91352),BE,Belgium,beneficiary,,,,,,,,,False
+CLEVERGAS HOLDING,BE,Belgium,beneficiary,,,,,,,,,False
+Advanced Developments in Electronics and Software,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements Robert Stiernon,BE,Belgium,beneficiary,,,,,,,,,False
+IRE ELiT,BE,Belgium,beneficiary,,,,,,,,,False
+PH. DEPUYDT CONSULTING AN ENGINEERING ,BE,Belgium,beneficiary,,,,,,,,,False
+PACARBEL,BE,Belgium,beneficiary,,,,,,,,,False
+BODAIR,BE,Belgium,beneficiary,,,,,,,,,False
+LE BANANIE,BE,Belgium,beneficiary,,,,,,,,,False
+ASSISTANCE DETECTION IMAGES INDUSTRIAL SERVICES,BE,Belgium,beneficiary,,,,,,,,,False
+PBHTCS - GROUPEMENT D'INTERET ECONOMIQUE,BE,Belgium,beneficiary,,,,,,,,,False
+ERC Belgium,BE,Belgium,beneficiary,,,,,,,,,False
+ARTIALIS,BE,Belgium,beneficiary,,,,,,,,,False
+Usines et Carrières Ernest Lebailly,BE,Belgium,beneficiary,,,,,,,,,False
+CIDE/SOCRAN,BE,Belgium,beneficiary,,,,,,,,,False
+SA WAPICARIS,BE,Belgium,beneficiary,,,,,,,,,False
+WEBVEILLE,BE,Belgium,beneficiary,,,,,,,,,False
+ECOPLAST TECHNOLOGY,BE,Belgium,beneficiary,,,,,,,,,False
+S.P.R.L.U. SPEDIMEX,BE,Belgium,beneficiary,,,,,,,,,False
+SCRL Syne,BE,Belgium,beneficiary,,,,,,,,,False
+PROMETHERA BIOSCIENCES,BE,Belgium,beneficiary,,,,,,,,,False
+H.O.P.,BE,Belgium,beneficiary,,,,,,,,,False
+FILAME BRUSSELS,BE,Belgium,beneficiary,,,,,,,,,False
+ISSOL,BE,Belgium,beneficiary,,,,,,,,,False
+MARC LESEUR,BE,Belgium,beneficiary,,,,,,,,,False
+TAGEXPERT,BE,Belgium,beneficiary,,,,,,,,,False
+DELEYE PRODUCTS SA,BE,Belgium,beneficiary,,,,,,,,,False
+NANOCYL,BE,Belgium,beneficiary,,,,,,,,,False
+BLANCHISSERIE DUMOULIN SA,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. LASER ENGINEERING APPLICATIONS,BE,Belgium,beneficiary,,,,,,,,,False
+ROCHESTER GAUGES INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+GIE EDOSERVE,BE,Belgium,beneficiary,,,,,,,,,False
+Province de Hainaut,BE,Belgium,beneficiary,,,,,,,,,False
+FONDERIES MARICHAL KETIN SA,BE,Belgium,beneficiary,,,,,,,,,False
+PROPHAREX,BE,Belgium,beneficiary,,,,,,,,,False
+MENUISERIE E.M.A.C.,BE,Belgium,beneficiary,,,,,,,,,False
+CARRIERE DE LA HAZOTTE - H. VERHOEVEN,BE,Belgium,beneficiary,,,,,,,,,False
+BEPN,BE,Belgium,beneficiary,,,,,,,,,False
+FEMAGSOFT,BE,Belgium,beneficiary,,,,,,,,,False
+Scaldis Saint-Martin,BE,Belgium,beneficiary,,,,,,,,,False
+ISOMATEX,BE,Belgium,beneficiary,,,,,,,,,False
+UMONS,BE,Belgium,beneficiary,,,,,,,,,False
+Erich MEYER - GILLESSEN,BE,Belgium,beneficiary,,,,,,,,,False
+Exdere,BE,Belgium,beneficiary,,,,,,,,,False
+Chaque école sélectionnée dans le cadre de l'appel à projets annuels,BE,Belgium,beneficiary,,,,,,,,,False
+COSMIK,BE,Belgium,beneficiary,,,,,,,,,False
+MICROMEGA - DYNAMICS,BE,Belgium,beneficiary,,,,,,,,,False
+CHIMAY DEVELOPPEMENT EXPERIMENTAL,BE,Belgium,beneficiary,,,,,,,,,False
+COENE,BE,Belgium,beneficiary,,,,,,,,,False
+ASBL Attractions et Tourisme,BE,Belgium,beneficiary,,,,,,,,,False
+E-XSTREAM ENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+Franz Jost,BE,Belgium,beneficiary,,,,,,,,,False
+AVA INDUSTRIALS,BE,Belgium,beneficiary,,,,,,,,,False
+POOL COVER,BE,Belgium,beneficiary,,,,,,,,,False
+ACAPELA GROUP BABEL TECHNOLOGIES,BE,Belgium,beneficiary,,,,,,,,,False
+KOLLECTOR,BE,Belgium,beneficiary,,,,,,,,,False
+DIASOURCE IMMUNOASSAYS,BE,Belgium,beneficiary,,,,,,,,,False
+KNAUF INSULATION SPRL,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. DUMOULIN-COMINES,BE,Belgium,beneficiary,,,,,,,,,False
+xFflexX,BE,Belgium,beneficiary,,,,,,,,,False
+EURO ROAD PROFESSIONNAL CLEANING,BE,Belgium,beneficiary,,,,,,,,,False
+CASTEL ENGINEERING,BE,Belgium,beneficiary,,,,,,,,,False
+CCIH,BE,Belgium,beneficiary,,,,,,,,,False
+Mahusaca,BE,Belgium,beneficiary,,,,,,,,,False
+LANGE CHRISTIAN,BE,Belgium,beneficiary,,,,,,,,,False
+Capaul,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. VANDEMOORTELE SENEFFE,BE,Belgium,beneficiary,,,,,,,,,False
+SIRRIS,BE,Belgium,beneficiary,,,,,,,,,False
+IDEVY,BE,Belgium,beneficiary,,,,,,,,,False
+EURO HEAT PIPES (EHP),BE,Belgium,beneficiary,,,,,,,,,False
+UNISENSOR,BE,Belgium,beneficiary,,,,,,,,,False
+ICOMS DETECTIONS,BE,Belgium,beneficiary,,,,,,,,,False
+Coris BioConcept,BE,Belgium,beneficiary,,,,,,,,,False
+EPOCAT,BE,Belgium,beneficiary,,,,,,,,,False
+ILLUBEL,BE,Belgium,beneficiary,,,,,,,,,False
+COLASSE SOFTWARE,BE,Belgium,beneficiary,,,,,,,,,False
+ARGIBAT,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. IKNOST,BE,Belgium,beneficiary,,,,,,,,,False
+LES CARRIERES DE LA PIERRE BLEUE BELGE ,BE,Belgium,beneficiary,,,,,,,,,False
+Technique Moderne du Plastic,BE,Belgium,beneficiary,,,,,,,,,False
+NOMICS,BE,Belgium,beneficiary,,,,,,,,,False
+AGC GLASS EUROPE,BE,Belgium,beneficiary,,,,,,,,,False
+Grandes Distilleries de Charleroi,BE,Belgium,beneficiary,,,,,,,,,False
+CHEMBO,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. PARC PARADISIO (CONV 92815),BE,Belgium,beneficiary,,,,,,,,,False
+Serviplast,BE,Belgium,beneficiary,,,,,,,,,False
+CASPIAN TRADITION,BE,Belgium,beneficiary,,,,,,,,,False
+GENVAL LES DAMES,BE,Belgium,beneficiary,,,,,,,,,False
+S.A. DEQUENNE CHIMIE,BE,Belgium,beneficiary,,,,,,,,,False
+ELIACE,BE,Belgium,beneficiary,,,,,,,,,False
+SEREL INDUSTRIE,BE,Belgium,beneficiary,,,,,,,,,False
+DIABETICOM,BE,Belgium,beneficiary,,,,,,,,,False
+PRECICAL,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements POLLET,BE,Belgium,beneficiary,,,,,,,,,False
+COOK'N FIT,BE,Belgium,beneficiary,,,,,,,,,False
+Repamine,BE,Belgium,beneficiary,,,,,,,,,False
+Etablissements VAN MELLO,BE,Belgium,beneficiary,,,,,,,,,False
+HERPI INTERNATIONAL,BE,Belgium,beneficiary,,,,,,,,,False
+CARROSSERIE DIVOY MICHAEL,BE,Belgium,beneficiary,,,,,,,,,False
+Chaque école sélectionnée dans le cadre de l'appel à projets annuel,BE,Belgium,beneficiary,,,,,,,,,False
+V.B.S.,BE,Belgium,beneficiary,,,,,,,,,False
+PIXANIMA,BE,Belgium,beneficiary,,,,,,,,,False
+SENIORIMMO,BE,Belgium,beneficiary,,,,,,,,,False
+VALORE,BE,Belgium,beneficiary,,,,,,,,,False
+BUSINESS PROJECTS SUPPORT PERATIONS,BE,Belgium,beneficiary,,,,,,,,,False
+InRadCo,BE,Belgium,beneficiary,,,,,,,,,False
+NEW LACHAUSSEE,BE,Belgium,beneficiary,,,,,,,,,False
+Pastificio della Mamma,BE,Belgium,beneficiary,,,,,,,,,False
+RENSONNET,BE,Belgium,beneficiary,,,,,,,,,False
+EURO PIECES DEPANNAGE,BE,Belgium,beneficiary,,,,,,,,,False
+EURESYS,BE,Belgium,beneficiary,,,,,,,,,False
+INISMa,BE,Belgium,beneficiary,,,,,,,,,False

@@ -1,0 +1,1 @@
+source ../1_db_cred.sh && psql -v filepath=$(PWD) -f 1_load.sql
