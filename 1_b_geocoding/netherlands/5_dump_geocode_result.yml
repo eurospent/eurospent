@@ -1,5 +1,0 @@
-base: ../5_dump_geocode_result.yml
-source:
-  resource: 5_dump_geocode_result.sql
-target:
-  resource: 5_geocode_result.csv

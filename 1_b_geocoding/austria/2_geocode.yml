@@ -1,5 +1,0 @@
-base: ../2_base_geocode.yml
-source:
-  resource: 2_query.sql
-target:
-  resource: 3_result.csv

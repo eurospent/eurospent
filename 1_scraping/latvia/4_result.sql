@@ -1,1 +1,0 @@
-SELECT * FROM lv_final;

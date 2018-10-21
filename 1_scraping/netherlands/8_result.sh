@@ -1,1 +1,0 @@
-source 5_local_db_cred.sh && psql -v filepath=$(PWD) -f 8_result.sql 

@@ -1,1 +1,0 @@
-SELECT * FROM final_with_geo;
